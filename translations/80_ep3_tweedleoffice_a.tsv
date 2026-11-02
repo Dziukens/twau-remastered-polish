@@ -1,0 +1,141 @@
+# Odcinek 3 - env_tweedleoffice cz. 1
+4d7d4b5df9	Ja, eee, widywałem pana, ale może pan nie pamiętać--
+d9b2146d2e	{ThinkingA}{body-SmokePocket}Wiesz, gdzie oni są?
+5cbf4432c6	{ThinkingB}{body-SmokePocket}Widziałeś gdzieś Crane'a?
+6ae04ce8a1	{DoubtfulA}{body-SmokePocket}Widziałeś, żeby przychodziła tu jakaś wiedźma?
+a311e45136	Na razie noc jest... spokojna.
+5e2678316e	[thinking of something sad]Poza tym...
+deb4186bb2	{NormalA}{body-Smoke}Gdzie jest ich biuro?
+1d706f32e9	[impatient] {AngryB}{body-SmokePocket}Muchołapie, {ThinkingA}{body-HandOnHipLeft}spieszę się.
+e59b4024d3	{DoubtfulA}{body-HandOnHipLeft}Może weźmiesz sobie wolny wieczór?
+cf800da082	[awkward]To miłe z pana strony, ale... nie mogę. Muszę jeszcze posprzątać ich biuro.
+b0f5dce4b8	{ThinkingB}{body-StandA}Jasne. [awkward] {ThinkingA}{body-SmokePocket}Dzięki.
+97b671c092	[conversational] Są dla mnie tacy mili, wie pan? Nie chciałbym tego zepsuć.
+5ff8fc8f1a	Byli tak uprzejmi, że zaproponowali mi tę pracę.
+82d33afbf5	Powiedzieli, że niedługo może dostanę podwyżkę.
+7f15a8a35b	[laughs] Och, Dum przyszedł z najzabawniejszym kawałem.
+09cc1ed509	Wiem, że ci goście potrafią się czasem wydawać... szorstcy, ale nie są tacy źli, jak się ich pozna.
+e6b0853d50	{AngryA}{body-X}Jak to, {AngryC}"pomagają"{AngryA} ludziom?{body-StandA}
+916aecbe05	[hesitant] A c-- A co j-- A co, jeśli się pan co do nich myli?
+6249c53da2	No bo, wie pan, jak się nad tym zastanowić, to nie różnicie się aż tak bardzo.
+1779b69019	Widzi pan, wiedziałem, że nic pan nie znajdzie. Nic interesującego, w każdym razie...
+047620be37	{ThinkingA}{body-HandOnHipLeft}Obchodzi ich tylko pomaganie{body-X} przestępcom.
+67f2db343d	{body-StandA}{AngryA}Nie bądź naiwny.{body-X} Naprawdę myślisz, że oni {DoubtfulA}"pomagają ludziom"?
+7f2644dc69	[angry]{AngryD}{body-Hips}Wyjaśnijmy sobie jedno:
+fcb1131540	[angry; hurt]{AngryD}Tak{AngryE}{body-Hips} myślisz?
+ece01e0810	[angry]{AngryD}{body-HandOnHipLeft}Nie wiesz, o czym{AngryE} mówisz.{AngryD}
+79fcaad89d	[irritated]{AngryB}{body-Pocket}Słuchaj, po prostu mi zaufaj. {ThinkingA}Tweedledee i Tweedledum nie są{AngryC}{body-ArmsOut} "mili", {NormalA}{body-StandA}nikomu nie "pomagają".{body-X}
+954669677c	{ThinkingA}{body-HandOnHipLeft}Chcesz wiedzieć, co to jest? {AngryA}To ich robota, jak zjawili się na pogrzebie Lily z pierdolonymi {AngryE}{body-StandA}strzelbami!
+4900fbb927	{ThinkingA}{body-Pocket}Jeszcze {DoubtfulA}nic nie znalazłem.
+165de758d7	{AngryC}{body-StandA}Po prostu-- {AngryA}...nie mieszaj się w to. {body-HandOnHipLeft}Mam robotę.
+1dbf7819bc	{NormalA}{body-StandA}Znajduję{AngryB}{body-X} wystarczająco dużo.
+b5e2e98939	{body-HandOnHipLeft}Takie jej włosy znaleźliśmy w{ThinkingA} Uroku Lily.
+62f1955297	[this is gross]Czyli Dee i Dum zdobywali włosy dla Crane'a i wysyłali je do niej?
+0fea4178be	{WorriedA}{body-StandA}To włosy Śnieżki.
+ace2ac1438	Och, dzień dobry... szeryfie Bigby! Miło-- Miło pana widzieć. [hesitant] Ja... nie wiem, czy pan mnie pamięta...
+5284d1e055	{ThinkingA}{body-X}["don't be silly"]Wiem, kim jesteś, Muchołapie. Pracujesz w Woodlands od...{ConfusedA}{body-ArmsOut} ilu to już lat?
+0652623cdd	{NormalA}[clearing throat cough]
+94a09469eb	{body-Pocket}Przepraszam.
+c25cc534ae	[small chuckle] Heh. Chyba straciłem rachubę.
+13e419e2ab	[humming "Froggy Went A-Courtin'"; slow pace]
+2d6792e5a5	[changing the subject]No więc... co pana tu sprowadza? Mogę w czymś pomóc?
+2ac08f9962	Pewnie to jakieś ściśle tajne sprawy rządowe, co?
+a808900d60	Przyszedł pan do któregoś z braci?
+8d6381a711	Prze-- Przepraszam! Nie-- Nie chciałem być wścibski.
+91273c8b9d	Ich-- Ich nie ma-- Nie ma ich teraz. [thinking] Nie wiem, kiedy wrócą.
+40cd98a5a9	Był pan umówiony?
+430834c687	Bo mogę pana wpuścić, jeśli chce pan poczekać.
+acf3d2748c	Dee czy Dum?
+8dd370d9d8	{NormalA}{body-SmokeHandOnHipLeft}Liczyłem, że porozmawiam z Dee albo Dumem.
+6478195fb7	Nie tutaj. Widziałem, jak wcześniej wychodził z Woodlands, ale nie powinienem mu przeszkadzać.
+32236d0b0a	Eee, nie znam jej imienia ani tego, gdzie mieszka. Czasem tylko podrzuca rzeczy dla braci... do dostarczenia.
+8056a54406	{ThinkingA}Do dostarczenia komu?
+ea9438f496	Eee, nie wiem, czasem, ale--
+09065a9a97	Nie... z tego, co wiem, nie mają stałych godzin. Przykro mi.
+3598dc5c8d	Chyba bliźniaków nie ma... Pewnie pracują nad jakąś sprawą.
+1f041f7d98	Czasem nie widuję ich całymi dniami.
+dcd7e9d30e	Ale lubię tu pracować. Trzeba mieć zajęcie, wie pan...?
+adec9ca3e6	Dali mi tę pracę, kiedy Crane kazał mi się wynosić.
+ada4c610fc	[changing the subject; slightly sad] No, w każdym razie miło się tu pracuje.
+1719b82669	Och, tędy proszę. I tak miałem tam teraz iść.
+3bbd335e48	[disappointed] Och, przepraszam.
+77ce627669	Mogę pana wpuścić, jeśli pan chce. Może pan tam na nich poczekać...
+69e77aa00e	[awkward] Właśnie miałem sprzątać ich biuro.
+0b3dbc0baf	[distracted]{AngryB} Będę musiał się tu rozejrzeć.
+728ab04581	Eee... No, chyba nie ma problemu.
+dacdf8e4cd	[nervous] Jasne. Pan jest szeryfem. [nervous babbling] Ja tylko nie chcę mieć kłopotów ani nic.
+e3462dc8c7	{NormalA}{body-Smoke}To oficjalna sprawa Baśniogrodu.{ThinkingA} Nie martw się.
+fc9801e3c1	[offhand]{ThinkingA}{body-Smoke} Właściwie nie prosiłem o pozwolenie.
+1a8cb501fc	Szukam Dee i Duma.
+5db81963df	Widziałeś Crane'a?
+34ce58363a	Widziałeś wiedźmę?
+ddd3f9a374	Gdzie jest ich biuro?
+7d6747d32a	Spieszę się.
+d66e618908	Weź wolny wieczór.
+559767e176	I, wie pan, dobrze płacą.
+c0ac17b7b1	To było... [trying to remember] Och, jak to szło?
+4e25a4eabf	I naprawdę zależy im na pomaganiu ludziom.
+8aae6f7a15	Kiedyś miałem naprawdę zły dzień, wie pan.
+1153f0f1d6	Jak to Dee tłumaczy... To tak, jakby ktoś zgubił kota, to mógłby ich wynająć, żeby, no wie pan, go odnaleźli.
+01d232e6de	Nie, chyba źle pan to rozumie. Pomagają różnym ludziom.
+a70980e4b2	Są detektywami. Każdy może tu przyjść z problemem, a oni zrobią, co w ich mocy, żeby go rozwiązać.
+3e70036728	Tym się zajmują.
+6602caeb8b	{ConfusedA}{body-Pocket}Jasne, Muchołapie.
+b015e92293	[not convinced] W każdym razie, mówię tylko... że nie zna ich pan tak jak ja.
+b7d05c90ad	Widzi pan?
+ec24c82295	Są detektywami. Tak jak mówiłem.
+66fb1c4e26	Po prostu-- Po prostu próbują uczciwie zarabiać na życie!
+3deeca6e10	[stern; irritated] {ConfusedA}{body-StandA}Dobra, świetnie, {NormalA}pomogli{ThinkingA}{body-ArmsOut} tobie. {AngryA}{body-Hips}To jedna osoba.
+caf2f2a1cd	No bo ilu zna pan facetów, którzy chcieliby mi pomóc tak jak oni?
+af4ca2cced	[annoyed] Nie jestem.
+def197f462	Nie żeby to była moja sprawa, ale...
+298a218aa4	Ludzie potrafią zaskoczyć.
+9e269f2a9e	[angry]ani{AngryE} trochę{AngryD} nie są do mnie podobni.
+d4976f4cd9	Jak to?
+73c545ea66	Pomagają tylko przestępcom.
+35ac9c03e3	Nie bądź naiwny.
+ddb9f43c9f	Nie mieszaj się w to.
+e6a82de57c	Znajduję wystarczająco dużo.
+a71dcdaf12	Nie są do mnie podobni.
+3d38b01bcd	Tak myślisz?
+c9c73e3eed	Nic nie wiesz.
+8ab42a5bd2	{AngryD}{body-StandA}[angry]Bo cię{AngryE}{body-ArmsOut} okłamują,{body-StandA} {NormalB}rozumiesz, Muchołapie? {AngryD}Dlatego.
+b0065b8a95	{AngryA}Oni{body-Hips} {AngryE}nie są "detektywami"!
+0c568e947c	{AngryB}{body-ArmsOut}[angry]To najemnicy. {AngryE}Płatni zabójcy!
+ab554fb30c	[angry]{AngryA}{body-Hips}Strzelali do Śnieżki!
+2e39196777	[angry]{AngryA}{body-HandOnHipLeft}Są jakoś zamieszani w morderstwa, Muchołapie. {AngryC}Dwoje Baśniów{AngryB} nie żyje!
+f177298060	To płatni zabójcy!
+7890411e97	Strzelali do Śnieżki!
+d6fc1dcb52	Są zamieszani w morderstwa.
+3a3feb505c	Teraz {AngryE}{body-ArmsOut}rozumiesz?
+07fe119439	[listing]{AngryA}{body-X} Holly i Gren zostali ranni,{body-StandA} Śnieżce mało {body-Hips}{AngryE}głowy{AngryB} nie odstrzelili...
+ce5bcb7b95	Prze-- Przepraszam, przepraszam, nie-- nie wiedziałem...
+c44ad34da0	No, wie pan...
+ed7bead7ca	[feeling awkward; still agitated]{WorriedA}{body-StandA} Nie {WorriedB}{body-X}chciałem...
+d59394aa07	Śnieżki? Czemu m--
+3033ac565e	{ThinkingB}Ciotka Greenleaf.{body-StandA} To musi być wiedźma, {AngryA}z której usług korzystał Crane.
+17c4a9be7e	Nie ma tu adresu.
+06e0f10267	Powinienem zadzwonić do Biura Administracji.
+ff00f6f350	Śnieżka musi o tym wiedzieć.
+550e7cde29	Może Bufkin coś znalazł.
+dfcedb81ae	{NormalA}{body-X}Odezwę się do Biura Administracji. Może jest jakiś wpis o{ThinkingB} Ciotce Greenleaf.
+53247fcd13	{NormalA}{body-StandA}Powinienem powiedzieć o tym Śnieżce.{WorriedA} {body-HandOnHipLeft}Może będzie musiała wymienić zamki.
+f296cd9cb3	Mogę się tym zająć. Jeśli pan chce.
+66e43bb015	{ThinkingA}{body-X}Może ona znajdzie jakiś wpis o tej Ciotce Greenleaf.
+a007a8ba98	{NormalA}{body-X}Ciekawe, czy Bufkinowi i Śnieżce coś się udało. {ThinkingA}Może znaleźli adres.
+eb86061e8c	{DoubtfulA}{body-StandA}Albo mogą poszukać wpisu o Ciotce Greenleaf.
+f0c884b4aa	Śnieżka pewnie chciałaby o tym wiedzieć...
+483ee6ae45	Nie sądzi pan?
+529378ba0b	No-- No to co teraz?
+e57c7a8a13	Chyba widziałem telefon z tyłu.
+f97ddab96d	Nie ma za co, szeryfie.
+cb4ac7d068	{NormalA}{body-StandA}Dzięki.
+35c1cc13d7	[processed: phone call; rushed]Biuro Administracji, mówi Śnieżka.
+624311e2b1	[processed: phone call; relieved] Och, to ty. Przepraszam, od godzin odbieram wściekłe telefony. Ludzie chcą wiedzieć, gdzie jest Crane.
+5c7f0bbeea	{body-Pocket}{ThinkingA}Hej, Śnieżko.
+d4af998fc1	[processed: phone call]Nie... Każę Bufkinowi szukać jej wpisu, ale to może chwilę potrwać.
+1dc82ccd27	{ThinkingA}Słyszałaś o niej?
+798a029991	[processed: phone call]Albo do Crane'a. Może coś tam znajdziesz.
+367f604ec8	[processed: phone call]Może spróbuj u Holly. Sprawdź, czy jeszcze nie spaliła rzeczy Lily.
+3a57080be2	{ThinkingB}{body-Pocket}Na razie nie mam adresu, ale mam imię wiedźmy Crane'a.{NormalB} Ciotka Greenleaf.
+5387e78159	Pójdę do Trip Trapu.

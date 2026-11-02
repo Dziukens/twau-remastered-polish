@@ -1,0 +1,227 @@
+# Odcinek 2 - env_openarmsupstairs cz. 1 (pokój 207)
+a01b8f5492	Przypomina trumnę Śnieżki.
+2e2a1d0b72	Wygląda jak rytualna ofiara.
+90b26e228b	Kwiaty oznaczają osobistą więź.
+bc00d8bd8d	Po morderstwie robi się głodny.
+f9f36a5173	To jak jabłko z książki.
+b7e5dd22a0	Jadła, kiedy zaatakował.
+6793fb1aea	Wygląda na kostium Śnieżki.
+4714e0e25b	Lubi ostro.
+b27951ba8b	Może się przebiera.
+b7fa10e4de	Łóżko pasuje do trumny.
+520b086246	Ma obsesję na punkcie śmierci.
+5a30bae3af	Lubi, jak ludzie są bezbronni.
+7127b61b41	Cholera!
+709decb29e	Zostań na zewnątrz.
+9a07a1dc13	Teraz drzwi są otwarte...
+ba56dc449f	Tu była Lily.
+338798dd40	Proszę?
+bb57fcaa14	Otwórz albo wyważę drzwi.
+a606cd2449	Zauważyłaś coś dziwnego?
+8e4ccb2444	Kto wynajął ten pokój?
+bb003a7bb8	Widziałaś kogoś podejrzanego?
+208426f361	Możesz mi powiedzieć coś jeszcze?
+036a73ea98	[Badaj dalej]
+429afe7d5d	Lepiej, żebyś niczego nie ukrywała.
+d1d9553cfe	Jak się dowiem, kto wynajmuje ten pokój?
+d6fdab6c93	To może być ważne.
+5c80136e4a	To wyważę drzwi.
+5bb3299032	Kazał Lily założyć tę suknię.
+de67dd4d4f	Fascynuje go uroda Śnieżki.
+f7e166d4f7	Interesuje się modą.
+db24a5e32c	Ma fetysz jedzenia.
+8db2c268a0	Kazał Lily ugryźć jabłko.
+74dc30da60	Lubi widzieć Śnieżkę w niebezpieczeństwie.
+89e7ad1dee	{body-StandA}{NervousA}Słuchaj, Bigby, {ConfusedA}zakładam, że będziesz składał {NervousA}jakiś oficjalny raport {ConfusedA}czy coś, {SurpriseA}co jest w porządku, {ConfusedA}tylko zastanawiałam się, {SadA}czy... muszę w nim być?
+e3db1503d6	No, nigdy nie wiadomo.
+2841801152	No bo {SurpriseA}to... to nie tak, że Bestia {NervousA}kiedykolwiek zobaczy twój raport, {SadA}po prostu...
+c703f55087	{body-X}{NervousA}Musisz podawać {body-StandA}moje {ThinkingA}imię?
+b3095dc51e	Nie ma sprawy.
+19cdc9f9d0	Chcesz, żebym kłamał?
+5c1725508c	Powiem prawdę.
+36ca16b895	{ConfusedB}Nie martw się {ThinkingA}tym. Im mniej muszę spisywać, tym lepiej.
+27452a2da3	{body-StandA}{SadA}Dzięki. {NervousA}Doceniam to.
+af4b40e0e1	{body-StandA}{SurpriseA}Nie kłamał, {NervousA}tylko nie {ThinkingA}podawał mojego imienia. {ConfusedA}Napisz po prostu, że rozmawiałeś z recepcjonistką czy coś.
+d782cba22d	{ThinkingA}Prosisz mnie, {ThinkingB}żebym kłamał?
+c67b509c09	[disappointed]{body-StandA}{SadB}Zrobisz, co musisz. {SadA}Chcę tylko, żebyś wiedział, że by mi to {NervousA}pomogło.
+9b17e2ec9d	[disappointed]{body-StandA}{SadA}Rozumiem.
+b8ef8f9788	{ThinkingA}To byłby kiepski {MockingB}raport, gdybym zaczął wybierać, {DoubtfulA}które fakty w nim zawrzeć.
+8d64d9aa03	{body-StandA}{NervousA}No, jesteśmy. {ConfusedA}Który to był?
+c74b8f7fa7	{NormalA}Masz {ThinkingA}klucze do tych pokoi?
+7068fd702b	{body-StandA}{ThinkingA}Myślałam, {SuspiciousA}że masz klucz.
+fad42aa1fd	{ThinkingA}Nie do {DoubtfulA}tego.
+111183d6f3	{AngryA}Czekaj, Bigby, {SuspiciousA}nie mogę cię tak po prostu wpuścić do każdego {AngryA}pokoju, jaki chcesz.
+3a11224901	{body-StandA}{NervousA}No bo {ConfusedA}co, jeśli ktoś {SuspiciousA}tam jest?
+48fcbf4919	{body-StandA}{SuspiciousA}Nie możesz tak po prostu {NervousA}wpadać...
+474537daf8	{DoubtfulA}Prowadzę śledztwo {MockingB}w sprawie morderstwa, muszę {NormalB}sprawdzić wszystko. {ThinkingA}Nigdy nie wiadomo, co okaże się {ThinkingB}istotne.
+20c2209f31	[dubious]{body-StandA}{SuspiciousA}No... {NervousA}chyba tak.
+d7d35c13e6	{body-StandA}{SurpriseA}Nie! {SuspiciousA}Nie rób tego. {ThinkingA}Pomogę ci, {SurpriseA}tylko {NervousA}niczego nie niszcz.
+bc7feca320	{NormalA}Mogę {ThinkingA}po prostu wyważyć drzwi, {MockingA}jeśli wolisz.
+67d305d71c	{DoubtfulA}Dobra. {ConfusedB}Nie muszę {NormalA}tam zaglądać.
+6500c60ccc	{ThinkingB}Otwórz {DoubtfulA}ten.
+eea7f73ae6	{body-StandA}{NervousA}Naprawdę {SuspiciousA}nie sądzę, {NervousA}że powinnam.
+35ac11395c	[exasperated sigh] [resigned] {body-StandA}{SuspiciousA}{AngryA}Dobra.
+43cb1c9f78	{ThinkingB}No.
+60332cc5ae	{body-StandA}{SuspiciousA}Zadowolony?
+49683a798f	{MockingB}Nie.
+9675e18274	{body-StandA}{ConfusedA}Widzisz coś?
+9e280ef855	{ConfusedA}Długo to jeszcze potrwa? {SuspiciousA}Pamiętaj, że w ogóle nie powinno cię {AngryA}tu być.
+6602c11bf5	{ThinkingB}Ten.
+af0dc2a5c7	{ThinkingB}Teraz {NormalA}ten.
+bff8f08511	[scowl]{body-StandA}{NervousA}Lepiej, {ThinkingA}żebyś miał {SuspiciousA}rację.
+51cab3ad0b	{WorriedB}Przepraszam.
+ac69217412	[interrupted during sex]Hej, co jest, kurwa!
+063cd2692a	[process behind closed door]Wiem, że zamknąłem, co do diabła!
+19b6c4ba3e	[process behind closed door]Ciii, w porządku, kotku. Przewróć się, to zrobię ci coś miłego.
+bf6865190f	{body-StandA}{AngryA}Jezu Chryste! {ConfusedA}Przez ciebie {SuspiciousA}mnie zwolnią! {SurpriseA}Potrzebuję {ConfusedA}tej pracy!
+c113f522e4	Dobra, będę ostrożny.
+fc48f4cd9b	Muszę wykonywać swoją pracę.
+c715250184	{NormalA}Będę {MockingB}ostrożny.
+cea508c2fa	{WorriedA}Przepraszam {WorriedB}za to.
+50167d61d0	{DoubtfulA}Muszę {MockingB}wykonywać SWOJĄ pracę. Nie {ThinkingB}zawsze jest to dla wszystkich wygodne, ale {AngryA}trzeba to robić.
+607fce2d95	[to self]{body-StandA}{AngryA}Cholera.
+a7c8f8be15	[a little annoyed at the pointless question]{body-StandA}{ThinkingA}Nie wiem. {SuspiciousA}A jak myślisz?
+fdccf3890d	{NormalA}Często macie {ThinkingB}tu kontrole {ThinkingA}sanepidu?
+77d0b0a3e4	[to self]{ConfusedB}Nigdy nie wiem, po co w takich {ThinkingA}miejscach {DoubtfulA}biurka.
+6d9a96dfca	{ThinkingB}Nie spodziewałem się {DoubtfulA}tu wiele.
+a476ea1c77	{body-StandA}{SuspiciousA}Znajdujesz to, czego szukasz?
+15aab9e573	[half to Beauty, half to self]{MockingB}Nie, {WorriedA}klucz miał tylko potwierdzić, {ThinkingA}że trafiłem do właściwego {DoubtfulA}hotelu. To {ThinkingB}nie jest pokój, z którego korzystała Lily.
+7e6439122a	{SurpriseA}Ale... {ConfusedA}czy nie po to {ThinkingA}tu jesteś? {SuspiciousA}Czy nie dlatego masz klucz?
+5df01da23b	[slightly confused]{SadA}Och.
+a346ffe041	{DoubtfulA}Nie.
+b07ddd674c	{DoubtfulA}Spotykali się {ThinkingB}w pokoju 207.
+7af82ba1d7	{body-StandA}{NervousA}To {ConfusedA}skończyliśmy już?
+33a2d70baa	[process heard through door][panting sex noises]
+cbf67bb246	{NormalB}Musisz {DoubtfulA}mnie tam wpuścić. {AngryA}To ten pokój. {ThinkingB}207.
+45fb2d7eb4	{body-StandA}{SuspiciousA}Ale {ConfusedA}ja...
+0f5a4e9dfd	[firm]{ThinkingB}To jest {AngryB}pokój, w którym była Lily.
+57b9267eca	[it's a statement, he's not actually asking] {DoubtfulA}Proszę.
+9c6bce8714	{DoubtfulA}207. {ThinkingB}Otwórz ten.
+a400ae6169	Dziwne. Ten klucz powinien otwierać każdy pokój w budynku. Ale nie działa.
+affd18faac	[shrieking]BIGBY, NIE! NIE RÓB TEGO!
+a612b73424	[alarmed]Każą mi za to zapłacić!
+067038b13f	[alarmed]Nie możesz tego zrobić!
+e9fe4562ce	[alarmed]Czy to naprawdę takie ważne?!
+94708d3084	[alarmed]Prooszę, nie rób tego!
+5416b62060	[serious]{ThinkingB}Musisz się teraz {DoubtfulA}odsunąć.
+08d27ff09b	Nie słuchasz, ja...
+0850b22928	[cowed]Nie byłabym taka pewna.
+ed6ad3d07b	[firm, authoritative]{NormalA}Możesz im powiedzieć, {DoubtfulA}że to ja. {NormalB}Nie mogą winić {ThinkingA}ciebie, jeśli {ThinkingB}wdarłem się tu siłą.
+ed5106451d	[realizing]O Boże. Jest ważne, prawda?
+67153142aa	[spelling it out]{DoubtfulA}Słuchaj. Lily spotkała się {NormalB}ze swoim klientem, niejakim "panem Smithem", {MockingB}swoim OSTATNIM klientem, {DoubtfulA}w tym pokoju, {ThinkingB}zeszłej nocy. {WorriedA}Muszę wiedzieć, kim jest ten facet, a mój {DoubtfulA}najlepszy trop to w tej chwili {AngryB}te drzwi.
+353eb539ba	[defused and humbled by this information]Rozumiem.
+a2c5d25516	{ConfusedA}Mogę mieć przez to {AngryA}spore kłopoty.
+ad0bf616ca	{body-StandA}{SuspiciousA}Poważnie, {ThinkingA}a jak ktoś się dowie?
+37abb89090	{body-StandA}{NervousA}Co {SurpriseA}jest?
+db973f7162	{NormalB}Piękna, {ThinkingB}zostań na korytarzu.
+b1d162ab9f	{body-StandA}{ConfusedA}Co? {ThinkingA}Czemu? Co {NervousA}się dzieje?
+ae13ca9829	[sudden shock] {body-StandA}{SurpriseA}Och!
+734c8f8564	[in shock] {body-StandA}{NervousA}O mój {SurpriseA}Boże.
+0215d22c1f	[in shock]{SurpriseA}Czy to...? {NervousA}Czy to...?
+26699d60fc	{DoubtfulA}Niczego {AngryA}nie dotykaj.
+27b54141e4	[knows the awful truth] {body-StandA}{NervousA}A {SurpriseA}potem...
+f8c55271e7	{DoubtfulA}Lily spotkała się tu z klientem, {ThinkingA}"panem Smithem", {ThinkingB}kimkolwiek on jest.
+d13145ff34	[horrified]{NervousA}Miałam {SurpriseA}wczoraj nocną zmianę!
+cb7dac0484	{body-StandA}{ThinkingA}Wczoraj {NervousA}w nocy?
+b3980e0253	{ThinkingB}Musiało się to stać właśnie {AngryB}tutaj.
+5840a19905	[upset]{SadA}Ja... nie wiem, {NervousA}no bo... Głośne dźwięki nie są tu niczym niezwykłym. Nie słyszałam, żeby ktoś... {SurpriseA}krzyczał ani nic {NervousA}takiego. Ale {ThinkingA}czy nie powinnam była?
+f4928ff016	{NormalA}Zauważyłaś {ThinkingA}coś niezwykłego? {ThinkingB}Mogły być jakieś głośne dźwięki?
+ee64258270	[upset]{body-StandA}{NervousA}Po prostu {ThinkingA}wydawało się, że to {SadA}zupełnie zwyczajna noc.
+c28e2ee2b1	{WorriedA}Pamiętasz, {ThinkingA}kto wczoraj wynajął ten pokój?
+aec55ca3d3	{NervousA}Chyba nikt, {ThinkingA}nie wczoraj. {SadA}Może ktoś ma go na dłużej? [freaking out a little] {SuspiciousA}Nie wiem! {SurpriseA}Skąd mam {NervousA}wiedzieć?
+542ec02b29	{NormalA}Czy ktoś {WorriedA}zachowywał się podejrzanie? {ThinkingA}Może przenosił ciężki bagaż {NormalA}albo, eee... Jakoś wyniósł stąd ciało.
+054e692bcd	[horrified]Jezu Chryste. {SurpriseA}Nie, nie, nic takiego nie {SadB}widziałam!
+9a94abfbe6	[upset]{SadB}Jak to w ogóle {SurpriseA}możliwe? Tu {SuspiciousA}jest tyle krwi...
+5e95bb8f85	{body-StandA}{NervousA}Bigby, jaki {SadA}człowiek {SuspiciousA}mógłby zrobić coś {NervousA}takiego?
+ff569aa0ac	[surveying the room]{ThinkingA}Właśnie {ThinkingB}tego zamierzam się dowiedzieć.
+24c2e914a6	{NormalA}Musisz dopilnować, {ThinkingB}żeby nikt tu nie wchodził. {DoubtfulA}To miejsce zbrodni. {ThinkingA}Dobrze?
+27fe9f94df	{ThinkingB}Wygląda na to, że {ThinkingA}leżała, kiedy {WorriedA}ją zabito. Kwiaty {ThinkingB}już tu były.
+cbc84b5039	{body-StandA}{ConfusedA}Chyba {NervousA}tak.
+ed88d3a18b	{ThinkingB}We wszystkich pokojach są takie same zegary {DoubtfulA}z wbudowanym magnetofonem?
+73ef9bfaf3	[creeped out]{SadA}Możemy {ThinkingA}tego nie słuchać, {ConfusedA}proszę?
+0c2a5fc5a0	{body-StandA}{NervousA}Bigby, {SuspiciousA}to... {NervousA}chyba słyszałam {SuspiciousA}tę muzykę. {SurpriseA}Wczoraj w nocy. {NervousA}Grała dość głośno przez {ConfusedA}jakiś czas, a potem {SadA}urwała się w połowie. {ConfusedA}Nie zastanawiałam się nad tym wtedy, {SadA}no bo {ConfusedA}słyszy się tu różne rzeczy i {SurpriseA}chyba już {SadA}przywykłam, żeby je ignorować.
+8678e03a95	[calming her]{ThinkingB}Nie. {NormalB}Nie ma na niej krwi. {WorriedA}Musiała zostać rozdarta {MockingB}kiedy indziej.
+2234c2411d	{ThinkingB}Ktoś {MockingA}szarpał {ThinkingA}tę suknię; {ThinkingB}jest rozdarta.
+f1b38b4f92	[agitated]{body-StandA}{NervousA}O nie, {SurpriseA}musiała {ConfusedA}ją mieć na sobie! {AngryA}Zabił ją, a potem {SuspiciousA}ją... z niej zdjął...
+684796bc99	[dead serious] {DoubtfulA}Najwyraźniej {ThinkingB}nie.
+7c1d59b906	{DoubtfulA}To Huff and Puff.
+4fe54c801a	[trying for a moment of levity through the stress of this situation]{NervousA}Myślałam, {NormalA}że tylko ty palisz to gówno.
+d694a8ebf1	[to self] {ThinkingB}Hm. {ThinkingA}Może tak {DoubtfulA}wyniósł ciało.
+159a2632ca	{ThinkingB}To książka o {AngryA}Śnieżce. {ThinkingA}A przynajmniej o {DoubtfulA}wersji jej historii Zwykłych.
+af2a42a286	{body-StandA}{SuspiciousA}Co to jest?
+9d6f808641	[concerned] {body-StandA}{NervousA}Co {SuspiciousA}jest?
+93d8818cd3	{ThinkingB}Suknia w szafie {ThinkingA}jest taka sama jak ta na obrazku.
+cfd4bcbdfa	{body-StandA}{ConfusedA}Cała książka jest {SuspiciousA}o niej?
+e1affe01c5	[agitated]{body-StandA}{SuspiciousA}O nie, {SadA}co jeszcze?
+f7c050bd36	[agitated] {SurpriseA}Coś z tym jabłkiem? {SuspiciousA}Co?
+c7e887c6e4	[thinking] {ThinkingB}Hm.
+68a224bafb	{ThinkingB}Myślę, że jabłko {ThinkingA}jest częścią jego fantazji o {WorriedA}Śnieżce. To {ConfusedB}wyjaśniałoby to, które znaleźliśmy na podłodze.
+24a3ae4baf	{body-StandA}{NervousA}Odgrywali {ThinkingA}tę scenę z macochą {NervousA}i jabłkiem. Co jest {SuspiciousA}naprawdę przerażające, jak się nad tym zastanowić... {SurpriseA}wiesz, {NormalA}przecież ona prawie umarła, kiedy...
+e67b3fcf1e	{SadA}Eee.
+cec22ff0e8	{body-StandA}{NervousA}Ale ze {SuspiciousA}wszystkich historii {NervousA}odgrywali akurat {ConfusedA}tę z JABŁKIEM?
+8d59f7632e	{AngryA}Mam takie wrażenie, {AngryC}tak.
+64ea3c7b2d	{ConfusedA}Ten facet {SurpriseA}ma naprawdę {SadA}obsesję na punkcie Śnieżki, {SurpriseA}to jakieś {SuspiciousA}chorobliwe!
+21146c566b	{body-StandA}{SadB}[agitated]Chyba nie {SuspiciousA}myślisz, że on tu {ConfusedA}wróci...?
+74538a3f19	[agitated] {body-StandA}{ConfusedA}Czemu ona leży w szklanej trumnie?
+ac8f4900ff	{NormalB}To ten fragment, w którym zapada {WorriedA}w {NormalB}głęboki sen, {ThinkingB}a oni myślą, że nie żyje.
+800465405f	{body-StandA}{ConfusedA}Co to {SurpriseA}znaczy? Po co {SuspiciousA}zaznaczać stronę, na której śpi?
+a6f668451f	[very agitated]{body-StandA}{SadA}O Boże, {ConfusedA}Bigby, {SurpriseA}to jest zbyt dziwne! {SuspiciousA}Czemu zaznaczył tę stronę?
+bca735e123	[agitated]{body-StandA}{SurpriseA}O nie. {SuspiciousA}Co? {ConfusedA}Co jest?
+4b2d2d32f1	[short] {DoubtfulA}Hm.
+7b36bb1140	{ThinkingB}Myślę, że {ThinkingA}pościelił łóżko tak, żeby pasowało do {DoubtfulA}trumny z obrazka. Kwiaty też. {ThinkingB}Musiał kazać Lily położyć się {WorriedA}dokładnie tak.[meaning, like the picture we're looking at]
+3905d438c3	[oh no] {body-StandA}{SadA}Masz na myśli tuż {ConfusedA}przed...
+1c3d0f505f	[grim] {WorriedA}W tej historii to wtedy ktoś przychodzi, {AngryA}żeby ją pocałować. To {AngryB}nasz "pan {AngryC}Smith".
+de461aeb45	{body-StandA}To przerażające. Trumna i ta dziwna obsesja na punkcie Śnieżki. Co, do diabła, jest nie tak z tym facetem?
+ab2c8fc75a	{body-StandA}To po prostu dziwaczne.
+edd913e421	[very agitated] {body-StandA}Jak daleko sięga ta sprawa ze Śnieżką? Robienie dla niej trumny na łóżku to już przesada.
+a532d3d4ea	{DoubtfulA}Wygląda na to, że {ThinkingA}fascynuje go uroda {ThinkingB}Śnieżki. Ma tę książkę {WorriedA}o niej, a nawet {WorriedB}napisał to w liściku.
+1d61da26de	{body-StandA}{AngryA}I nałożył komuś urok, żeby wyglądała jak ona...[sarcastic]{SuspiciousA}No, na pewno jest {SurpriseA}prawdziwym {SuspiciousA}romantykiem.
+4345bc2189	{body-StandA}{NervousA}Cokolwiek to jest, {SadA}czego nie chcesz mi {ConfusedA}powiedzieć... na pewno nie jest {NervousA}dobre.
+25ed95f674	{AngryB}Coś {AngryC}w tym stylu.
+40e761da38	Masz na myśli jakiś... fetysz niebezpieczeństwa?
+1c862b33ed	{ThinkingB}Myślę, że zaznaczył ten obrazek, bo pokazuje Śnieżkę w niebezpieczeństwie, {AngryA}a on {AngryB}to lubi.
+e97a92ddf1	[agitated]  {body-StandA}{AngryA}Cholera, Bigby, {SadB}przerażasz mnie!
+c01bb97b8a	[very agitated]  {body-StandA}{NervousA}Czemu {SadB}nie powiesz mi, {SuspiciousA}co się dzieje? {AngryA}Nie wytrzymam {SadA}tego!
+07bec8ab67	[agitated] {body-StandA}{SurpriseA}Boże, {SuspiciousA}odegrał historię z {NervousA}jabłkiem z tą biedną dziewczyną, {SuspiciousA}zanim ją zarżnął? {NervousA}Co to za {SuspiciousA}psychotyczna {ConfusedA}obsesja?
+997663da3b	[agitated]{body-StandA}{NervousA}Robi się coraz {ConfusedA}dziwniej! {SurpriseA}Co to za {SuspiciousA}chora obsesja?
+0d496baa38	[agitated, sarcastic] {body-StandA}{SuspiciousA}No to {SurpriseA}świetnie. Ma {NervousA}jakąś {SuspiciousA}dziwną romantyczną obsesję na punkcie {NervousA}Śnieżki, która obejmuje {ConfusedA}karmienie kobiet jabłkami, zanim utnie im {SurpriseA}głowy. {SuspiciousA}Fantastycznie!
+288b594467	[agitated]Dobra, czyli to po prostu wariat. Co, owszem, nie jest wielkim zaskoczeniem.
+f2209ef4f9	[agitated]A potem sprawia, że niebezpieczeństwo staje się prawdziwe, atakując ją i zabijając!
+47c0f6a89b	No, to jest... jeszcze bardziej pokręcone niż przedtem!
+bd5f4f2ed9	[agitated]Czyli ma obsesję na punkcie Śnieżki I jest kompletnym świrem.
+95d83b7d60	[agitated]Chyba w dziwny sposób to pasuje do jego chorych romantycznych wyobrażeń.
+203c20a70c	{body-StandA}{SuspiciousA}To {NervousA}zdjęcia tej martwej dziewczyny?
+249392ce7f	{SurpriseA}O nie. {SadA}Bigby...
+eea14a4c1a	{NervousA}Skąd {SuspiciousA}wiesz?
+9605e90a53	[tense, showing her]{WorriedB}Jestem na {AngryA}tym. Zrobione {WorriedA}zeszłej zimy.
+3e31c9ebf6	{AngryC}Miej oczy {AngryA}otwarte. {ThinkingB}Jeśli ktoś spróbuje wejść do tego pokoju, {DoubtfulA}nie wchodź mu w drogę i {AngryA}daj mi znać.
+fee195d9df	{AngryC}Tu jest dla ciebie {AngryA}niebezpiecznie. {ThinkingB}Idź do domu. {DoubtfulA}Nie wracaj tu.
+25550feb8c	{AngryC}Musisz zdecydować {AngryA}o tym {NormalB}sama.
+1b7ef323c7	{body-StandA}{ConfusedA}Skąd to masz?
+037fa1ef4f	{NormalB}Lily trzymała to w dłoni.
+431501bbfe	{DoubtfulA}Na wypadek, gdyby były jakieś wątpliwości, {WorriedA}kto tu zginął...
+80427cd521	[agitated]{body-StandA}{SurpriseA}Co. {SuspiciousA}Co myślisz?
+358edc917f	[very agitated] {body-StandA}{SadA}O nie. {SadB}Jest coś jeszcze? {SurpriseA}Co? {NervousA}Co teraz?
+11bd8a0be7	[agitated]{SuspiciousA}"Ciało"? {ThinkingA}{AngryA}Jezu. Mógłbyś powiedzieć "ona". {SadA}Biedna dziewczyna. Po prostu nie mogę sobie nawet wyobrazić...
+4f02bc81dd	[agitated]{body-StandA}{SuspiciousA}Skąd to wiesz?
+c5955f1f2a	{ThinkingB}Układ krwi. Poza tym {ThinkingA}powiedziałbym, że ciało {DoubtfulA}ściągnięto z łóżka od strony nóg, {ThinkingB}tam.
+90b2241cd7	[agitated, suspicious] {body-StandA}{SuspiciousA}Czujesz {SurpriseA}coś?
+370d9b7787	{body-Crouch}{DoubtfulA}Nie. {ThinkingB}Tylko jabłko.
+6b9c625107	{ThinkingA}Mogła zagłuszyć {DoubtfulA}odgłosy morderstwa.
+ac33ff6301	[agitated]{body-StandA}{SadB}Bigby?
+52628c8c34	{AngryB}Pan Smith {AngryA}ułożył tu Lily do wiecznego snu.
+a717737835	{ThinkingB}Wygląda jak trumna Śnieżki {DoubtfulA}z książki. {ThinkingA}Odtworzył tę scenę, {ThinkingB}kiedy ona tu leżała {NormalB}otoczona kwiatami.
+c8a3285f13	{body-StandA}{NervousA}To {SuspiciousA}ma sens... {SurpriseA}to znaczy, {ThinkingA}ma sens w przerażający, obsesyjny, {SuspiciousA}chory sposób, ale... {AngryA}Wziąć coś strasznego, co {SuspiciousA}naprawdę przytrafiło się Śnieżce, i {ConfusedA}odtworzyć tę scenę w pokoju hotelowym z prostytutką, {SadA}a potem... {SadA}naprawdę ją zabić... {SuspiciousA}Boże...
+f01da67443	[agitated] {body-StandA}{NervousA}To pasuje. {SuspiciousA}Odgrywa sceny {NervousA}z książki. {SadA}Biedna dziewczyna...
+250728f12e	[agitated] {body-StandA}{NervousA}Nie mogła wiedzieć... {SadA}pewnie po prostu potrzebowała pieniędzy. To mogła być...[me]{SadB}każda z nas.
+9a625a4ab6	[agitated]{body-StandA}{NervousA}Masz {ThinkingA}rację, ale w tym, co się tu stało, nie ma {AngryA}nic ze snu! Ten {SurpriseA}{SuspiciousA}psychol położył tę {angryA}biedną dziewczynę na łóżku {SurpriseA}i obciął jej {AngryA}głowę!
+3a4d466211	[agitated]{body-StandA}{NervousA}Masz {SuspiciousA}rację, ale w {ThinkingA}tym, co się tu stało, {NervousA}nie ma nic ze snu! {SadA}Ten {SuspiciousA}świr położył tę {SadA}biedną dziewczynę na łóżku i {AngryA}obciął jej głowę!
+1bf9f85b4a	[agitated]{body-StandA}{NervousA}"Ułożył do {SuspiciousA}wiecznego snu", {SadA}o mój Boże. {ConfusedA}Odgrywali tę historię, a {SuspiciousA}on ją zabił. {SurpriseA}Tak traktuje {SuspiciousA}kogoś, kogo uważa za piękną.
+3313dc6336	[agitated]{body-StandA}{ThinkingA}Masz rację, {NervousA}łóżko to trumna; {SuspiciousA}odgrywa kolejny fragment {SadA}z książki!
+4b7d324c24	{MockingB}Zastanawiam się, {DoubtfulA}czy to nie było rytualne zabójstwo. {NormalB}Łóżko wygląda jak {ThinkingB}ołtarz, celowo tak urządzone, {ThinkingA}z kwiatami dookoła. {ThinkingB}Ofiara leży, {DoubtfulA}brak widocznych śladów walki. Wygląda jak {WorriedA}jakaś {NormalB}ofiara.
+36d139162e	[freaking out a bit] {body-StandA}{NervousA}To... {SuspiciousA} {SurpriseA}to straszne. {SuspiciousA}Zrobić coś takiego w imię {NervousA}religii {ConfusedA}czy czegokolwiek, {AngryA}zwabić kogoś tutaj i... i kazać jej {SuspiciousA}się położyć, {SadA}a potem... no bo {SuspiciousA}trzeba być szaleńcem. {angryA}Boże.
+48c6d16e76	[agitated]{SadA}Ta biedna dziewczyna, nie {SadB}potrafię sobie wyobrazić, {ThinkingA}jak to musiało dla niej być, {SuspiciousA}leżeć tam i po prostu... {SadA}czekać...
+d45be461b7	[agitated]{NervousA}Robi się {SuspiciousA}coraz dziwniej!
+a5e7ff612f	[agitated] {body-StandA}{SuspiciousA}O Boże, {SurpriseA}OFIARA?
+241e1ae915	[agitated]{SuspiciousA}Ten psychol jest naprawdę pokręcony!
+dc4068ec94	[agitated, outraged sarcasm]{SuspiciousA}Jasne, {nervousA}czemu nie? To {SuspiciousA}najwyższy wyraz uwielbienia!

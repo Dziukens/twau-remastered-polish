@@ -1,0 +1,119 @@
+# Odcinek 2 - env_policestationinterrogationroom_delscene cz. 2
+2b0c6836af	[in pain, but softly] {body-SitB}{WorriedA}Nie.{PainA}
+3058fc6e06	{body-SitA}{ThinkingA}Eee...{body-StandA}
+eccd464e2e	[Wyjdź]
+60f71d4918	[Pomóż jej]
+01335fb682	[Nic nie rób]
+b05cdb082c	{body-StandA}Wszystko w porządku?
+fb0ea1da66	{PainA}[pleading] Proszę mnie nie okłamywać.
+c94e32acc8	{PainA}[panic] Kim {WorriedA}pan jest?
+b166b0baf4	{body-StandA}{ThinkingA}Wszystko gra?
+ac4b69d2d8	[gasping] {PainX}Panie {PainA}Wolf?
+a3963f1162	[gasping] {PainA}Proszę odpowiedzieć...
+8b3df7b162	[still tense] {body-SitArmsDesk}{ConfusedB}Co?
+54effef87a	Co jej zrobiłeś?
+c5a43db3b4	[Pomóż detektyw]
+2f11bc4f44	{body-StandA}{ThinkingB}Co tu się, kurwa, {body-X}dzieje?
+4ae564c1f6	{AngryB}Co jej jest?
+8e504fc6e6	{body-StandA}{ConfusedB}Co ty jej, do cholery, {body-Hips}{AngryA}zrobiłeś?
+cf07242e64	{body-StandA}{WorriedB}Hej...
+e799b7a5d7	{body-StandA}{SuspiciousA}Nic!
+d43921ede1	{AngryA}{body-StandA}Nic jej nie {AngryB}będzie!
+78de6311dd	{body-SitA}{NormalB}Czy tam widział ją pan ostatni raz?
+cc220e8c38	Tak, w pracy.
+fc29759b5f	Nie, jechaliśmy razem taksówką.
+f11c19fe1e	{body-SitArmsDesk}{ThinkingA}Tak. Tego dnia {NormalB}widziałem ją {body-SitA}w pracy.
+62ac70d33a	{NormalA}Wie pan, dokąd poszła potem?
+308faa77e3	{WorriedB}{body-SitArmsDesk}Nie, jechaliśmy razem taksówką. {body-SitA}Wysiadłem, a {ConfusedB}ona pojechała dalej...
+a3aa3f33fc	[slightly annoyed] {body-SitA}{NormalB}Proszę się postarać, {ThinkingA}panie Wolf.
+4d50be3a93	{body-SitArmsDesk}{MockingB}Nie pamiętam.{body-SitHead}
+6ae524f77c	[annoyed] {body-SitA}{AngryA}Proszę spróbować współpracować, panie Wolf.
+4d13e0840c	{NormalA}{body-SitA}W Woodlands?
+6c8ac641c0	{body-SitA}{AngryA}Coś tu jest nie tak!
+7e293eb5e1	te dokumenty istnieją od {WorriedA}ponad stu lat!
+9f42ed7c66	{NormalA}Wtedy widziałem ją ostatni raz.{body-SitBackSmoke}
+911074cff6	{NormalB}Ktoś, kogo mogła odwiedzić?
+55e6608316	{PainA}{body-SitA}Żadnego chłopaka czy coś?
+1cf27260d8	{NormalA}Wie pan, dokąd {NormalB}jechała?
+959e07f626	{PainA}Ma pan pojęcie, dokąd mogła pojechać {NormalB}tamtej nocy?
+65fc09f734	[understanding] {WorriedA}Chyba nie znał jej pan zbyt dobrze, {NormalA}w takim razie.
+7ccac80e54	{body-StandA}{FearA}Cholera.
+31ae7a7ce2	Spokojnie, uspokój się!
+fe86f44372	[Rozbrój ją]
+3c01528e47	[Powal ją]
+44323cfab0	{FearA}{body-StandA}Ej!
+74d52acb3b	{PainA}Ręce {AngryA}na głowę!{PainA}
+9ca807c843	{PainA}Powiedziałam, {AngryA}ręce do góry!
+5b24bea864	{PainX}Powiedziałam...
+ba14e68584	{NormalB}Uspokój się!
+cd9da95a1c	{PainX}Cofnij {AngryA}się!
+7a4e02913b	[yelling] {PainX}Co tu się, {AngryA}kurwa, dzieje?
+eb4513bf1c	{WorriedA}Co się dzieje?
+11a2e15226	{body-StandA}{AngryC}Ach, kurwa!
+426d784998	[yelling] {WorriedA}Czego chcesz?
+71f55499e9	{PainX}Powiedziałam, {AngryA}kurwa, nie ruszaj się!
+3de418d7f7	{DoubtfulA}{body-StandA}Nie zrobiłaś-
+97dc1f9f3f	[sharp pain]{AngryD} Ach, cholera!
+d77b7a1288	Mówiłem pani...
+3e245be2ec	Nie wiem, co pani powiedzieć.
+4261bd7087	{body-SitArmsDesk}{ThinkingA}Nie wiem, co pani {body-SitA}powiedzieć.
+a92f3c49b3	{WorriedB}Chwileczkę.
+9161f13260	{WorriedA}{body-SitA}Proszę!
+3b52235145	{body-SitA}{AngryC}Popełnia pani wielki błąd!
+7f56d4a3e2	{DoubtA}Jak pan to wyjaśni?
+5d37b645f5	{AngryA}To przesłuchanie, panie Wolf! Czy pan zapom-{NormalA}{body-SitB}
+e1fa762036	{PainX}Zamknij się!
+750452821d	[low] {PainA}Co to jest?
+dd2d857453	{PainX}Panie Wolf...
+926742eb2d	[her mind is going to pieces now]{PainA}Proszę nie... {PainX}kłamać...
+764fa0fcb2	{FearA}Pani detektyw?
+382f26c806	{ThinkingA}Wiesz, ile kosztuje taka magia?
+b1ed2060b8	Powinieneś mi {AngryB}dziękować!
+5dfd5bca29	{CreepyA}Zaraz będzie po wszystkim.
+cf0f39b11a	{PainX}[screams] Nie! Niech to... szlag! Ach!  {AngryA}Cholera! Ach...{PainX} ach... ach!
+ec9fd34294	[barely audible, in pain, broken record] {PainX}Nie, nie, nie, nie...
+183736c624	{DoubtA}Kawalerowie Maltańscy tu, w mieście.
+c214e7acb6	{body-StandA}[impatient, to self] {AnnoyedA}No dobrze, gdzie to jest?
+feee91bb33	{body-StandA}{AnnoyedA}To tylko zaklęcie wymazujące pamięć. Bardzo drogie, ale {NormalA}działa.
+a738749ba9	[angry] {body-StandA}{AngryC}Co?!{body-ArmsOut}{AngryD}
+613bdac212	{AnnoyedA}Czym ty się {ConfusedA}tak przejmujesz?
+856f63dcbc	Nie możesz tak po prostu tego robić!
+122f8fda98	Dobra. Chodźmy.
+20c171e4e1	{ThinkingA}Za kilka minut wszyscy się ockną, {NormalA}wrócą do normy, jakby nic się nie stało.
+227191dcf9	{body-StandA}{AnnoyedA}Nic im nie będzie. Skutki uboczne są {ThinkingA}tylko... chwilowe.
+89cfc53fe0	[angry] {AngryB}{body-ArmsOut}Nie możesz tak po prostu {AngryC}robić tego ludziom.{body-X}
+9603f28611	{body-StandA}[dismissive] {AnnoyedA}Chwilowe skutki uboczne.
+3d37d60b09	[angry] {body-X}{AngryA}A co z {AngryB}panią detektyw?
+2c72cbf1c3	{AngryA}{body-X}Dobra. Wynośmy się stąd.
+28728857cf	{AngryA}{body-StandA}Jeszcze nie.
+2073b341f0	{AngryA}Cały posterunek zapomni ostatnie 24 godziny i wszystko, co widzieli w Woodlands.
+f0d5572e7e	{body-StandA}{SuspiciousA}Mamy szczęście, że udało mi się jedno zdobyć.
+3e606e31ef	Czemu tu jestem?
+80e3bf566c	Ma pani nazwisko?
+c0b0207db5	{DoubtA}{body-SitA}Wie pan, teraz sprzedają je w twardych pudełkach. Taki aktywny facet jak pan mógłby się nad tym zastanowić.
+176ce05684	{body-SitArmsDesk}{ThinkingB}Dzięki za papierosy.
+5a833e3d75	Detektyw Brannigan. Albo po prostu "pani detektyw", jeśli pan woli.
+4b053ea612	{body-SitArmsDesk}{ThinkingA}Ma pani nazwisko?
+1178286752	Co robicie, żeby znaleźć zabójcę?
+e454727b0d	Czy jestem o coś oskarżony?
+e889b259d8	Muszę się stąd wydostać.
+b3d06f9a5d	{DoubtfulA}Czyli pani jest tym "dobrym gliną".
+c2a79697af	{ThinkingA}{body-SitA}Zobaczymy.
+8fce43219f	{ThinkingA}{body-SitB}Na pewno ucieszy pana wiadomość, że funkcjonariusz Wachowski czuje się dobrze i zgodził się nie podejmować kroków prawnych. {body-SitA}{WorriedA}Wiem, że wczoraj w nocy był pan zdenerwowany. Ale na przyszłość {AngryA}proszę się kontrolować na moich miejscach zbrodni. {WorriedA}Dzięki temu będę miała większą szansę złapać zabójcę tej młodej kobiety.
+18f061efd4	{PainA}[to no one]Cholerne krzesła.{NormalB}
+509769b368	{body-SitArmsDesk}{NormalA}Co robicie, żeby znaleźć zabójcę? {DoubtfulA}Macie jakieś tropy?
+24cae24e10	{body-SitA}{ThinkingA}To zależy.{body-SitB}
+319fec7b13	{ThinkingA}{body-SitArmsDesk}Zamierzacie mnie o coś oskarżyć?
+f75b2728a2	{NormalB}{body-SitA}Zadam panu kilka pytań. Jeśli będzie pan współpracował {HappyA}{body-SitB} i szczerze odpowie, będzie pan mógł iść do domu.
+3c06fd3550	{WorriedA}Może się pan prześpi.
+c12fa3118a	Pan i panna White {body-SitB}pracowaliście {ThinkingA}razem w Woodland Luxury Apartments.
+919494206c	{NormalB}{body-SitArmsDesk}Co ja tu robię?
+d1fd39fd8f	{ConfusedB}No tak... wszystko jest trochę zamglone po...
+4921f713fe	Znokautował pan wczoraj w nocy policjanta.
+0a90cf4a02	{MockingB}{body-SitArmsDesk}Mogę już iść? {WorriedA}{body-SitA}Mam sprawy do załatwienia.
+a95e053669	Dzięki za ogień.
+7b0010aaac	Jesteśmy nieśmiertelni
+30a937a39d	[low] {ThinkingA}Nie wychylaj się.
+ab26e15192	[low] {Body-StandA}{AngryA}Musimy iść!
+8ae230912f	[low] {Body-StandA}{AngryC}Już, Bigby!
+413dfd358f	Bigby zostaje przesłuchany przez Kelsey w sprawie zabójstwa Śnieżki. W tej alternatywnej wersji pytania są znacznie bardziej szczegółowe, wybory są inne, a Baśniogrodowi grozi niebezpieczeństwo, którego nie było w oryginalnej wersji.

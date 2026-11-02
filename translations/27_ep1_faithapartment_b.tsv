@@ -1,0 +1,202 @@
+# Odcinek 1 - env_faithapartment cz. 2
+47fa9c00a1	[confusion]Wracam do kuchni, żeby odłożyć nóż... z powrotem?
+1a7b6f3c43	Pewnie z pierwszej próby, kiedy odniósł nóż do kuchni.
+0babdb4e2c	Skąd wiesz?
+614fef350a	Prezent ślubny.
+73ab615e79	O wiele za ładne na tę ruderę.
+98ebafc673	No. To by wystarczyło.
+7993a8ce7a	Co do cholery? To kto użył noża? On czy... ktoś inny?
+3a20b8e395	Pachnie jak krew stamtąd.
+081edd2e81	[calling]Bigby, pospiesz się.
+8bd2351584	{confusedB}[amazed, not angry]Sukin...
+d8946fd307	[pickup1]Proszę. Jak kredką.
+0b6de7b83e	[pickup1]Mogę to zniszczyć.
+2050c2e106	[pickup1]Dzięki.
+0a70fe65da	[pickup1][to Snow]Masz ołówek? Muszę coś zaznaczyć.
+810052f491	[hushed] Co?
+8ef2fbceeb	{angryA}[hushed, to Lawrence] Spodziewasz się kogoś?
+6c0af9b7ce	[hushed] Co mam robić?
+312edfb39c	{surprisedA}[hushed] Nie. {thinkingB}Czekaj.
+649d18acc8	{doubtfulA}[hushed] Zobaczę, kto to.
+c12dc06ca9	{thinkingC}[hushed] Po prostu udawaj martwego.
+612aae59d3	[hushed] Musimy się dowiedzieć, czemu ktoś tam próbuje się włamać. Może coś wiedzieć o twojej żonie. Coś tu się dzieje, a ty jesteś teraz tego częścią.
+aa57672538	{flusteredA}[hushed] Potrzebuję twojej pomocy.
+96cbb8983a	{confusedB}[hushed] Co?
+c060a9fe5a	{worriedA}Zaufaj mi.
+78e74c5212	Śnieżko, to fatalny pomysł.
+1c52cb2444	Śnieżko, poradzę sobie z tym.
+465d88a221	Nie musisz. Ja się tym zajmę.
+912e2ee680	Mogę dostać broń z powrotem? Na wszelki wypadek.
+852fb3ac3d	Gdzie jest moja żona, ty skurwysynu!
+3b40f45c06	Hej, słuchaj... nie chcesz tego robić, człowieku.
+67559cecd3	Co zrobiłeś z moją żoną?
+2ee92d5e8f	Nie wiem, o czym mówisz, jasne? Też jestem tylko facetem, który szuka odpowiedzi.
+40cddc2120	{angryB}Hej!
+b8da6df14b	Panel
+b3fbda07d2	{fearA}Nie. Zostaw otwarte... {flusteredA}zostaw otwarte...
+2ddb00186b	[drawn out, his dying breath] Faith.
+7414ea4d66	Musimy ustalić, co się tu stało.
+aec65b20d2	Odebrał sobie życie, Śnieżko... pewnie dowiedział się o Faith.
+42ea2f4c18	Ktoś go zabił. Nie wiem dlaczego, ale kryje się za tym więcej, niż widzimy.
+a56c05316e	[beat] Daj mi chwilę się rozejrzeć.
+5627b2b061	Przyszliśmy za późno. Nie wiem dokładnie, co się stało, ale rana jest świeża... mogliśmy temu zapobiec.
+d40337fc61	Rozejrzyj się.
+2f37a5ad20	Masz jeszcze ten list?
+c091bbfe82	[pickup1]Sądząc po tym, co tu widziałem, chyba już znam odpowiedź... ale...
+9538a79d10	[pickup1] Gdzie jest... nie wziąłeś go?
+14dc0b5603	[pickup1] Co tam było napisane?
+d16e7e86a7	[pickup1]Otworzyłem go.
+f069a4e076	[pickup1] "Przepraszam... Faith."
+76342b0584	[pickup1] Naprawdę...
+2c6a4cdb7b	[pickup1] Dziękuję... przynajmniej... [exhale]Nie wiem...
+6dbff9fca0	Proszę.
+b2fd41e59f	[pickup1] Szkoda, że o tym nie wiedział.
+878d646755	To nie byłoby w porządku. Gdyby to nie był dowód, sam bym do niego nie zajrzał. Przykro mi.
+3ac88ef52e	Jasne... dobrze.
+f4d1a55ae7	[pickup1] Nie był przeznaczony dla nas.
+f053c7ad4c	[pickup1] Oczywiście.
+a2b8873373	{doubtfulA}Używane książki w miękkiej oprawie. Stare encyklopedie.
+518cb6a9c9	{thinkingA}Zakurzone. Nikt tego od dawna nie czytał.
+f463c794cb	Skupmy się na tym, co widzieliśmy w lustrze.
+65fcf15bf6	To nie takie proste.
+77de954b68	Musimy przesłuchać Lawrence'a.
+1358eec7e7	[pickup5]{angryA}Hej! Otwieraj!
+cee31158e4	[pickup5]{angryA}Lawrence! Jesteś {doubtfulA}tam?
+59acef5d35	[pickup5] {thinkingC}Ten nóż właściwie nie pasuje do pozostałych.
+ed9c73bad4	[pickup5] {thinkingB}To ten sam nóż, {thinkingC}który widziałeś w lustrze?
+fe26ed583b	{worriedA}Nie wiem, Śnieżko.
+ef111dc667	{flusteredA}Po prostu nie rozumiem... Czemu {worriedA}ktoś chciałby go zabić?
+1140992467	{confusedB}Kula powinna była {angryA}polecieć tam. Tuż za {thinkingA}nim. Nie tutaj.
+b0c3b18e0e	{thinkingB}To jest... {thinkingC}dziwne w dotyku.
+74d260c58e	{thinkingB}Jeszcze trochę lepkie.
+3430f536b7	{thinkingC}Co to jest?
+eaead5e280	{worriedB}Trochę przykleiło się do łóżka.
+07ca785389	Skrzywdziłeś Faith?
+542cee165b	[pickup5] {doubtfulA}Śnieżko, możesz {thinkingA}stanąć tam?
+829c8946a5	[pickup5] {thinkingB}Wyceluj w Lawrence'a, jakbyś {doubtfulA}była strzelcem.
+bbde64e5dc	[pickup5] {worriedA}Co myślisz?
+2201edfee2	[pickup5] {thinkingA}Dobrze. Więc {thinkingB}strzelec stał gdzie indziej.
+73dc50c69a	[pickup5] {doubtfulA}Może... albo {thinkingB}nie znamy całej historii.
+5e2531d746	[pickup5] {doubtfulA}Ta plama krwi ma ostrą {thinkingA}krawędź. Jakby coś tu {thinkingB}stało, a potem ktoś to przesunął.
+d2b219d64e	[pickup5] {sadA}Oby byli {sadB}teraz razem.
+a36e2e632f	[pickup5] {worriedA}Tylko na to możemy teraz liczyć.
+18a6ef4105	[pickup5] {thinkingA}Pasuje do kalibru broni na podłodze.
+a1a3308c10	[pickup5] {doubtfulA}Lustro mi to pokazało... może {worriedA}powinienem był przyjść tu najpierw.
+1f8f2c2eff	[pickup5] {thinkingA}Ostry... i na ostrzu {worriedA}jest krew.
+8fa768d6b2	[pickup5] {sarcasticB}Poradzę sobie. Dzięki.
+3153cd42ce	[pickup5] {sarcasticA}Że jesteś niski, a ja {happyB}próbuję ci pomóc tam wejść.
+2b4a5cc55a	[pickup5] {sarcasticA}Jak chcesz.
+f68ac16750	[pickup5] {thinkingB}Co próbujesz powiedzieć?
+575ee86d38	[pickup5] {thinkingB}Tu Bigby. Muszę {normalA}z tobą pogadać.
+e59606aa9c	[pickup5] {sadB}[grave] O Boże... przyszliśmy {sadA}za późno.
+44a3a48420	[pickup5] {worriedA}To już dwie martwe Baśnie... {flusteredA}musimy się dowiedzieć, co tu się, {thinkingB}do diabła, dzieje...
+c3aef33276	[pickup5] {fearA}Kto mógł im {sadA}to zrobić?
+f9b3c0e50d	[pickup5] {worriedA}Nie wiem... Ja...
+ebfe5db754	[pickup5] Ja... strzeliłem sobie... w serce... myślałem, że już będę martwy...
+cbfdee8337	[pickup5] {normalB}Cholera.
+eae09acfff	[pickup5] {doubtfulA}Znaleźliśmy twój list...
+9efa7ca2cb	[pickup5] {normalB}Podjąłem decyzję... za nas... {worriedA}wydawało się, że to jedyne wyjście... więc...
+02c4265d17	[pickup5] Przynajmniej... tak mi się wydaje, że to się stało...
+eacaec07ca	[pickup5] wszystko jest trochę zamglone...
+931c4cfdfb	[pickup5] {flusteredB}Czy ty...
+8fd0fda568	[pickup5] {flusteredA}Czemu to zrobiłeś, {sadB}Lawrence?
+7764ec86d6	[pickup5] {thinkingA}Nie chcę tu zostawać dłużej, niż {worriedA}musimy, więc {thinkingC}wybierzmy jedno podejście i się go trzymajmy, dobrze?
+638d6d0dcf	[pickup5] {normalB}Kiedy magiczne lustro pokazało mi to mieszkanie... {thinkingB}chyba widziałem w środku nóż, pokryty {worriedA}czymś, co wyglądało na {snow - flusteredB}krew.
+d0500d1685	[pickup5] {thinkingA}A jeśli on {doubtfulA}zaprotestuje?
+21f24c0ab9	[pickup5] {normalB}No.
+d176475d33	[pickup5] [pause] [trying to make light of it] Nie {thinkingC}spodziewałam się tego.
+b5842e6047	[pickup5] {thinkingA}Cóż, jak mówiłam, {thinkingB}nie komplikujmy. {worriedA}Ty możesz go przesłuchać, a ja {thinkingB}się rozejrzę.
+3ac961e666	[pickup5] {worriedA}Jesteśmy tu w {thinkingB}oficjalnej sprawie Baśniogrodu. I {sadB}potrafimy być {sadA}przekonujący, {worriedA}jeśli trzeba. Albo... {sarcasticA}ty potrafisz.
+d0ce0be133	[pickup5] {doubtfulA}To śledztwo w sprawie morderstwa, Śnieżko. Sprawy {thinkingB}nie są takie proste.
+b2c3ed99f8	[pickup5] {thinkingA}Dobrze.
+4333027bff	[pickup5] {worriedB}[a little frustrated] Po prostu... {thinkingB}zostaw to mnie, dobrze? {doubtfulA}Zobaczymy, co będzie, jak wejdziemy.
+7e8c80c73a	[pickup5] {worriedA}Jeśli zawsze będziemy próbować robić wszystko naraz, {flusteredB}to coś nam {sadB}umknie.
+53f94c2196	[pickup5] {worriedA}U Zwykłych może tak. Ale {thinkingB}to co innego.
+5df0fa56f2	[pickup5] {doubtfulA}W takich sprawach to {confusedB}zwykle nie mąż?
+b93adfbd33	[pickup5] {worriedA}Co jest?
+3d6092ecdb	[pickup5] {flusteredA}Po prostu... po prostu {sadB}nie sądzę, żeby to był on.
+f1b68c7ceb	[pickup5] {worriedA}Dobrze...
+a2c289ef98	[pickup5] {thinkingA}Jesteśmy tu, żeby przesłuchać Lawrence'a i {thinkingB}albo przesunąć go wyżej na liście podejrzanych, albo {doubtfulA}całkiem go skreślić.
+f9c0ec395e	[pickup5] {flusteredB}Skupmy się po prostu {sadB}na przesłuchaniu Lawrence'a. {worriedA}Gdzie była, z kim {thinkingA}się spotykała... {thinkingB}takie rzeczy.
+124f99da6a	[pickup5] {thinkingB}Po prostu {worriedA}zrób to dla mnie.
+ed1744f160	[pickup5] {doubtfulA}No.
+d9dd7468be	[pickup5] [alt] Wstydziłem się. Nie... nie mogłem żyć z tym, co jej zrobiłem... że postawiłem ją w sytuacji, w której musiała...
+1a73cc0277	[pickup5] {NormalB}Robiłem, co mogłem, żeby trzymała się z daleka.
+55083b8aa5	[pickup5] {NormalB}Lepiej jej beze mnie... {NormalA}bez mnie, ciągnącego ją na dno. Zasługuje na to. {WorriedA}Wiele przeszła.
+a0755545b3	[pickup5] [alt] Oddajcie mi broń. Na wszelki wypadek.
+1b701cd1eb	[pickup5] [somber] {flusteredB}To tylko dwa słowa... a {worriedA}umarł, nie {sadB}widząc ich...
+129b6bca87	[pickup5] {sadA}Przykro mi.
+aff5463185	[pickup5] {flusteredA}Mam go otworzyć?
+88ba88e4da	[pickup5] {worriedA}Nie wiem, czy {sadB}to w porządku.
+c118dd580b	To twoja decyzja.
+a230bcba22	[pickup5] {thinkingB}Co tam jest napisane?
+790957ff21	[pickup5] [beat] {sadA}Przepraszam... {worriedA}Faith.
+24782caa44	[pickup5] {doubtfulA}To twoja decyzja. Zrób, {thinkingA}co uważasz za słuszne.
+69c3685829	[pickup5] {thinkingA}Muszę wiedzieć.
+eb01912ef7	[pickup5] {worriedA}Powinnaś. Może być {thinkingA}tam coś, co nam pomoże. {doubtfulA}Wskazówka. Trop.
+4f2ceea557	[pickup5] {worriedA}Masz rację.
+2d3a4afa8d	[pickup5] {normalB}Nie był przeznaczony dla nas.
+b2190d9f66	[pickup5] {sadA}Jest tu napisane... Przepraszam... {worriedA}Faith.
+8b8c6065c3	[pickup5] {sadB}Ja też {worriedA}przepraszam.
+9a2faaee00	[pickup5] {worriedA}[somber]Masz jeszcze ten list?
+28968a74f9	{worriedA}[pickup5] [somber] Tak.
+63e98fbe76	[pickup5] [stern] {worriedA}Musimy ustalić, {sadA}co się tu stało... i {thinkingB}znaleźć tego, kto to zrobił.
+6f89254c4d	Kiedy ostatnio widziałeś żonę?
+08e6c465e6	[pickup5] {sadB}Lawrence, co {sadA}ty zrobiłeś?
+9bd99a0bee	Otwór
+238ab55681	{angryC}Zostań tu!
+a144358baf	{thinkingA}Wygląda na to, że Faith zabrała wszystkie swoje rzeczy.
+5ecc693c85	[pickup5] Proszę pana, musi pan otworzyć drzwi.
+5544c1caac	[pickup5] O mój Boże. Bigby, on żyje.
+dfe6b6854a	[pickup5] Podnieśmy go.
+f17406c3b9	[pickup5]Co się dzieje?
+42225473be	[pickup5] Znaleźliśmy cię tutaj, w fotelu, z czymś, co uznaliśmy za śmiertelną ranę. Powinniśmy wezwać Swinehearta, żeby cię obejrzał.
+e0c856593f	[pickup5] Chwileczkę z tym, Śnieżko.
+d046dafca5	[pickup5] [alt] {NormalB}Szkoda tylko, że nie potrafiłem zrobić dla niej więcej...
+b4232b0760	[pickup5] [alt] Zawsze przy mnie była.
+bd755cab9a	[pickup5] [alt] Nie mogłem już tego znieść... tej winy.
+6a1cfcf3d1	[pickup5] [alt] [hushed] Musimy się dowiedzieć, czemu ktoś tam się włamuje.
+2da484349e	... {NormalA}pierdolony Georgie.
+35ecd771aa	[pickup5] [alt] Jak tylko ustalimy, po co przyszli, Bigby ich aresztuje.
+d763dd1f03	[pickup5] [alt] [conditional to knowing about Faith] Pomyśl o swojej żonie.
+a15bc2f2b0	[pickup5] [alt] W tym stanie i tak nie możesz się ruszać, więc po prostu leż spokojnie.
+f2c9bfdcc3	[pickup5] Moja najdroższa Faith, nigdy nie chciałem cię skrzywdzić i nie zniosę świadomości, że to zrobiłem. Tak będzie najlepiej. Jeszcze się zobaczymy. Kochający cię, oddany Lawrence.
+8d685e47c5	[pickup5] To niewiele pomaga.
+3ed6385490	[pickup5] Co to jest?
+32159c13b8	[pickup5] [reads] Tabletki nasenne na receptę.
+8709e1f9d8	[pickup5] Wygląda na to, że on... albo oni... próbowali wszystkiego po trochu.
+6608850800	[pickup5] [to himself] Zostanie ślad.
+41deb52858	[pickup5] [to himself] Zniszczył sobie koszulę.
+89782cc501	[pickup5] [quietly] Nie wiem.
+4be7fb024f	[pickup5] Nigdy tak naprawdę nie wyglądają "spokojnie", co?
+fe4eb65efa	[pickup5] {thinkingB}[gruff] Przed tym wszystkim.
+fcbd3a097e	[pickup5] {worriedA}Jak myślisz, kiedy to zrobiono?
+af48891a31	{angryA}Nie zaglądaj ludziom {thinkingB}do domu. {thinkingC}Sprawdź, czy jest.
+9729ca456b	{thinkingC}Co robisz?
+1af19b7497	{flusteredA}Widzisz coś?
+158dae473d	{angryB}Nie!
+3d4202a72d	Tabletki
+09f5f9f3d1	Rana postrzałowa
+8af5861002	Twarz
+8ae5811be1	Zdjęcie
+a961c4c1af	{NormalB}Wiedziałem, że tak się stanie... wiedziałem...
+8d1a4d0d50	{WorriedA}Wiedziałem, że tak się stanie... {NormalB}wiedziałem...
+b6f48d03f3	[pickup5] Podnieśmy cię.
+c3bf447eab	Otwórz
+c8d1b20fd3	Zbliżenie
+fdc52acf58	[pickup7] [whispering to Snow] Nie wiem, kto to...
+5be7ece45a	[pickup7] [whispering to Snow] Co on robi?
+191dbeb616	[pickup7] [whispering to Snow] Czegoś szuka?
+e59f8df765	[pickup7] [whispering to Snow] Mm.
+98eab4b28a	[pickup7] [whispering to Snow] Po co przeglądać jego książki?
+5ac0cd770f	[pickup7] [whispering to Snow] Chyba nie przejmuje się Lawrence'em...
+2174a986f0	[pickup7] I nie wiem, czemu to leży tutaj.
+2e698d1956	[pickup7] [whispering to Snow] O kurwa...
+0e0772250b	[pickup7] [whispering to Snow] Tylko bądź cicho, Lawrence...
+d39d7a2bb6	Nóż
+56424d1834	Lustro mi to pokazało...
+8ab707a565	Może powinienem był przyjść tu najpierw.
+d2997f79ee	Dobra, spróbujemy.
+3a03345ca1	Chyba nie mamy wyboru...
+3a00ef88e4	Intruz
+8ad79eae3e	Użyj pistoletu z

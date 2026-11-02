@@ -1,0 +1,251 @@
+# Odcinek 2 - env_fabletown_woodlandscell (przesłuchanie Dee) cz. 2
+68001704b8	{worrieda}{Body-SitCuffed}[nervous] Nie wiem, gdzie on teraz jest.
+596b94d72f	Co z tą Faith?
+0981136a80	Chciałeś znaleźć Faith?
+8e40deb2c5	Co chciałeś znaleźć?
+810d433449	{worrieda}{Body-SitCuffed}Słuchaj...
+a41bab6e62	{thinkingb}Wspomniałeś o Faith...
+d7a6a26e02	{thinkingb}Szukałeś Faith...
+a56f2dc993	{defensivea}To żadna tajemnica. Widziałeś mnie.
+5306d3181b	{defensivea}Poszedłem do jej mieszkania.
+8ccd196ac3	{confuseda}{Body-SitCuffed}No.
+becf0a7e0f	{worrieda}{Body-SitCuffed}Przykro mi, nie mogę ci pomóc. {defensivea}Więcej o tym nie powiem.
+48fa847f4b	{thinkinga}No weź, Dee. Czego chciałeś od Faith?
+0b6ff8814b	Wyglądasz na wkurzonego.
+9ed1a4493d	{thinkingb}Co ukradła?
+9863417cb8	{doubtfula}Okradła cię?
+70f13d7af6	{defensivea}{Body-SitCuffed}[scoffs] Zajebiście.
+82875a58dc	[uncomfortable]{worrieda}{Body-SitCuffed} Wpakujesz mnie w kłopoty, Bigby. {defensivea}Nie mogę odpowiadać na więcej pytań.
+428226ac6a	[gasps]
+64491e9015	{angryb}Po prostu powiedz mi, kto jest twoim pracodawcą.
+b9094c4000	{worrieda}{Body-SitCuffed}[angry] Nie mogę ci powiedzieć! {angrya}A popychanie mnie tego nie zmieni.
+0268e22dd9	[angry] {worrieda} [cut] Myślisz, że ot tak poślę cię za moim bratem? {angrya}Gówno ci powiem!
+615399fc8d	{angryc}Po prostu powiedz mi, co knujesz.
+b53beb603f	[angry] {frustrateda} Mój brat i ja ciężko pracujemy i trzymamy gębę na kłódkę. {defensivea}Taka jest umowa.
+cdd914dec5	{angryb}Gdzie twój brat, Dee?
+0d5310e5a3	{feara}{Body-SitCuffed}[angry] Nie wiem, dobra?!
+7b12a0d2ff	[angry]{angrya} Nie widziałem go, odkąd poszedłem szukać... Faith--{feara}
+10bbb783c3	{worrieda}{Body-SitCuffed}[angry] Ale on nikogo nie zabił!
+56cb1ab127	{angrya}[angry] Więc zostaw go w spokoju.
+eb53697974	[aggressive] {angrya}Wspomniałeś o Faith. Co z nią?
+12fd5cd844	{confuseda}{Body-SitCuffed}[uncomfortable, angry] Poszedłem do jej mieszkania.
+7c75cc008b	[angry] {worrieda}To żadna tajemnica. Widziałeś mnie tam.
+8a29eec08d	{frustrateda}{Body-SitCuffed}[angry, uncomfortable] Jej pierdolonego mieszkania.
+e97262cf35	{angrya}[aggresive] Szukałeś Faith?
+87097fb893	{angrya}{Body-SitCuffed}[angry, uncomfortable] Jej pierdolonego mieszkania.
+3ddb4efc6f	{mockinga}Dobra, Dee. Skoro nigdy nie odpowiedziałeś na moje pierwsze pytanie...
+420f167ee4	{angrya}Czego chciałeś od Faith?
+987f2f24f7	{Body-SitCuffed}[angry] Gówno ci powiem.
+d6ba6676ab	Co ukradła?
+498ecace9f	Okradła cię?
+18f7902fcb	Więc ją zabiłeś?
+0725b3e4ad	{angrya}Co ukradła? {thinkingb}Musiało być cenne...
+99e4285ffc	{angrya}Okradła cię?
+9104071e2f	{angrya}Czyli coś ci ukradła, a ty chciałeś się zemścić. O to chodzi?
+fe04dfeab5	{mockinga}{alias 357209163} Cóż, to sprowadza mnie z powrotem do pierwszego pytania...
+b88af59198	{angryc}Dla kogo pracujesz?
+d87abf5cab	{angrya}{alias 357209165} To porozmawiajmy o twoim szefie.
+368bd66569	{defensivea}{Body-SitCuffed}[angry] Nie. Kurwa, skończyłem.
+775f79c601	[freaked out] Co ty robisz?
+34550bc4ad	Mówiłem, żebyś się kontrolował.
+61110e29a7	Co do diabła, Bigby?
+4b806c82db	Mówiłem, że nie chcę przemocy! A ty co robisz?
+5fec73f33b	To źle, Bigby.
+f6b09a32e1	Wszyscy możemy stracić pracę!
+f1bc62d199	Czy muszę ci przypominać, że jestem twoim szefem?
+578d93b776	Odczep się, Crane!
+6cf30b2b80	Odpowiadasz przede mną!
+6ceaf72b79	Robię to, co trzeba.
+3516ec628f	Jedyne, co musisz, to robić to, co ci każę.
+541dc5c6c2	[darkly] To się nie powtórzy.
+8e7f655ad0	Lepiej, żeby nie!
+699c0cfd58	{Body-SitCuffed}[angry] Koniec bycia miłym... o to chodzi?
+4a08286260	{Body-SitCuffed}[angry] Więc... tak to będzie wyglądać.
+93a9d0a4c6	{Body-SitCuffed}[angry] Myślałem... że skończyliśmy... z tym gównem.
+9e3c53b249	{Body-SitCuffed}[angry] Rozbiłeś mi na twarzy pierdoloną butelkę, a teraz chcesz być moim najlepszym kumplem?
+bd538bc387	{Body-SitCuffed}[angry] Przypaliłeś mi pierdoloną rękę, a teraz chcesz być moim najlepszym kumplem?
+4bde096c72	{Body-SitCuffed}[angry] Obiłeś mi pierdoloną gębę, a teraz chcesz być moim najlepszym kumplem?
+f840b5974e	{Body-SitCuffed}[angry] Wybiłeś mi zęby z pierdolonej gęby, a teraz chcesz być moim najlepszym kumplem?
+26c138bff4	{Body-SitCuffed}[angry] Spuściłeś mi łomot, a teraz chcesz być moim najlepszym kumplem?
+5954dac40f	{Body-SitCuffed}[angry] Kurwa, nie ma mowy.
+55e2b9fd22	{Body-SitCuffed}[muttering] Niewiarygodne.
+0c43e1bd4f	Dopóki współpracujesz, będę miły.
+89adfd1ae5	Wszystko zależy od ciebie.
+ae6a1f31d8	Mamy to za sobą. To się nie powtórzy.
+428b8bcfcb	Słuchaj, sprawy wymknęły się spod kontroli.
+3341f35ef2	Nie odpowiadałeś na moje pytania.
+bb6f87b355	Dopóki pomagasz, przemoc nie jest potrzebna.
+c77cde6c24	[angry] Ty pierdolony kłamco!
+2faccd2bfb	{Body-SitCuffed}[angry] Mówiłeś... że jak będę współpracował, będziesz miły!
+3f7c92d194	{Body-SitCuffed}[angry] Mówiłeś... że jak ci pomogę, przestaniesz mnie krzywdzić!
+1deff11950	Mówię ci, co mogę.
+45a1cc37b4	{Body-SitCuffed}[angry] Mówiłeś... że już nie będziesz tego robił!
+4582afd30f	[angry] Odbiło ci.
+258ccb5a5b	Słuchaj, Bigby. To nie zadziała.
+6ab3140fd6	[cut] Pokaż mu, kto tu rządzi. Zmuś go do mówienia.
+4647b77c05	Nigdy nie zacznie mówić, jak będziesz go traktował jak pierdolonego księcia!
+af8f230752	Co dalej, Bigby? Zrobisz mu masaż? Zaproponujesz mu wykwintny stek?
+5f2f457a32	Spróbuję po twojemu.
+d15a291e36	{angryb} [cut] Jeśli się nie uspokoisz, każę cię wyprowadzić.
+b1eacdce4b	[muttering] [cut] {cockya}Chciałbym zobaczyć, jak próbujesz.
+5933828f9a	{angrya}To działa.
+bda50fbccd	{angrya}Akurat! {thinkinga}Myślisz, że osiągasz jakieś wyniki?
+677e3cda5d	{cockya} [cut] Bez użycia odrobiny siły nie osiągniesz wyników.
+33092b221f	{thinkingb}Dobra. Spróbuję po twojemu.
+e8674cc3e9	{outragea}Zamknij się, staruszku. {thinkinga}Tak to musi wyglądać.
+aa69b9fada	[forceful] Ostatnia szansa, Dee. Dla kogo pracujesz?
+046ad84d3c	[angry] Piękna się co do ciebie myliła.
+1e190b3d69	[angry] {Body-SitCuffed}Pierdol się! Jesteś kawałkiem gówna, Bigby.
+432709499f	[cut] Nie zdradzę sekretów damy.
+759675701d	{Body-SitCuffed} [cut] Widziałem ją wczoraj w nocy, ale nic więcej nie powiem.
+07e053ccf8	[cut] Skąd znasz Piękną?
+82a5c46c6a	Piękną?
+1fdb68c98c	[angry] Pieprzysz głupoty.
+6c2ee73b7b	[being choked] Och, jesteśmy dobrymi przyjaciółmi.
+5d1c70860d	Dość tego!
+965aec46e6	Nie będę tolerował tego barbarzyństwa!
+0f8402bc8f	[angry] Piękna miała co do ciebie rację.
+7d4c3e56a7	Mówiłeś, że będziesz przestrzegał moich zasad!
+3e98cc5fbd	Ostrzegałem cię, Bigby!
+88f8dc541d	To się kończy teraz!
+48e19bbdad	Ktoś jest za to odpowiedzialny. Ktoś to zrobił!
+3bbd291bed	Robię to dla Śnieżki!
+f55817acf6	Odebrali nam ją, Crane.
+fcfe90f733	Doszło do morderstwa, Crane. Naprawdę chcesz kolejnego?
+4f4d9d65b6	To twoje brutalne zachowanie i niezdolność do panowania nad własną naturą spowodowały ten bałagan.
+9a8ba239f6	Gdyby nie ty...
+f50c3ec37a	Śnieżka mogłaby wciąż żyć.
+1c8f567829	Pierdol się!
+72dfd60c4a	Chcesz rozmawiać o Śnieżce?
+561e25ccad	Myślisz, że ktoś chciał zabić Śnieżkę? Czy nie jest bardziej prawdopodobne, że ktoś chciał się zemścić na tobie, zabijając ją?
+60b2ee025d	[cut] Myślisz, że ty nie masz wrogów?
+5e367470e5	Może po prostu powiesz mi, dla kogo pracujesz?
+05e4c1574c	[cut] Czekaj, znasz Piękną?
+d4e5ddde03	{Body-SitCuffed}Słuchaj.
+c402aaae25	Nie jesteś złym gościem, cokolwiek mówi o tobie Piękna.
+28d1203292	Przynajmniej nie jesteś kompletnym draniem.
+6ca772c0c6	{Body-SitCuffed} [cut] No.
+61e7e28d88	[getting angry] Nie ma mowy, żeby Piękna zadawała się z takim śmieciem jak ty.
+b8034cb967	[cut] No, widziałem ją wczoraj w nocy. Nie powiem ci, co robiliśmy, ale... możesz sobie wyobrazić.
+e3553efec0	A co jest ze mną nie tak? Mówisz, że nie jestem wystarczająco ładny?
+48cc96a053	No, jesteśmy bardzo blisko.
+4ded438170	[cut] To absolutnie niedorzeczne!
+00110ed4cc	W ten sposób nie wyciągniesz z niego żadnych odpowiedzi.
+6cf90ae897	Myślałem, że to śledztwo w sprawie morderstwa, a ty traktujesz tego gościa jak pierdolonego gościa w domu!
+260ea170b5	Wcześniej robiłeś postępy, co to za babcine głaskanie?
+59637e0b7f	Ustaliłeś to? Masz pojęcie, gdzie go znaleźć?
+a32aa2cfa0	{angrya}Wszystko idzie dobrze.
+d5bf4be33f	{angrya}To powiedz mi, kto jest mordercą?
+29ac1cb141	Nie wiesz, bo on nic nie mówi!
+f22be03217	{angrya}Nie wtrącaj się, Sinobrody!
+d45f477e77	{angrya}Odwal się, Sinobrody!
+8af0855cb9	Wynoś się stąd, zanim cię zwolnię!
+5517a9a131	Kończę z tym wszystkim.
+3392de64e8	I pozwolisz, żeby ten tępy gnojek wyszedł stąd w jednym kawałku?
+8dfe3170ee	Śnieżka nie żyje. Jedna z nas!
+2c05ed17f6	{Body-SitCuffed}Ach... ku... co do kurwy!
+2f731db184	Z drogi, pokażę ci, jak to się robi.
+ddb3561e2e	[darkly] Wydałem ci polecenie.
+68c9222303	Poddaj się!
+141b44ea56	Nie wygrasz tego, Sinobrody!
+531ad43ee7	Jesteś wilkiem czy tylko smutnym szczeniaczkiem?
+1d956e146f	Uff!
+293263628b	No dalej!
+d129e20ea6	[growl]
+c900878c48	Co tu się dzieje?
+d1e03157a2	{AngryA}Mamy ważniejsze sprawy do omówienia.
+956d9fc664	[tired, a little annoyed] {AngryA}Wyjaśnię później.
+0522878bb3	[tired] {Body-StandA}{AngryA}To długa historia. {Body-Hips}{FlusteredA}Ja...
+064aa8348d	{AngryA}Wygląda na to, że używaliście Tweedledee jako {AngryB}worka {AngryA}treningowego.
+6096d53092	{CockyA}No proszę... cóż za niespodzianka.
+4238ce474a	{HappyA}Nie mogę uwierzyć.
+e31ec7d63a	{WorriedA}Żyjesz?
+ffb6e3db8a	[tired] {AngryA}Głowa, którą znaleźliście, to nie byłam ja. Z jakiegoś powodu tylko mnie przypominała, a ja w tym czasie szłam tropem prowadzącym do ciała.
+b1793a1b85	{AngryA}Odnaleźliśmy ciało.
+4ac1fb789c	{AngryA}Jeszcze z tobą nie skończyłem.
+9e29ebe2bf	{AngryA}Zatrzymaj go tu, jeśli chcesz, ale musimy iść.
+4601f42c85	{Body-SitCuffedhurt}{Paina}[groans in pain]
+ed4c6b17a8	{FlusteredA}Boże, ależ on wygląda.
+b0afae1c82	{Body-SitCuffed}[sullen] Po prostu mnie puść, dobra? Nie mam dla ciebie odpowiedzi.
+87cace42b5	{Body-SitCuffed}[snarky] Wiem, że lubisz moje towarzystwo, ale chciałbym już iść.
+0f626c9e66	{Body-SitCuffed}[snarky] Wiesz, naprawdę lubię spędzać z tobą czas, Bigby. Jesteś taki uroczy. Zostańmy przyjaciółmi.
+593601f8b0	{Body-SitCuffed}[snarky] Wiesz, jak chciałeś się ze mną napić, mogliśmy się spotkać w Trip Trapie.
+4272f228e6	{Body-SitCuffed}[sullen] To się bardzo szybko robi nudne.
+4bafefca9d	{Body-SitCuffed}Zostało coś z tego cygara?
+e79127d036	{Body-SitCuffed}[sullen] Skończyłeś już? Starzeję się tu.
+3a51c24882	{Body-SitCuffed}[sullen] Przynajmniej mogę teraz ruszać palcami.
+c690dbcd70	Ale miło by było, gdybyś mnie wypuścił.
+b7dfb76841	{Body-SitCuffed}No weź, Bigby. Obaj wiemy, że to do niczego nie prowadzi.
+1cdfdd37ea	Żartowałem. Nie chcę być twoim przyjacielem.
+944dd14833	[angry] Wypuść mnie.
+92e815f091	{Body-SitCuffed}[angry] To bzdura!
+37bedddc28	{Body-SitCuffed}[angry] Nie masz prawa mnie tu trzymać!
+17510a4cc2	[angry] Nic nie zrobiłem.
+73556e8e94	{Body-SitCuffed}[angry] Pierdol się, Bigby!
+9dc66476b2	{Body-SitCuffed}[angry] Jak stąd wyjdę, rozbiję ci na twarzy pierdoloną butelkę! Zobaczymy, jak ci się spodoba.
+21be161f9a	{Body-SitCuffed}[angry] Jesteś w rozsypce, Bigby. Spójrz na siebie.
+35db233b1d	{Body-SitCuffed}[angry] Zostało coś z tego cygara? Wypalę ci tę pierdoloną twarz!
+1fea063030	[angry] Nie możesz mnie tu trzymać.
+d62196e96c	{Body-SitCuffed}[angry] Kiedyś musisz mnie wypuścić.
+d69e947481	[angry] Bo mam jeden z twoim nazwiskiem.
+3431f0a544	{Body-SitCuffed}[angry] Mam nadzieję, że umiesz przyjąć cios, Bigby.
+3582ada5f3	{Body-SitCuffed}[angry] Rzygać mi się chce przez ciebie.
+4cd5ccee81	{angryb}Zapytam jeszcze raz. {angrya}Gdzie twój brat?
+29febcc2a3	{Body-SitCuffed}[mock creepy voice] {sarcastica}{body-sitcuffed}Stoi tuż za tobą.
+24a0b0ad9e	{angrya}Mów, gdzie jest twój brat!
+a4b91f8275	{confuseda}{Body-SitCuffed}To nie zadziała.
+2f831f7c17	{Body-SitCuffed}[angry] {angrya}{body-sitcuffed}Po co? Żebyś mógł jego też stłuc?
+4f728441ca	{Body-SitCuffed}{alias 357209441} [angry] {angrya}{body-sitcuffed}Nie!
+779ae2930c	{Body-SitCuffed}[stressed] {confuseda}{body-sitcuffed}A czemu ktokolwiek jest gdziekolwiek?
+82aaa8c2d6	{Body-SitCuffed}{feara}{body-sitcuffed}Nie ma mowy!
+e6dbf023d2	{Body-SitCuffed}[angry] {angrya}{body-sitcuffed}Gówno ci powiem.
+f6ef56e9bb	{Body-SitCuffed}[very stressed] {feara}{body-sitcuffed}Nie mogę ci powiedzieć!
+d9c71d388b	{Body-SitCuffed}[very stressed] {feara}{body-sitcuffed}Nie mogę!
+abc96fa08c	{Body-SitCuffed}[angry] {angrya}Nic nie powiem!
+b53f605e64	{Body-SitCuffed}[angry] {angrya}{body-sitcuffed}Nie!
+bbe750df44	{thinkinga}Co mogę zrobić, żeby było ci wygodniej?
+39341cf58c	{sarcastica}{Body-SitCuffed}Mógłbyś mnie wypuścić, {frustrateda}ale wątpię, że to proponujesz.
+9e707c54f4	{angrya}{Body-SitCuffed}[angry] Nie kupuję tej gry w miłego gościa.
+a5691cea89	Podać ci coś?
+e70ff6455a	{worrieda}Wiem, że to musi być trudne.
+ff49d3f652	{confuseda}{Body-SitCuffed}Możemy po prostu przejść do rzeczy?
+043c75c911	{suspiciousa}{Body-SitCuffed}Widzę, co robisz.
+2b3550f519	{Body-SitCuffed}[angry] {angrya}Pierdol się!
+e0c6ccfc32	{frustrateda}{Body-SitCuffed}[angry] Nawet nie próbuj, Bigby.
+b38d75c9d0	[threatening] {angrya}Nie wyjdziesz z tej celi, dopóki nie zaczniesz gadać.
+3d7e5879c3	{suspiciousa}{Body-SitCuffed}Szkoda strzępić języka, kolego. Na mnie to nie działa.
+bf4ce80fbd	{angrya}{Body-SitCuffed}[angry] W dupie mam twoje groźby!
+784f3c7a5c	{thinkinga}Jak nie zaczniesz gadać, wyrwę ci gardło.
+79b4a71fc8	{angryc}Jak nie zaczniesz współpracować, wyrwę ci tę pierdoloną rękę.
+2bdd3f89d7	Już to robiłem.
+208e8097ed	{angrya}Zacznij gadać {mockinga}albo zjem cię żywcem.
+702d66a466	{defensivea}{Body-SitCuffed}[angry] Powiedz to komuś, kogo to obchodzi.
+6046e7fb86	{angrya}{Body-SitCuffed}[angry] Odpierdol się.
+b12ab83e2f	{happya}{Body-SitCuffed}Chciałbym zobaczyć, jak próbujesz.
+0ed2795964	{sarcastica}{Body-SitCuffed}Puste groźby.
+2598f109d2	Przynajmniej mam swoje hobby.
+16e766e2a7	Sprawy zdecydowanie się pogorszyły.
+c8b391caaf	Tylko nie to znowu.
+d746c5473d	Naprawdę lubisz zadawać ludziom ból?
+bad687aaa4	Powiem ci coś, Bigby.
+da89c83d0d	Choć zdecydowałem się na: "Jak tam głowa?".
+a781021a55	{thinkingb}[cut] Jesteś podejrzanym, {angrya}wiesz, co to znaczy?
+32d425922c	{angrya}Proszę cię, spróbuj być poważny, Dee.
+98c8c913d2	[frustrated sigh]
+b4c7d7bc71	Wyglądało w porządku,
+bb35e56735	{defensivea}Mój brat i ja bardzo cenimy lojalność.
+69646c34fd	{feara}{Body-SitCuffed}Jej mieszkania.
+71c75b560f	{normala}{Body-SitCuffed}To wszystko.
+e8d3b974fa	Pozwól mu pracować!
+bfd57ca58c	Nie chcesz się dowiedzieć, kto to zrobił?
+9d11f9eac2	[tired] {ThinkingA}Musisz pójść ze mną.
+e26e73cb1a	Pewnie to przez ciebie ona nie żyje.
+de1f7175d8	{angrya}{Body-SitCuffed}[angry] Poszedłem do mieszkania Faith. Tylko o to mi chodziło.
+ce5631a3a1	Sinobrody!
+b5f2e85a51	Już słyszałem twoje zdanie.
+370e7c568b	Liczyłem, że to powiesz.
+257598df73	Proszę.
+6804643ce4	[angry] Nie każ mi na to patrzeć.
+813e794aa0	Nie chcę tego oglądać.
+d15de42e3b	To kastet, Crane.
+3bcd665e7c	Nie wiedziałem, że robią takie duże.

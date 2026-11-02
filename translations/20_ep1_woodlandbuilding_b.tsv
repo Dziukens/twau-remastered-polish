@@ -1,0 +1,192 @@
+# Odcinek 1 - env_fabletownwoodlandbuilding cz. 2
+22912c4010	[pickup4]Słuchaj, cokolwiek to jest, to sprawa między tobą a Bestią. Nie mieszam się.
+21844112a3	Nie mieszam się.
+5d942b397a	[pickup1]Wszystko ci później wyjaśnię. Naprawdę, ale muszę już iść.
+3a54083608	[pickup1]Dziękuję... że mi ufasz. Naprawdę. Doceniam to, Bigby.
+affdead070	[pickup1]To nie jest to, co... możesz myśleć.
+1b36b6b2ed	[pickup4] To... dokąd się wybierasz?
+17cf1a0deb	[pickup1]Wiem, że to wygląda trochę dziwnie.
+6d8056c923	[pickup1] Nie... spodziewałam się nikogo.
+ea1ae0908f	[pickup4]Słuchaj, czeka mnie godzina papierkowej roboty i musiałem już dziś użerać się z jednym dupkiem, więc po prostu...
+0dceeac3af	[pickup1] Dobrze... dobrze.
+7bd1c9d7ef	[pickup1] Przysięgam.
+8521fef6b6	[pickup1] ale jest wyjaśnienie.
+ddd1d202c7	[pickup1] Po prostu... no wiesz... wyszłam. Na spacer. To wszystko.
+d39f272ab2	Usta
+6833e5c3ce	Szyja
+d567613232	[pickup4]{ThinkingA}Na razie nic nie myślę. {ThinkingB}Daj mi sekundę.
+3ed56c1527	[pickup4]{Body-StandA}{SadA}Ja. {SadB}Leżała dokładnie tak. {ThinkingA}Nie dotykałam jej.
+72700bfdcd	[pickup4]Więc... widziałaś kogoś jeszcze?
+43b0922a99	[pickup4]Żadnych taksówek? Głosów? Zwykłych?
+de6048529c	[pickup4][confident]{Body-StandA}{ThinkingB}Nie. Nikogo.
+97d6262727	[pickup4][less confident]{WorriedA}Może. Ale... nie, {ThinkingA}chyba nie. {ThinkingB}Pamiętałabym.
+4d78c08c75	[pickup4]{Body-StandA}{ThinkingA}Gdybyś się zastanawiał... znalazłam ją tak. {ThinkingB}Niewiele więcej mogę ci powiedzieć.
+bbd213c804	[pickup4]{Body-StandA}{ThinkingA}Bigby, {WorriedA}czy ktoś z nas... to zrobił?
+d93df44a58	[pickup5] Widać, że ktoś jej tu po prostu nie rzucił. Celowo ją ułożono... żebyśmy ją znaleźli.
+86a9f3fce2	[pickup4]Nikogo tam nie ma.
+14a832fa70	[pickup4] Mogą być Pięknej. Była tu wcześniej.
+a9d76a25f6	[pickup4] Naprawdę?
+68b2c2df7d	[pickup4]Wygląda na ślady stóp.
+ee7c712c46	[pickup4]Chyba kobiece, skoro są takie małe.
+326f12e201	[pickup4]Może. A może nie.
+692b1bbfdc	[pickup4]Tej dziewczyny?
+b6b01617b0	[pickup4] No.
+91df0437b1	[pickup4]Nie wiem. Mogą być czyjekolwiek.
+68f7c7e07d	[pickup4]Ktokolwiek tam był, mógł coś widzieć...
+8b43487819	[pickup4]Masz pojęcie kto?
+6e5d2a072c	[pickup4][disappointed]Och. Szkoda.
+b1affed250	[pickup4] Do kogo mogą należeć?
+7ed457faff	[pickup4][disappointed]Szkoda, że nie wiemy więcej.
+4dcb41832c	[pickup4]Hej, Śnieżko. Wszystko w porządku?
+13af302dcf	[pickup4]Tak, dzięki. Ale musisz się pospieszyć. Nie zostało nam dużo czasu.
+63d4583787	[pickup4]Powinniśmy niedługo wracać do środka.
+824bf3fe4c	[pickup4]Dobrze.
+3e00798de2	[pickup4]I to wszystko?
+bb9ed2e362	[pickup4]To wszystko. {SadA}Przykro mi.
+c9266c65b1	[pickup4]{ThinkingA}Nie.
+c09af29652	[pickup4]{SadA}{ThinkingA}Od razu przyszłam po ciebie.
+7397a8efd3	[pickup5]No. Więcej krwi. Ktoś mógł się o to zaczepić, przechodząc przez płot.
+2d96b3f953	[pickup5] [to himself] Krew. Jeszcze mokra.
+999c13bbef	[pickup5]No. Więcej krwi.
+3a92413c0d	[pickup5] Ktoś mógł przeskoczyć płot, zaczepić się i zostawić ślad, który znalazłem wcześniej.
+bd5ab73ce4	[pickup4]To musi mieć coś wspólnego z krwią na płocie.
+81a7e216a3	[pickup5] [to himself] Wystarczająco ostre.
+f9ae1539cb	[pickup5][putting it together as he talks] [to himself] Materiał... wygląda na dżinsy. Niewiele mi to mówi.
+9619c7d86d	[pickup5] [to himself] Nic nie wskazuje, że leży tu długo...
+08c0997cec	[pickup4]To ma sens. Nie ma śladów walki. Ale skąd wiesz?
+d66fe1b9c4	[pickup4]Ktoś przyniósł ją tu z zewnątrz.
+d16cf69c8c	[pickup4]Znalazłem krew na płocie z tyłu. Ktoś przez niego przeskoczył.
+ab803e27ba	[pickup4]Znalazłem ślad krwi.
+cf06aaaeeb	[pickup4]Zobaczymy...
+561440e9b5	[pickup4]Zaufaj mi.
+8539fa8dee	[pickup4]Ufam ci. Ale będziemy potrzebować więcej prawdziwych dowodów.
+09ef65dd18	[pickup4]Te ślady stóp tam, na trawie.
+6dcb56a91d	[pickup4]Pewnie tak. Ale mógł je też zostawić ktoś, kto tu mieszka.
+fe56f5a235	[pickup4][not happy about it]{Body-StandA}{ThinkingA}Dobrze... {ThinkingB}Chyba tym razem muszę ci zaufać.
+6226b3ebd0	[pickup4]{Body-StandA}{ThinkingA}Wiadomość? {NormalA}Nie wiem, Bigby. {ThinkingB}W Biurze ciągle dostaję skargi, ale...
+3a7473d316	[pickup4]To jest wiadomość.
+3550c91687	[pickup4]No... Zobaczymy.
+a24681d2a9	[pickup4] Ofiara... może być symbolem czegoś.
+7d2b41a26c	[pickup4][defensive]Dobrze, ale twierdzę, że to ogromne założenie. Poza tym nie sądzę, żeby zabójca sympatyzujący z biedotą ZABIŁ kogoś z nich, żeby coś udowodnić.
+bfb719d17f	[pickup4]No tak... chyba masz rację. Zabójca chciał, żebyśmy wiedzieli, co zrobił.
+0566582165	[pickup4]Ktokolwiek to zrobił, wcale tego nie ukrywa. Ułożenie głowy... jest dokładne. Celowe. Położono ją tu właśnie po to, żebyśmy ją znaleźli. My wszyscy.
+f50c4c01a1	[pickup4]Drwal groził, że ją zabije, kiedy byłem w pokoju... Może chce, żebym wiedział, że to on.
+462445630e	[pickup4] [going along with it] To chyba możliwe...
+da055e746b	[pickup4]Przepraszam, Śnieżko, po prostu nie jestem jeszcze gotów, żeby to powiedzieć.
+cd515471ee	[pickup4][annoyed]{Body-StandA}{AngryA}Dobrze. {ThinkingA}Chodźmy na górę.
+a78b9599d9	[pickup4]Dobrze, świetnie. To konkret. Więc ktoś z zewnątrz...
+aa961a780c	[pickup4][a little hurt] To, że jej nie poznałam, nie znaczy, że mnie to nie obchodzi.
+7262d5814d	Nie mów mu.
+3d4ec84e4b	Zrób, co musisz.
+1019cb971f	Poczekaj trochę...
+a67278f784	[pickup4] Grimble?
+4ad843b364	[pickup4] {ThinkingA}Tak. Potem otworzyłam drzwi {SadA}i znalazłam ją. Tak jak leży.
+ec00590041	[pickup4] {SadA}...chwilę mi zajęło, zanim zrozumiałam, na co w ogóle patrzę.
+ec556cba26	[pickup4] Baśnie ciągle narzekają na swoje warunki. Słuchaj, nie mówię, że to twoja wina.
+1f73ca8bbb	[pickup4] [pause] {WorriedA}Zastanowię się.
+80c82d2839	[pickup4] [thinks] Chyba nie ma sensu tego przeciągać.
+81070ef86a	[pickup4] Powinniśmy niedługo z nią porozmawiać. Sprawdzić, czy kogoś widziała.
+6625ebd9ab	[pickup4] [to herself, quietly] Hmm...
+449811431c	Słupek płotu
+d25b4bd4c7	Brama
+2bb03f0e6f	[pickup]W Baśniogrodzie nie było morderstwa od... bardzo dawna...
+57e0bbd104	{Body-StandA}{WorriedA}Bigby... Masz pojęcie, co się dzieje?
+572f18f7a7	{ThinkingA}To po prostu takie... {SadA}straszne.
+3da8779099	{ThinkingA}Jak to się stało? {ThinkingB}Dlaczego ona?
+a9caf62c91	[pickup4]Co właściwie każe ci tak myśleć?
+ee2e07ecff	[pickup4]Po prostu nie chcę, żeby się wtrącał.
+95ddd3d10a	Krzaki
+f64c63700e	[pickup5] {ThinkingB}Wzięłam marynarkę Grimble'a, żeby ją przykryć... {ThinkingA}a potem...
+e74a9d1049	[pickup5]Nikogo z tobą nie było?
+f0daed2172	[pickup5] Więc... powiedz mi, co się stało. Każdy szczegół.
+d9a8739b7e	[pickup5] {Body-StandA}{NormalA}Chciałabym móc powiedzieć więcej... {ThinkingA}Wyszłam z biura... minęłam stanowisko ochrony. {ThinkingB}Na szczęście spał.
+5b3992b011	[pickup5] {Body-StandA}{SadA}To po prostu...{FearA} straszne.
+91fee646c7	[pickup5] {ThinkingB}Tym bardziej nie powinniśmy wywoływać paniki, zanim nie dowiemy się, co się dzieje.
+ae162788fd	[pickup5] {ThinkingA}Rozejrzyj się. {ThinkingC}Niedługo zaczną tędy przechodzić ludzie.
+c3dd430bda	[pickup5] {WorriedA}To nie znaczy, że ktoś na pewno przyniósł to z zewnątrz, prawda?
+251f1db012	[pickup5] {Body-StandA}{ThinkingA}Widziałam to, ale...
+151d61ed12	[pickup5] No... przynajmniej nie przyszli z wnętrza Woodlands.
+9ba71156ff	[pickup5] {ThinkingA}Pod nieobecność króla Cole'a pełni obowiązki burmistrza... {ThinkingB}musi wiedzieć.
+d867a0c742	[pickup5] {Body-StandA}{NormalA}Pierwszy raz naprawdę się cieszę, że tyle śpi.
+8063244432	[pickup5]  [Snow hesitates] {ThinkingB}Będę musiała powiedzieć o tym Crane'owi.
+87c8f404db	[pickup5] Dopóki nie wiemy, co się dzieje, im mniej osób wie, tym lepiej.
+4ca36e9d48	[pickup5] Nie mów mu. To tylko wszystko skomplikuje.
+65104d0c7b	[pickup5] Mam aż nadto motywacji, żeby znaleźć tego, kto to zrobił.
+58c15f6582	[pickup5] {Body-StandA}{ThinkingB}On jest burmistrzem...
+68d5a25626	[pickup5] Zastępcą burmistrza. To stanowisko to żart.
+d6537ec122	[pickup5] Nie liczyłbym na to.
+76e41c2e5b	[pickup5] {Body-StandA}{ThinkingA}Też tak czuję. {ThinkingB}Na pewno nie będzie zadowolony, ale... {NormalA}taka jest procedura. {WorriedA}Mam nadzieję, że podejdzie do tego rozsądnie.
+601718cf14	[pickup5] [hmmphs] {ThinkingA}Ja nie.
+b273db67d0	[pickup5] Powinniśmy poczekać, aż będziemy mieli mu więcej do powiedzenia. Na razie wiemy tylko, że dziewczyna nie żyje. Powiedzenie Crane'owi tego nie zmieni.
+64b68f0676	[pickup5] {Body-StandA}{ThinkingA}To brzmi... {ThinkingB}rozsądnie, ale... {WorriedA}nie wiem.
+476dc6189f	[pickup5]{Body-StandA}{ThinkingB} Tak trzeba zrobić.
+1c57147fa6	[pickup5]{ThinkingB} Będzie tylko gorzej, jeśli się dowie, że to przed nim ukrywaliśmy.
+039f4e2837	[pickup5] {Body-StandA}{ThinkingA}I tak się dowie, więc równie dobrze możemy go uprzedzić.
+7b3b83af89	[pickup5] {ThinkingC}Wiem, że go nie lubisz, ale... to nasz szef. {ThinkingA}To część tej pracy.
+ae8b9a3084	[pickup5] {Body-StandA}{ThinkingA}Crane nie jest teraz najważniejszy. {ThinkingB}Musimy ustalić, kim była ta dziewczyna, żeby znaleźć tego, kto to zrobił.
+78f1fcdf22	[pickup5] No... to dokąd najpierw?
+b68a1c4392	[pickup5] Nie widziałaś go... on... też by się przydała pomoc.
+f6e0958f27	[pickup5] No, może książę Lawrence może poczekać.
+254673564e	[pickup5] Ropuch powiedział, kto tam był? Drwal?
+890be653a3	[pickup5] Nie wiem. Możliwe. Kimkolwiek był, Ropuch nie wyglądał na zadowolonego z jego wizyty.
+e2a8dbb28f	[pickup5] {Body-StandA}{ThinkingA}Dobrze. {WorriedA}I tak nie cieszę się, że muszę mu przekazać tę wiadomość.
+9bbbadc633	[pickup5] Ropuch chyba potrzebuje teraz pomocy. Do księcia Lawrence'a zajrzymy potem.
+30104ab2bd	[pickup5] Będzie musiał.
+f4842cbe1b	[pickup5] Musimy mu powiedzieć o żonie. Zasługuje, żeby wiedzieć.
+6620527f9b	[pickup5] {Body-StandA}Masz rację. A... Ropuch to twardy... ropuch. Pewnie poradzi sobie przez kilka godzin.
+0f264cd15f	[pickup5] [quietly] Jaki potwór mógł to zrobić?
+dbaddeb708	[pickup5] Co robisz?
+cdaccee40a	[pickup5] Jasne, tylko... pospiesz się. Nie mamy dużo czasu.
+902e06a07f	[pickup5] Lepiej być dokładnym.
+31c6b3fdfa	Tabliczka
+d148103221	Tablica
+dba0cebdbc	Ułożenie głowy.
+ad83e89761	Sama ofiara.
+c7b7844f4a	Groźba Drwala.
+2bea45bbce	Ktoś ją tu przyniósł...
+bd0e17c228	To jest wiadomość.
+400a66def3	Wolę jeszcze nie mówić.
+88a6d3af8f	[pickup5] [disgusted and sad] {Body-StandA}{SadA}Ugh, ja... przepraszam, {WorriedA}to wszystko jest takie nierzeczywiste.
+7027025ae0	Badaj dalej.
+a52945dbe2	Wyjdź
+86b811a281	[pickup5] [a little surprised] Dokąd idziesz? Skończyliśmy?
+d7a8f44659	[pickup5] [pause] Widziałem dość.
+b950335ce4	[pickup5] Skończyłeś?
+54d2042061	[pickup5] Jeszcze nie. Przepraszam.
+c344169b33	[pickup5] No, Kopciuszkowi nieźle się wiedzie. Jest zaskakująco duży rynek na buty z luster, kryształów i innego gówna.
+422fec5e9b	[pickup5] Pewnie "Buty od Kopciuszka" byłyby zbyt oczywiste...
+c610c1a413	[pickup5] Chyba słyszałem, że mogą podnieść czynsz. Coś o koszcie zaklęć, które nas wszystkich ukrywają, ich składniki drożeją. Nie zadaję pytań.
+8420adb558	[pickup5] "Luksusowe apartamenty". Wolałbym, żeby tego nie reklamowali...
+e24284a7d3	[pickup5] Śnieżka bywa czasem służbistką...
+b216897722	[pickup5] Trochę walających się śmieci.
+08682517bc	[pickup5] Dziwię się, że śmieciarze w ogóle tu trafiają.
+9619cfceb2	Widziałem dość.
+283f598682	[pickup5] [resigned] Dobrze.
+4e0b266409	[pickup5] [starts to protest] Ale...
+69cb3bc312	[pickup5] Eee, nie, jeszcze nie.
+d16f0690d8	[pickup5] [uncomfortable] Eee, co, eee, {ThinkingA}co chcesz zrobić dalej?
+6d05eca78a	[pickup5] Mamy jeszcze trochę czasu... Powinienem dalej przeszukać okolicę.
+60d5c7c4c9	[pickup5] {Body-X}{NormalA}Dobrze. {ThinkingA} Dobry pomysł.
+8ebd96f28a	[pickup5] Niewiele więcej da się zrobić.
+36d3a9b720	Wolę jeszcze nie mówić.
+f767c0ffa9	Krew na płocie
+f7add5ceaf	[pickup5] Jest tu jakiś symbol.
+a0047edb9d	[pickup5] Mm. Ja... nie rozpoznaję go.
+80df376d09	[pickup5] Ja też nie.
+ddaba855aa	[pickup5] [alt] Dobrze. Lawrence'em zajmiemy się potem.
+b3d2d551c6	[pickup5] [alt] Dobrze. Potem pojedziemy do Lawrence'a.
+85c7c32df5	Po trawniku nie wolno chodzić. Rozkaz Śnieżki.
+e75a4b4660	Marynarka
+b635ceb01a	Złap
+2ed0116e73	[pickup5] Jest jakaś godzina policyjna, o której nie wiem? Co to za przesłuchanie?
+4af143d9bf	[pickup5] On i tak za bardzo się martwi, a...
+3c8a594790	[pickup5] To bardzo ułatwiłoby mi życie.
+ad2da480df	[pickup5] Po prostu, proszę...
+4456201eb1	[pickup5] Obiecaj mi.
+88b800716a	[pickup5] Może nie wspominaj Śnieżce o tym trawniku.
+52e4921c03	[pickup5] Ona wszystko rozdmuchuje.
+65838dca7a	[pickup5] Naprawdę nie chcę spędzić popołudnia w Biurze Administracji.
+569f43256e	[pickup7] To jej wstążka.
+79f7706bc0	Usuń przedmiot
+a44c986823	Porównaj materiał
+7f806c1e02	{ThinkingC}Spotkamy się w Biurze Administracji.

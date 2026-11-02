@@ -1,0 +1,151 @@
+# Odcinek 3 - env_buckinghambridge_fight cz. 1
+c5fbc59759	Chodzi o Crane'a.
+dca9e77448	To nie jest dobry moment.
+b242b9989d	Nie rób tego tutaj.
+2777657976	[pickup1][greeting] {happyA}Posterunkowy.
+ec0a532aab	[hushed] {confusedA}Czekaj, czekaj, czekaj, {sarcasticA}spokojnie, panienko.
+85b37bb486	[quietly] {sarcasticA}Wiesz, jak to idzie. Co się robi najpierw przy wizycie?
+bf83e0b555	[quietly to Bigby] {sarcasticA}Mówi się: "Jak się masz?"
+5e1dcaaf36	[quietly] {sarcasticA}Tak wypada.
+e36158821b	[quietly] {angryA}Przejdźmy do rzeczy, dla dobra wszystkich. Ptaszek nam wyćwierkał, że wybierasz się po Crane'a.
+5953ee3ccc	[hushed] {angryA}Co tu robicie?
+00966d793b	[quietly] {angryA}Oto jest pytanie, nie?
+26d376370e	[quietly] {happyA}A widzisz, my mamy interes w tym konkretnym chłopaczku.
+1368e5862a	[quietly threatening] {angryC}Tylko uprzyjemnijcie mi to.
+aa751758e1	[quietly threatening] {angryB}Kazałbym wam uciekać, {angryA}ale to nic nie da.
+b0ad2733b9	[hushed; pleased with himself] {sarcasticA}O czym ty śnisz?
+d650909e97	[hushed] {sarcasticA}Nie jesteś dość szybkim szczeniakiem, żeby mi przeszkodzić wpakować obie lufy w twarz Śnieżki, o tam.
+e76d24571e	[hushed] {happyA}Po prostu weź sobie mały urlop, i tyle.
+0cbc3fd35c	[hushed] {defensiveA}O, nie mam przy sobie stopera.
+dc16be47b1	[hushed] {angryA}Masz trzy sekundy, żeby spierdalać, zanim to pójdzie w stronę, której {angryB}nie chcesz.
+b8af4dde66	[hushed; tired of this] {angryA}Próbujesz odstawiać to gówno na pogrzebie?[beat] {angryB}Załatwimy to później.
+e71c698c6b	[like talking to a child] {happyA}Uspokój się, uspokój, no już.
+11ded8e85b	{happyA}Panie! Panowie! Bezkręgowce! {sarcasticA}Proszę! Spokojnie, to nie jest--
+20b7c22ecf	{sarcasticA}Bardzo przepraszamy za najście, ale mieliśmy tylko interes do ubicia z Bigbym.
+c3235f3078	[enraged] {angryA}Co wy, kurwa, tu robicie?!
+30552b9847	{worriedA}No, niech wszyscy zostaną tam, gdzie są, {sarcasticA}grzecznie i naturalnie.
+ead92f9ee1	{defensiveA}Nie twoja sprawa, to nie twoja--
+88441d7a9c	Dee, żadnych układów.
+5f6f285be4	Dee, skończ z tym gównem!
+72fdf30e45	[near seething] {angryA}Skończ z tym gównem. {angryB}Natychmiast. {angryC}Już.
+50de22d3c9	[pissed] {angryA}Powiedziałem już, dobra, po prostu idź.
+8eb2f25a34	[getting pissed] {angryB}Nie zawrę z tobą żadnego układu, {angryC}więc po prostu spierdalaj stąd i zostaw tych ludzi w spokoju.
+beaa751072	{defensiveA}Nieeeeeee.
+b46b692197	[animalistic yell]
+ac37f33f67	{fearA}Holly!
+aff4ccc917	{surprisedA}Holly!
+74c7bac6c7	[falling to the ground] {angryA]Ugh!
+649b22f177	Uspokój się, Holly.
+26a4fb0e5a	Ja to załatwię.
+c2f8a55643	Nie warto.
+3771787f0f	[furious] {angryB}A ty myślisz, że pozwolę ci--[gets cut off]
+1899125bf4	{thinkingB}Uspokój się, Holly.
+afee6968e8	{angryA}Holly, pozwól, że ja to załatwię.
+bd19fb9c37	{doubtfulA}Nie warto, Holly. {angryA}Sami sobie pójdą.
+a7a22ad63b	[furious] {angryB}To była moja pierdolona siostra!
+fbb145ab6b	[mumbled growl leading into pouncing on Dum]
+2520badaf7	{angryA}Przewróć tego głupka!
+0de974e1a6	{angryA}Muszę mieć czysty strzał!
+28c4630a5a	{surprisedA}Mam go, Dum!
+167403db28	[getting shot]
+f1ea9ed009	[very angry] Ze wszystkiego musi robić cyrk!
+da3a902bda	Dee, czas iść.
+a6d3d6716d	[through her teeth]{body-standA}{angryA} Wynoś się{angryB}, kurwa, stąd.
+7e4c71ad3a	Holly... [sighs]{angryC}{body-standA}to teraz po prostu {thinkingB}nieważne. Muszę porozmawiać ze Śnieżką.
+9dda9fd372	[cold] {annoyedA}Jesteś nie-kurwa-wiarygodny.
+378ee72d1a	Przepraszam, nie wiedziałem.
+075aed0a67	{worriedA}{body-standA}Przykro mi, Holly. {worriedB}Nie wiedziałem, że wrzucił ją do Studni Wiedźm.
+84b98997df	Crane to gnida.
+78fa77731e	[seething] Obiecałeś, że jej nie tkniesz.
+b3984c1137	[solemn] {normalB}{body-standA}Chyba wiem, kto zamordował twoją siostrę.
+0daf55b78a	{normalB}{body-standA}Przyszedłem porozmawiać ze Śnieżką.
+d0796299d8	[frustrated] {angryA}{body-standA}Tak, Holly. To poważne.
+98ff7ebae3	Żeby oddać hołd.
+7315371c91	{body-standA}{worriedA}Przyszedłem tylko oddać hołd, Holly. {worriedB}Nie mam złych zamiarów.
+7305bb3877	[pissed] {annoyedA}{body-standA}Nie wmówisz mi, że Bigby'ego to choć trochę obchodzi.
+57c2133753	{sadB}Mówię prawdę.
+7a3bbe10f7	{sadA}{body-standA}Holly, proszę, {worriedA}Bigby nie miał z tym nic wspólnego.
+80a2b61c99	[peeved] {body-x}{angryB}Oczywiście, że miał! Kto inny mógł ją wrzucić do Studni Wiedźm?
+ab0e996cc2	[still pissed] {annoyedA}Nikomu nie wchodź w drogę.
+a49b87c99a	[still pissed] {angryB}Słyszysz?
+8bc04bf9cf	[still pissed] {angryA}{body-standA}Po prostu trzymaj się z tyłu.
+7ba72ca92c	{body-standA}{thinkingA}Jasne. Nawet nie zauważysz, że tu jestem.
+69db5d4302	Nie zamierzam zostać.
+9c39b5f354	{body-standA}{worriedA}Holly, wcale nie chciałem się tu wpraszać, dobra? {normalB}Musiałem przez Śnieżkę.[beat] Zaraz mnie tu nie będzie.
+7c85907509	[seethed] {annoyedA}{body-standA}Dopilnuj tego.
+b91be45d1f	Chcę tylko dorwać zabójcę Lily.
+9aa1d05de4	{worriedA}{body-standA}Chcę tylko dorwać zabójcę Lily, Holly.[beat] Nic więcej.
+4a41549736	{worriedA}Ale to akurat nie jego wina.
+e89bb18911	{worriedA}{body-standA}Holly... Bigby się stara... na-- na swój sposób.
+3472952805	{worriedA}{body-standA}Bigby'emu zależy, Holly. Próbuje pomóc.
+53b73a88fe	[a little nervous] {worriedA}{body-standA}Nie będę... eee, was obrażać... {body-hands}twierdząc, że któregoś dnia... że ból po stracie Lily kiedyś minie.
+833587e476	{sadA}{body-handsfront}Wiem równie dobrze jak wy, że nigdy nie minie.
+03d6da1369	{worriedA}{body-handsfront}A teraz uczcimy, {thinkingB}eee, {worriedA}chwilą ciszy. {happyA}Dziękuję.
+3de3a60f5e	{sadA}{body-handsfront}Ale wiem też, że-- że pamięć o Lily również przetrwa.
+47884e9cb2	{sadA}{body-handsfront}I z czasem... {sadB}dorówna siłą naszej żałobie po niej.
+aaec325f87	{body-handsfront}{worriedA}I w tym duchu chciałabym opowiedzieć o... {happyA}{body-hands}tym, czym tak chętnie się ze mną podzieliliście.
+1e1ce5db32	{body-handsfront}{happyA}O waszych wspomnieniach o niej.
+44e13ca512	{body-hands}{happyA}O tym, jak potrafiła być uparta i... cierpliwa. Porywcza i rozważna.
+9dd3a52a3f	{body-hands}{normalA}O tym, jak była oddana "dawnym zwyczajom", tradycji, {thinkingA}... eee, {happyA}ceremoniom.
+554ca93d4a	{worriedA}{body-hands}A przede wszystkim, jak się zdaje, o tym, jak... Lily kochała -- {happyA}{body-handsfront}gorąco kochała -- swoich przyjaciół i rodzinę.
+f3e0893015	{body-handsfront}{worriedA}Uwielbiała z nimi przebywać. Na{happyA} dobre i na złe.
+0318c19a6f	{worriedA}{body-handsfront}Nigdy nie poznałam Lily, ale z... tego, co mi opowiedziano...
+aef324fe7e	Psst! Śnieżko!
+32e014d601	Musimy iść.
+1a9369eb5e	[loud whisper] {confusedB}Wiem, wiem, ale... coś się stało.
+da33cc14ac	[whisper; angry] {angryA}{body-standA}Nie teraz.
+c07302f224	[mad]{angryB}{body-standB} Bigby, co ty, do diabła, wyprawiasz?!
+3ec6e990c7	{normalA}{body-standA}Coś się stało. {normalB}Musimy stąd iść.
+9142b9af66	[quiet] {annoyedA}{body-standA}Kto?
+0747e3e261	{fearA}{body-standA}Co?! {angryA}Nie!{angryB} Mam prawo wiedzieć!
+86e760d598	{worriedA}{body-standA}Może porozmawiamy{angryA} o tym gdzie indziej?
+2bc65c16ee	[quietly stern] {angryA}{body-handsfront}To nie jest właściwy sposób.
+909d83e896	{body-standA}{thinkingB}Wiem, {flusteredA}wiem, ale...[trails off]
+a48266d538	{angryA}{body-standA}Mam w {angryB}dupie "właściwy sposób".
+1e247456ad	Myślę, że to był Crane.
+a9a85fb1e8	Jeszcze nie mogę o tym mówić.
+a03a936ced	Muszę porozmawiać ze Śnieżką.
+2233d1f395	[loud whisper] {angryA}{thinkingA}Nie, nie rozumiesz...
+8600241883	{sadA}{body-standA}Przepraszam wszystkich.{sadA} Nie... [trails off]
+b664efd60e	Holly, czekaj.
+d852b726f9	[stressed] {sadA}A {angryA}na pewno ma bardzo dobry powód, żeby tu być.
+d48889bcff	{flusteredA}Wszystko w porządku?
+c1796fcccc	{annoyedA}{body-standA}I nie mów, że dlatego, że ci zależy.
+971dfc3464	{body-standA}{angryA}Po coś ty w ogóle przyszedł?
+3f2cb696e9	[angry] {body-standA}{annoyedA}Jakie on ma prawo{angryA} tu być! {angryB}Jakie prawo po tym, co zrobił!
+f5d10df98c	[surprised] {FearA}Co?!
+fab0d0a98e	[quiet] {annoyedA}Crane...
+ee24034311	{body-standA}{normalB}Myślę, że to był Ichabod Crane.
+46f1ca2063	[shocked] {body-standA}{surprisedA}Crane?
+78a7e53854	Nie jestem... nie jesteśmy jeszcze pewni.[beat] Nie powinienem był w ogóle o tym wspominać.
+35bc0d6ab1	Nie obchodzi mnie, czy jeszcze nie jesteście "pewni". Po prostu powiedz, co wiesz.
+5393f2e15a	{sadA}Chodzi o Faith.
+efd0ad0081	{angryA}{body-standA}Nie, {angryB}pieprzyć to, moja siostra nie żyje i gówno mnie obchodzi, jak wtedy wyglądała.
+c7b7a9481d	{body-standA}{normalA}Przyszedłem porozmawiać o tym ze {normalB}Śnieżką.
+2f2110d75c	Tu nie chodzi o nią.[beat] Chodzi o Lily.
+84cf4f10bc	Jeśli ktoś powinien wiedzieć, to ja, to my.[beat] Natychmiast.
+e61888bbbb	Więc gadaj.
+aeff0bb201	No. Kto to był?
+eaea883d97	{angryB}{body-standA}Po prostu powiedz nam, kto to był!
+fd3ee682cb	{worriedA}{body-standA}Przykro mi, Holly, {body-hands}ale dopóki Bigby i ja o tym nie porozmawiamy...
+8bd323bf9b	Tu nie chodzi o ciebie.[beat] Chodzi o Lily.
+1d85c1b9fb	{angryB}{body-standA}Wszyscy mamy prawo wiedzieć!
+ca5af5b1c4	{annoyedA}{body-standA}Co? Nie będę tu siedzieć i-- [gets cut off]
+68c47a146c	{body-standA}{worriedA}Proszę. Obiecuję, że dam wam znać, jak tylko będzie co powiedzieć, ale... {sadA}pozwólcie nam najpierw wykonać naszą pracę.
+b4d2478c3e	[stern] {body-standA}{angryB}Dobrze, wszyscy, {angryA}przestańcie. Bigby i ja porozmawiamy sobie chwilę, {flusteredB}a wszyscy inni wrócą do pogrzebu.
+d70fd272f7	{annoyedA}{body-standA}Co? {angryA}On mówi, że ten pierdolony Crane zamordował Lily, a ty oczekujesz, że--
+8def6f1cf4	Proszę. {angryA}{body-standA}Obiecuję, że powiem wam, co się, do diabła, dzieje, jak tylko będę wiedziała, że jest co powiedzieć, {sadA}ale... pozwólcie nam najpierw wykonać naszą pracę.
+86c77e9b4f	[almost to herself] {body-standA}{angryA}To kompletne pierdolone gówno.
+68d2eb7550	Słuchaj, Holly, wiem, jak to musi--
+f5f03aa2da	[quietly] {sadA}{body-standA}Chodźmy, Holly.
+1c0bd48a34	{angryA}{body-standA}Dobrze, {flusteredA}dobrze, słuchajcie, Bigby i ja porozmawiamy sobie chwilę {sadA}z dala od ceremonii, dobrze?
+6eb51bd7c6	{NormalA}{body-standA}Kontynuujmy, dobrze?
+cfc5e42e3a	[cold] Nie. Nie "wiesz", jak to "musi być".[beat] Nie masz pojęcia.
+5f2e3eaa68	{normalA}{body-standA}Twoja kolej, żeby coś powiedzieć.
+8f6cb92c62	[still pissed] {angryA}{body-standA}Niczego nie spieprz. {angryB}Nikomu nie przeszkadzaj.
+97810b38ed	[still pissed] {angryA}A przy pierwszych oznakach kłopotów - a będą, bo jesteś chodzącym magnesem na kłopoty - masz się stąd, {angryB}kurwa, wynosić.
+2d1515a64f	{thinkingB}{body-hips}Lepiej, żeby to było coś naprawdę ważnego.
+98db21248b	[annoyed]{angryA}{body-standA}Wiem, że nie przyszedłeś oddać hołdu, {thinkingA}{body-hips}więc... cokolwiek to jest, lepiej, żeby było naprawdę ważne.
+6d68dffb99	Kiedy wycinasz takie numery, wszystko zaczyna się od nowa.
+d648f4f9c0	{worriedA}{body-standA}I tak było wystarczająco trudno nawiązać kontakt z tymi ludźmi.
+10b66d6aec	{thinkingB}{body-standA}Dobrze...[sighs] Myślisz, że wiesz, kim jest zabójca.[beat]{body-hips} Co masz?

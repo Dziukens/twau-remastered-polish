@@ -1,0 +1,487 @@
+# ui_menu_english (Menu)
+a0bfb8e59e	Kontynuuj
+620fa59a29	Nowa gra
+76b6a47a02	Kup
+0d82790b06	Wyjdź
+3238677708	Wróć do gry
+2bb1cdb854	Zapis i wczytywanie
+6fd086c40b	Pomoc i ustawienia
+745a9e645a	Ojej, nie!
+4ccfbd89f2	Tak, chcę!
+806094c6f2	Chcesz rozpocząć nową grę?
+01aab90476	Nie, nie rób tego!
+f27f7ad070	Tak, wyjdź!
+d859feb7e9	Czy na pewno chcesz wyjść?
+1c65c5c9e0	Wczytaj grę
+cdc45feb22	Zapisz grę
+0ece5af3da	(Autozapis)
+14ec4ea1b7	Czy na pewno chcesz usunąć ten zapis gry?
+5163cdb759	Czy na pewno chcesz wczytać tę grę?\nNiezapisane postępy w obecnej grze zostaną utracone.
+f2d79b327c	Czy na pewno chcesz nadpisać ten zapis gry?
+f2c178e7e1	Pusty slot
+9a472ba46f	NIESTETY, TERAZ NIE MOŻNA ZAPISAĆ GRY.
+2cb5142e34	Nieznana data
+475e7045cb	Nieznane miejsce
+f4cc7f9cd4	Nieznana historia
+9639e32cab	Zastosuj
+3262d48df5	wył.
+ed2b5c0139	wł.
+29c99dddbf	Muzyka:
+42e0f47616	Efekty:
+984f7d860e	Głosy:
+6a80395d3e	Poziom podpowiedzi:
+4746e3a958	Napisy:
+1ef1040fc7	Wyskakujące teksty:
+ae82ca8cf5	Rozdzielczość ekranu:
+06866177c7	Pełny ekran:
+7071763aeb	Jakość grafiki:
+20de7d7de4	Jakość cieni:
+f076cebc56	Wygładzanie krawędzi:
+20d543619e	Efekty końcowe:
+d03aff7618	Poziomy głośności
+eb91a3f96b	Napisy i pomoc
+d334dfcea5	Grafika
+ef8820cbd7	Menu pauzy
+e404dd0bec	Menu główne
+0557fa923d	Wstecz
+5a04da7d94	Gra wstrzymana
+63225f19fc	WYBIERZ
+e99f5c1680	POPRZEDNIE MENU
+f1cefec9e2	Wznów
+cddaf94ccf	Zacznij rozdział od nowa
+13519a1e06	Sterowanie
+cbb76b6168	Encyklopedia Baśni
+f5c7922da3	Osiągnięcia
+2e06a43cc0	Ustawienia/Twórcy
+b8d3529769	Wróć do menu głównego
+f902ca3f87	Wyjdź z gry
+f4f70727dc	Ustawienia
+e0c2297cd0	Dźwięk/Obraz
+6288740a1c	Rozgrywka
+6cfc1c0ba7	Twórcy odcinka
+a3d758605c	Głośność głosów
+39ffbe8657	Głośność muzyki
+7d8965d3c3	Głośność dźwięków
+521c36a31c	Wł.
+d15305d7a4	Wył.
+63bfccd99d	Wyświetlaj napisy
+78463a384a	Angielski (polski)
+ad225f7078	Francuski
+4be8e06d27	Włoski
+86bc3115eb	Niemiecki
+cb5480c32e	Hiszpański
+4994a8ffeb	Język
+b25323f997	Jasność
+d333dbbf11	Odwróć oś Y
+c94cfae7df	Wibracje kontrolera
+8b029f750c	Pokaż przyciski kontrolera
+f3b21bc744	Wykrywaj obiekty
+4931c0adf5	Powiadomienia fabularne
+bd0021c719	Czułość myszy
+655d20c1ca	Wysoka
+87f8a6ab85	Średnia
+28d0edd045	Niska
+e4a7d5bad6	Jakość grafiki
+6e1c0180f7	Jakość cieni
+32e07d88a2	Efekty końcowe
+f5869b57d1	Jakość tekstur
+be2e7b7901	Wygładzanie krawędzi
+8a8e57b191	Pełny ekran
+b5a4b64b2a	Rozdzielczość
+c9cc8cce24	Zapisz
+f001283fb3	Wybór zapisu
+32f68a60ce	USUŃ
+5478cffae5	Wybór rozdziału
+0a3f082873	Dodatki
+e1b2dc9c56	ZOSTANIE UTWORZONA NOWA GAŁĄŹ\n\nBez obaw! Twój obecny zapis nie zostanie nadpisany. Nowy zapis zostanie utworzony automatycznie.
+293bad9dfc	Wybór odcinka
+e0aa021e21	OK
+ac3b18bed3	Czy na pewno chcesz usunąć "NAME"?
+2a6279e884	Chcesz nadpisać ten zapis czy utworzyć nową gałąź?
+cf356c4560	CZY NA PEWNO CHCESZ NADPISAĆ TEN PLIK?
+7322135d5b	Czy na pewno chcesz cofnąć "NAME"?
+d4e01f11c4	Poprzednie menu
+40376e7980	OSIĄGNIĘCIA
+ed6f7aca78	USTAWIENIA
+6f49448c79	GRAFIKA
+056e68b506	ROZGRYWKA
+b63a2b6bce	DŹWIĘK I OBRAZ
+cfeb70ca67	KSIĘGA BAŚNI
+819ef261bc	WYBÓR ROZDZIAŁU
+2322503c6f	WYBÓR ZAPISU
+60d4e6b37d	DODATKI
+96a9c4a01f	WYBORY GRACZY
+58a00f17ed	FILMY
+9f8c8e2309	TWÓRCY ODCINKA
+105078d294	Przewiń
+34c6a6d4d2	Zmień urządzenie pamięci
+989a1b5747	Zmień zapis
+81cb3fb0c3	Statystyki wyborów
+554cfab393	Filmy
+9f09426106	STEROWANIE
+99b2439e63	PAUZA
+3d979b78ad	Kropki podpowiedzi celownika
+b13311ab51	W oknie
+f5d6040ed7	Zapisz zmiany
+be0dc9fadb	Odcinek 1
+f6ac92abfb	Odcinek 2
+1a6453605d	Odcinek 4
+3421cd06e0	Odcinek 5
+f790eda29b	Pokaż kropki podpowiedzi celownika
+1dc1b93585	Kropki podpowiedzi
+f2a6c498fb	Usuń
+904a830405	Zmień nazwę
+16d345b69c	ZARZĄDZAJ POBRANYMI
+aa87761b2d	Zarządzaj pobranymi
+bafd7322c6	Nie
+da0a792e3c	Wpisz nową nazwę tego zapisu.
+a6122a65ea	Start
+9e0fa08c32	Zapis {NAME}
+292b4f2089	Moje pierwsze przejście
+dacdb83ade	Gałąź
+da364eb37e	Nadpisz
+fed2bddbbe	Osiągnięto limit zapisów
+ba0e08bc30	Osiągnięto maksymalną liczbę zapisów. Usuń jeden, zanim zaczniesz nową grę.
+03c2e7e41f	Nowy
+ea4788705e	Anuluj
+efe0c09e8b	Wznów grę
+5d763edfbc	Gałąź z: {CHAPTER}, zapis {NAME}
+c354a2595e	STATYSTYKI/STANY
+abab1dafce	Zacznij Odcinek 2
+f985b5b3a4	Zacznij Odcinek 3
+acf648ccd4	Zacznij Odcinek 4
+ab37873ace	Zacznij Odcinek 5
+98dd43dfae	Zainstalowany
+b78846123f	Odinstalowany
+78945de8de	Dostępny
+453e6aa38d	Niedostępny
+4cad0ec158	Bez obaw! Twój obecny zapis nie zostanie nadpisany. Nowy zapis zostanie utworzony automatycznie.
+5b26c1cdc5	ZOSTANIE UTWORZONA NOWA GAŁĄŹ
+a54aa40d5b	Zostanie utworzona nowa gałąź
+b2459ca81a	Czy na pewno chcesz odinstalować ten odcinek?
+735b21d3e0	Instalacja nieudana
+96c4d7265c	Pobieranie...
+bb869e2658	Odinstalowanie nieudane
+98b68ddc6b	Tryb minimalny
+490e36931d	Głośność ogólna
+b92ec41eb5	Zakup nieudany
+8c51fa8072	Kup przepustkę sezonową
+f2ec62e700	Wyjdź!
+5c0b3f2a10	Czy na pewno chcesz wyjść z gry i wrócić na pulpit Windows?
+4d7a3b1c46	Menu główne
+6c0037323f	Czy na pewno chcesz wrócić do menu głównego? Wszystkie niezapisane postępy zostaną utracone!
+093b2145cb	KSIĘGA BAŚNI      .
+140009e59b	WYGŁADZANIE KRAWĘDZI
+5304ed7aed	EFEKTY KOŃCOWE
+c8abdda6df	DŹWIĘK/OBRAZ
+1588118736	DOSTĘPNY
+251d2fee49	GAŁĄŹ
+d8c321d85c	GAŁĄŹ Z: {CHAPTER}, ZAPIS {NAME}
+3a8a0aeb55	JASNOŚĆ
+2027c02713	ANULUJ
+dd5d144e35	ZMIEŃ ZAPIS
+e5cf36f2ab	OPCJE DEBUGOWANIA
+29b04329d3	TRYB MINIMALNY
+61b027b7b8	ODCINEK 1
+d7f6a43be1	ODCINEK 2
+9108d62bb9	WYJDŹ Z GRY
+7b535eae1b	JAKOŚĆ GRAFIKI
+d615bbd59d	ODWRÓĆ OŚ Y
+7442e907db	ZAINSTALOWANY
+5b64a5253f	JĘZYK
+11040bd29d	ANGIELSKI (POLSKI)
+2ccce33de9	FRANCUSKI
+ed73cca110	NIEMIECKI
+b6a3ee75be	WŁOSKI
+c4d66a1b93	HISZPAŃSKI
+0d1bb1d9ea	MENU GŁÓWNE
+36f7c52c8b	CZUŁOŚĆ MYSZY
+24d459a814	NOWY
+c2f3f489a0	NIE
+88559a0cfd	WYŁ.
+90651ebea9	WŁ.
+f302817a1a	COFNIJ
+05a9fb5203	ZAKUP NIEUDANY
+507f09f721	ZMIEŃ NAZWĘ
+d876d54e15	ZACZNIJ ROZDZIAŁ OD NOWA
+fc19ee29a1	WZNÓW GRĘ
+50ff581b2d	ROZDZIELCZOŚĆ
+db2e26d8ef	WIBRACJE KONTROLERA
+718890f819	ZAPIS {NAME}
+c323d4dbbf	OSIĄGNIĘTO LIMIT ZAPISÓW!
+a27813057d	KUP PRZEPUSTKĘ SEZONOWĄ
+eec463c3f5	JAKOŚĆ CIENI
+b078ffd28d	START
+c57a75837d	ZACZNIJ ODCINEK 2
+fa98713b52	ZACZNIJ ODCINEK 3
+ec6982560d	ZACZNIJ ODCINEK 4
+b4363c3072	ZACZNIJ ODCINEK 5
+67db79b406	WYŚWIETLAJ NAPISY
+de56df7a63	JAKOŚĆ TEKSTUR
+084f4ca2c0	NIEDOSTĘPNY
+043754bb9e	ODINSTALOWANY
+f57d716f2a	GŁOŚNOŚĆ OGÓLNA
+da878b5ef3	GŁOŚNOŚĆ MUZYKI
+2a6bb40071	GŁOŚNOŚĆ DŹWIĘKÓW
+7f56f4ded1	GŁOŚNOŚĆ GŁOSÓW
+d7ac38ac89	PEŁNY EKRAN
+7469a28625	TAK
+2f453cfe63	KONTYNUUJ
+f7dca9a314	Na pewno "NAME"?
+3dc757cdf3	Na pewno "NAME" ?
+a00079ebde	Czy na pewno chcesz usunąć "NAME" ?
+c767672301	Czy na pewno chcesz nadpisać zapis {NAME}? Obecne postępy zostaną utracone.
+858a7b9c01	Nadpisać czy utworzyć gałąź?
+0bd57410cc	GAŁĄŹ pozwoli ci ponownie rozegrać tę scenę w nowym zapisie, a COFNIJ przywróci wybrany zapis do tego rozdziału.
+93b926acb7	Osiągnięto limit zapisów
+50555b8e8d	Brak miejsca.
+69fdc300f8	WYJDŹ Z GRY
+1038b7c5b3	NADPISZ
+030d98e45e	NADPISAĆ CZY UTWORZYĆ GAŁĄŹ?
+98425e257b	OSIĄGNIĘTO LIMIT ZAPISÓW
+cb33ec446a	Czy na pewno chcesz NADPISAĆ: SAVE FILE NAME? Postępy po wybranym rozdziale zostaną utracone.
+1100a6bc75	Czy na pewno chcesz usunąć: SAVE FILE NAME?
+06df33001c	Akcje
+084afe6bd8	Akcje w walce
+820eaa3029	Przeglądaj ekwipunek
+62d7dfc2fd	Ruch Bigby'ego
+bb95163b20	Menu pauzy
+c0aec0a45e	Ruch celownika
+c5301693c4	Bieg
+1ce2b886cf	Pokaż obiekty
+105b296a83	Pauza
+f6d6ce7dd1	Ruch postaci
+df62326d15	Wybierz akcję
+c3e4693f8d	Wybór akcji/\nprzeglądanie ekwipunku
+e80a3b0bb8	Akcje w walce
+a69f21420a	Bieg/akcja w walce
+c70667c51b	Bieg/\nakcje w walce
+048a006d8e	Pokaż p<<id:356725117>>Punkt zainteresowania/akcja w walce
+b7d7271c92	GAŁĄŹ CZY COFNIĘCIE
+ba4789bfa9	Zarządzaj instalacjami
+6a216efc52	GRAJ
+56e8fac700	Zagraj ponownie
+fbb335fbd5	Odcinek jest niedostępny
+58e4666bfb	Spróbuj ponownie później.
+cac37d4aef	KUP ODCINEK
+87c7ebcb18	Odcinek 1: Faith
+d736e2afd8	"Dym i lustra"
+fe02c17d5d	Odcinek 3: "Kręta ścieżka"
+b4c4202c9a	ODCINEK 4: W OWCZEJ SKÓRZE
+3532648330	ODCINEK 5: NIE TAKI WILK STRASZNY
+c4cec5d410	Odcinek 5
+748a285b02	Odcinek 2: "Dym i lustra"
+389bedb89a	KUP ODCINEK 2
+0d7eb6a1e9	NIE, DZIĘKI
+df42edca65	ZAGRAJ W DEMO
+801ab24683	Pobierz
+67c19e107d	Niedostępne
+3b7d503e99	Osiągnięto limit zapisów. USUŃ niepotrzebne zapisy, aby zrobić miejsce.
+5c27b2ff20	Osiągnięto limit zapisów. Usuń niepotrzebne zapisy, aby zrobić miejsce.
+97f3208170	Czy na pewno chcesz wyjść z gry i wrócić na pulpit?
+b9a0ff14a6	Czy na pewno chcesz wyjść na pulpit?
+ec798cd6f1	Utworzono nową gałąź. Bez obaw! Twój obecny zapis nie zostanie nadpisany. Nowy zapis zostanie utworzony automatycznie. Wybierz OK, aby rozpocząć grę w nowej gałęzi!
+b321aefad9	UTWORZONO GAŁĄŹ
+631152daef	POBIERZ
+77e1a0df2b	SPRÓBUJ PONOWNIE PÓŹNIEJ
+08f909c02a	Nie można teraz pobrać. Spróbuj ponownie później.
+35045f0a8e	POBIERANIE
+1f7caacf74	ODINSTALOWANIE NIEUDANE
+49ac186336	Nie można teraz odinstalować tego odcinka.
+c62f93418c	Nie można teraz zainstalować tego odcinka.
+6c6d682262	INSTALACJA NIEUDANA
+8b58210c85	ODINSTALUJ
+385c40a73a	ZACZNIJ ODCINEK 1
+207d91f9ac	Czy na pewno chcesz wyjść z gry i wrócić na pulpit? Wszystkie niezapisane postępy zostaną utracone!
+8ebd7ce000	WYKRYWAJ OBIEKTY
+16f900d51a	POKAŻ OBIEKTY
+b89de3b4b8	WYSOKA
+41bc94cbd8	NISKA
+09f81489a3	ODCINEK
+43e1c94f3e	Suwak/przełącznik
+4272b878ed	Sprawdź połączenie z siecią i spróbuj ponownie.
+a3c0f53270	Brak statystyk wyborów. Zajrzyj tu, gdy poznasz więcej historii!
+c31729f6c1	BRAK STATYSTYK
+6ede0282d4	W obecnej grze nie zrobiłeś jeszcze nic, do czego mamy statystyki. Zajrzyj tu, gdy poznasz więcej historii!
+25caa3ec94	Statystyki wyborów pojawią się, gdy będziesz podejmować decyzje w obecnej grze. Zajrzyj tu, gdy poznasz więcej historii!
+e586481cb1	ZMIENIONO USTAWIENIA
+091c2e3412	Zmieniono ustawienia. Zapisać zmiany?
+2919bace3a	ZASTOSUJ
+c95fa04340	PRZYWRÓĆ
+9d59581f96	ODCINEK 1: FAITH
+0be700bbc4	ODCINEK 2: DYM I LUSTRA
+e12017dc9f	ODCINEK 3: KRĘTA ŚCIEŻKA
+e56516ff34	STEROWANIE
+e5f53fee47	TWÓRCY
+0f30c04edf	WYBORY GRACZY: ODCINEK 1
+88366a9ac9	Wczytywanie zapisu
+a0907edcde	Sieć niedostępna
+cb3dda455c	Połącz komputer z internetem
+7ac3008fa4	Wystąpił błąd. Spróbuj ponownie!
+bb1ca97ec7	BŁĄD
+f2407056c0	Wkrótce
+11e2fa7ab3	SIEĆ NIEDOSTĘPNA
+c8d2c1e4c8	Witaj w The Wolf Among Us!
+ba2b45bdc1	PUSTY
+055aee4051	OBECNY ZAPIS
+813461e0c5	WYCZYŚĆ
+dc30bc0c79	Wyczyść
+bee45f8e25	Aby cofnąć ten rozdział, wybierz zapis, do którego zostaną skopiowane dane.
+e87dc617f0	POWTÓRKA - WYBÓR ZAPISU
+5fb63579fc	Kopiuj
+ff88118dc3	WYBIERZ ZAPIS
+3c19d17036	Cofnij
+0f1bca6d0e	WYBIERZ ZAPIS
+5836284047	Aby cofnąć ten rozdział, wybierz zapis, do którego zostaną skopiowane dane.
+7677c6b0ad	OBIEKTY
+4d604dd8f0	Ekwipunek
+3efe021589	Obiekty
+0464492533	Broniłeś jego syna\nprzy drogerii.
+78c93d0425	Opowiedziałeś mu\no swojej przeszłości.
+415a0b17cb	Poprosiłeś go, by zabił\nwłasnego syna.
+4816752309	Zgubił się ze stadem,\nratując Bena.
+e80476aef4	Krzywy Człowiek
+88a8a5a7a7	Najpierw poszedłeś\ndo niego.
+d3291c7f27	Nie pozwoliłeś\nmu umrzeć.
+6e753d1831	KONTYNUUJ HISTORIĘ
+4176bd8614	Kup powieść graficzną w sklepie z komiksami lub w księgarni!
+0ce05d579a	Obiecałeś jej, że\nnie powiesz Bestii,\nże widziałeś ją\nprzed mieszkaniem.
+7492556e72	Obiecałeś jej, że\nnie powiesz Bestii,\nże widziałeś ją\nprzed mieszkaniem.
+c513a3434d	Powiedziałeś mu, że\nwidziałeś Piękną\nprzed mieszkaniem.
+99610e6d82	Biłeś go, gdy\nleżał na ziemi.
+f868976580	Walczyłeś z nim\npo przesłuchaniu.
+83882de819	Rzeźnik
+a206819f69	Pobiłeś go podczas\nprzesłuchania.
+413a0c5759	Obiecałeś jej, że\nnie powiesz Bestii,\nże widziałeś ją\nprzed mieszkaniem.
+845f0b15d5	Dałeś mu drinka,\ngdy poprosił o niego\nw twoim mieszkaniu.
+9de2d31575	Dałeś mu drinka,\ngdy poprosił o niego\nw twoim mieszkaniu.
+93dfb61442	Pomogłeś mu\nuniknąć Farmy.
+c343bda605	Zabrałeś go z powrotem\ndo Studni Wiedźm.
+54928401d9	Urwałeś mu\ngłowę.
+c6f74dbcab	Uwięziłeś go.
+68a3452bff	Zrzuciłeś go\ndo Studni Wiedźm.
+dfc271ff0d	Przypaliłeś go\ncygarem podczas\nprzesłuchania.
+287a2fe848	Rozbiłeś mu butelkę\nna głowie podczas\nprzesłuchania.
+488365d72c	Zabiłeś go.
+8197b38c15	Dałeś jej pieniądze\npo walce\nz Drwalem.
+425f9ee76a	Kazałeś mu cierpieć\nprzed śmiercią.
+357f0b42c0	Zostawiłeś go\nna śmierć.
+7bbd9f8cbb	Zdemolowałeś\njego lokal.
+ec17d37feb	Greenleaf
+cf80d2c99c	Wyważyłeś\njej drzwi.
+341f9fe7ac	Spaliłeś\njej drzewo.
+538e74c5c3	Zaproponowałeś\njej pracę.
+2e82da11da	Wyrwałeś mu rękę\nw barze Trip Trap.
+fca3a300d3	Piłeś z Grenem\npo pogrzebie Lily.
+9198a47baf	Przerwałeś pogrzeb\njej siostry.
+a41e19fbac	Udawałeś Drwala,\ngdy była\nnieprzytomna.
+171f029277	Wyrzuciłeś go\nz Trip Trapu.
+d7bbd4deeb	Zawarłeś\nz nim układ.
+b4a04e5fe5	Dałeś jej papierosa\npodczas waszej\nostatniej rozmowy.
+484e3b8f28	Próbowałeś zdjąć\njej wstążkę\nw biurze Bigby'ego.
+003929afc0	Próbowałeś zdjąć\njej wstążkę podczas\nostatniej rozmowy.
+491575b4b3	Zabrałeś ją\nze sobą\ndo Trip Trapu.
+73278a7359	Pokazałeś jej\nzdjęcie, które\nzrobił jej Crane.
+335e03bc3d	Obiecałeś przyprowadzić\nKrzywego Człowieka\nżywego.
+c340d6bc86	Postanowiłeś\nna niego zaczekać.
+93f75b1e6b	Postanowiłeś\nna niego zaczekać.
+783123365a	Przyjąłeś jego\nżuka i obiecałeś\noddać go Śnieżce.
+21dc1e5fa3	Uderzyłeś go\npodczas przesłuchania\nw jego mieszkaniu.
+ea32ce10c4	Stanąłeś w jego obronie,\ngdy Śnieżka chciała\nwysłać go na Farmę.
+7bdf57f5f2	Dałeś mu\npieniądze.
+8fb28b9f09	Próbowałeś\nzdjąć jej wstążkę\nw Pudding & Pie.
+1518401045	Rozbiłeś szklankę na Drwalu\nw barze Trip Trap.
+1e3be8827c	Rozbiłeś mu butelkę\nna głowie podczas\nprzesłuchania.
+ab124987e6	Przypaliłeś go\npapierosem\npodczas przesłuchania.
+a6776abf78	Aresztowałeś go\nw barze Trip Trap.
+daa7f062d7	Uderzyłeś go.
+607dfdd47c	Specjalne statystyki
+8b66b05e62	SPECJALNE STATYSTYKI
+a0336742fa	Wybory graczy
+64daaf680a	Okłamałeś go, że\nnie widziałeś Pięknej\nprzed mieszkaniem.
+cc6d51ae4d	Odmówiłeś\ndochowania jej tajemnic.
+6dcdd3d8c9	Stosowałeś podobne\nmetody przesłuchania.
+f5226bf494	Zaoferowałeś mu\nochronę w Biurze\nAdministracji.
+a6c728cba6	Doradziłeś mu,\nby wyjechał z miasta.
+44d8f36c6c	Wysłałeś Colina\nna Farmę.
+117cb2db30	Zgłosiłeś Śnieżce\njego włamanie.
+e68131b8cf	Zostawiłeś go\nza sobą.
+f2018a73d7	Odmówiłeś\nzaniesienia jego prezentu\nŚnieżce.
+54a65824fe	Groziłeś mu\npodczas procesu.
+2a3158745f	Zaimponowałeś jej\nswoimi zdolnościami\ndetektywistycznymi.
+fbf0fb5ad4	Skonfiskowałeś\npieniądze Dee, gdy\nbył w areszcie.
+acef59330c	Zabrałeś pieniądze\nz sejfu Georgiego.
+f86970e525	Dopłaciłeś jej\nprzy umawianiu\nrandki.
+bc6822a84a	KONIEC GRY
+d5ffc10f7f	WRÓĆ DO PUNKTU KONTROLNEGO
+4fc963e213	POMOC
+feafd66550	WYBIERZ PROFIL
+5a443c64ac	MAKING OF
+c6013b25a3	WYWIADY Z OBSADĄ
+90081484f0	GALERIE OBRAZÓW
+9a71809918	USUNIĘTE SCENY
+fbf6a97cae	TWÓRCY REMASTERU
+a7e1f27d42	WIBRACJE
+615a46af31	STOP
+f99754219d	DOŁĄCZ DO SPOŁECZNOŚCI!
+3d76f97bb6	KONTO TELLTALE
+a6fa1cdf9c	DOŁĄCZ
+c4746a9668	ZALOGUJ SIĘ
+c9592986c2	MOŻE PÓŹNIEJ
+8c5e39fcbd	Zalogowano
+4f67be1195	Nie zalogowano\n^font:MenuDisplaySmall.font^^glyphScale:0.7^DODATKI > KONTO TELLTALE
+025036435f	DODATKI > KONTO TELLTALE
+8522152f54	Załóż darmowe konto Telltale i otrzymuj ekskluzywne aktualizacje, materiały i wiadomości o grach.
+9a6150bddd	ODBLOKOWANE WPISY
+0ef6c30ad9	ZAŁÓŻ KONTO
+4265048866	ZALOGOWANO!
+8e14e19c69	WYLOGOWANO
+6a00985d03	Odwiedź ^font:ITC_Kabel_Medium_Message.font^account.telltale.com ^font:ITC_kabel_book_message_60.font^, aby założyć konto Telltale.\n\nGdy skończysz, naciśnij ^font:ITC_Kabel_Medium_Message.font^Zaloguj się^font:ITC_kabel_book_message_60.font^, aby kontynuować.
+02b3f77ac3	Wypełnij poniższe pola, aby zalogować się na konto Telltale.\n\nAby zresetować hasło, odwiedź ^font:ITC_Kabel_Medium_Message.font^account.telltale.com^font:ITC_Kabel_Book_Message.font^.
+bff1e7c2ba	Zalogowano na konto Telltale. Przy każdym uruchomieniu gry logowanie nastąpi automatycznie.\n\nWięcej informacji o koncie znajdziesz na ^font:ITC_Kabel_Medium_Message.font^account.telltale.com^font:ITC_kabel_book_message_60.font.font^.
+28e7468acc	Wylogowano. Do zobaczenia wkrótce!
+6c6cd3f506	Nie można połączyć się z serwerami. Spróbuj ponownie.\n\nJeśli problem nie ustąpi, skontaktuj się z pomocą techniczną na ^font:ITC_Kabel_Book_Message_Bold.font^www.telltale.com^font:ITC_Kabel_Book_Message.font^.
+621c89725e	Podany e-mail i/lub hasło są nieprawidłowe. Spróbuj ponownie.
+fc2a6b4db6	Łączenie z serwerem...
+eed9025016	Podaj e-mail:
+5db6e8d4cc	Podaj hasło:
+e7cb3002d9	WYLOGUJ
+6f6783bdff	BŁĄD POŁĄCZENIA
+1f654a7e32	UŁATWIENIE QTE
+4c4f30c9fc	ROZMIAR QTE
+9b9c17e13f	MAŁY
+5b39c8b553	DOMYŚLNY
+a60c6c6944	DUŻY
+643cb1fc15	TRYB NOIR
+32c7d8943b	SŁABE
+c87f3be66f	ŚREDNIE
+3dfb3ae3cd	MOCNE
+446abd3280	Zaloguj się e-mailem i hasłem
+126361b6b2	Sieć niedostępna. Połącz się z internetem.
+9a8dac21b8	Wystąpił nieznany błąd. Spróbuj ponownie później.
+bc9d9132ff	Podaj e-mail
+c3098f14ba	Podaj hasło
+0e16a2739b	Podaj e-mail i spróbuj ponownie.
+16d90cb79e	Podaj hasło i spróbuj ponownie.
+726684fbe1	Podany e-mail nie jest zarejestrowany. Spróbuj ponownie.
+1d8c82fee5	Podane hasło nie zgadza się z naszymi danymi. Sprawdź je i spróbuj ponownie.
+c19d774c28	JĘZYK WYŚWIETLANIA
+d61f2b92fe	ZMIENIONO JĘZYK
+abab3a4c66	Zmieniono język wyświetlania. Uruchomić ponownie menu, aby zastosować zmiany?
+3092bf734a	© Bill Willingham i DC Comics
+51cfbcff36	Uruchom ponownie
+0c57ac853b	Aby zacząć ten odcinek od nowa, wybierz zapis, do którego zostaną skopiowane dane.
+7e6f930e83	Wstecz/Wznów
+4c2532c701	WIBRACJE KONTROLERA
+8704ee6755	WIBRACJE
+73defcae34	WIBRACJE
+e4f7db2940	BARDZO NISKA
+fb4471d058	ZACZNIJ ODCINEK OD NOWA
+b23c89a3bb	FAITH
+8f576423ee	DYM I LUSTRA
+ffc77d0838	KRĘTA ŚCIEŻKA
+8e29921867	W OWCZEJ SKÓRZE
+67b948210f	NIE TAKI WILK STRASZNY
+0844ce98de	ODCINKI
+7f82331674	Wkrótce!
+2d2de459c8	KUP

@@ -1,0 +1,110 @@
+# Odcinek 3 - env_businessoffice103_recreated cz. 3
+d7e827e75d	{ThinkingC} Słuchaj, wiemy, że Crane jedzie do wiedźmy po magiczny pierścień.
+f0abc21b17	{ThinkingA} Czemu w ogóle cię to obchodzi?
+3638f769e1	{NormalA} Czemu? Zainwestowałem w to przedsięwzięcie, które nazywamy Baśniogrodem.
+11863effc7	{AngryA} Dosłownie zainwestowałem, bo to głównie moje pieniądze utrzymują ten cały interes.
+1221f68611	{AngryA} A dziś wieczorem słyszę, że Crane zabija Baśniów? I że nie ma żadnego systemu, żeby go złapać?
+8d7d2058b7	{NormalB} A co ty w ogóle wiesz o Crane'ie?
+a2130ebbde	{NormalA} Że ma jaja, żeby zabijać prostytutki jak każdy pospolity, przerażony seksem seryjny morderca, a nie zmierzyć się z prawdziwym wyzwaniem.
+084d6f5988	[coldly] {ThinkingB} Nie jesteś tu potrzebny.
+23d57cc657	[offended] {ConfusedA} Ignorować mnie?
+846862ad3f	["yeah right" snort]
+f5daab512b	{SarcasticB} [trying to salvage the conversation] Spokojnie, możemy wszyscy razem współpracować... prawda?
+671e928f00	[colder] {AngryC} I będę go nienawidzić za to, jak... {FlusteredB} myślał o mnie.
+ef7171e609	[decisive] {ThinkingA} Nie możemy polegać na lustrze.
+9aa030cffe	{NormalB} Każdy magiczny przedmiot, którego nie ma w zbrojowni, jest przypisany komuś w Baśniogrodzie. To musi być ta wiedźma, do której jedzie...
+df94b65e39	{AngryA} Kto ją wybrał, żeby wydawała moje pieniądze?
+0c6e0c2ad8	[heated] {FlusteredA} Nikt, ale to nie--
+b1964dc00f	[cold] {AngryA} Cóż, nieoficjalnie robię to od lat.
+f833f25676	{NormalA} ...I że będzie tam o drugiej. Więc mamy...
+5018233cfd	{NormalA} ...Kilka krótkich godzin, żeby się dowiedzieć, kto to jest i gdzie mieszka, i dorwać ich wszystkich naraz.
+2765898f89	Ufamy Bufkinowi?
+bb68f3904f	Powiedz, gdzie mam szukać.
+57d5fc9818	{MockingA} Druga w nocy. Bułka z masłem.
+89123f0a30	{NormalB} No tak, brzmiało, jakby chodziło o tę, od której dostawał, eee, Urok "ciebie".
+89052fd105	{NormalA} I coraz krótszych, im dłużej będziecie o tym paplać.
+fcebaa7c29	To nie my "paplamy".
+a2a6d68c71	{NormalA} No, i to jeśli w ogóle tam pojedzie. Polegamy na małpiej interpretacji rozmowy telefonicznej...
+b898d58451	{ThinkingA} Dobra, dobra, po prostu wskaż, co mam sprawdzić najpierw.
+31f08e869d	[a little annoyed] {WorriedA} No, i tylko to mamy, więc działajmy, dobrze?
+3cdd6dfa67	{SadA} [angry] To nie "interpretacja", tak powiedział, jasne?
+2fc1edb9c2	[quietly] Czegoś szuka, tylko nie wiem czego.
+b35a0a5463	{AngryA} Sinobrody, po prostu się nie wtrącaj, dobra? Tylko jeszcze bardziej wszystko namieszasz.
+54e1bd827e	{NormalA} Biuro Administracji.[beat] {WorriedA} Wiem, będę musiała oddzwonić.
+3ab67f5132	[glum] {WorriedA} Ludzie w mieście zaczynają się dowiadywać...
+1efb1b5c9c	{AngryA} Słuchajcie, tak zrobiłby to ktoś mądry, więc tak to zrobimy... dokądkolwiek pójdziesz, ja pójdę w drugie miejsce.
+0f0dd9ba5d	{ThinkingA} Dokąd pójdziesz, Bigby?
+3fdbbcfc39	{NormalA} Kto cię wybrał do podejmowania takich decyzji?
+630036e7f6	No cóż... wybaczcie, że myślę o dobru wspólnym.
+ce6a8ff0d2	{NormalA} A ktoś musi prowadzić Biuro Administracji, kiedy on to robi.
+323a733874	{NormalA} Śnieżka oczywiście sobie z tym radzi, więc dajmy spokój.
+6512126ece	[almost jokingly] {ThinkingA} Więc... podsumowując...[gets cut off]
+fd3dfa7e9b	[a sad robot] {WorriedB} Crane patrzył przez Magiczne Lustro, jak odkrywam jego pokój w Open Arms.[beat] Potem je rozbił, żebyśmy nie mogli go użyć, żeby go ścigać.
+de3d0bd3f8	[a sad robot] {WorriedB} A wiemy o tym, bo Bufkin pił pod sufitem.
+f07c40878f	{AngryA} Bufkin!
+ee0cf6cdf7	{SarcasticB} I mam kaca, przepraszam!
+3f54bf362f	Doskonale. A ja pójdę do biura tych dwóch imbecyli.
+83068b7639	Mam nadzieję, że wiesz, co robisz.
+7a21317b18	Mieszkanie Crane'a jest tutaj. Powinienem najpierw je sprawdzić.
+6126dde40a	Doskonale. A ja pójdę do mieszkania Crane'a.
+b96b5ff381	Dee i Dum muszą wiedzieć, gdzie on jest. Powinienem najpierw pójść do ich biura.
+edeb174e4b	[sigh] Sprawdzę ich adres.
+311e7ccd08	Tożsamość wiedźmy musi być gdzieś w rzeczach Lily. Powinienem najpierw odwiedzić Holly.
+5c54a9540e	[sigh] Odezwę się do ciebie później.
+855ad7d77d	{ThinkingA} Wszystko wskazuje na niego, rozumiem, ale...
+2380d9e3d1	{ThinkingB} Nie pasuje mi tu Faith.[beat] Czemu miałby ją zabić? To nie wydaje się powiązane.
+4cd68f63d8	[quietly] {ThinkingC} No, to nie ma sensu.
+2a5fa5241d	{ThinkingA} Wciąż możemy to rozwiązać sami... Wiem, że to--[gets cut off]
+15079ddbeb	Mniejsza o to, chodź mi pomóc szukać.
+9278dd5f19	[pondering things] {NormalA}Mm.
+08f1557a73	Mam tylko metr wzrostu, są pewne granice.
+b843cfe336	{NormalA}Dobra, dobra.
+20d4352de9	Tak!
+9a3451f3cb	{NormalA}Widziałem, jak dopadł telefonu, zanim wyszedł.
+5ffb9dab8a	{NormalA}Dzień dobry, panie Bigby... {SadA}Wie pan, wciąż mogę pomóc złapać Crane'a...
+9deaef7b46	{SadA}Nie, nie, eee, {ConfusedA}nie bardzo.
+e9282af79c	{NormalA}Nie widziałeś nic więcej, prawda?
+a0a9fd4151	Żadna z wiedźm z Trzynastego Piętra by na coś takiego nie pozwoliła. Ta musi być gdzieś w mieście.
+a7828201d4	Brzmi to tak, jakby jechał do wiedźmy, albo... do "swojej wiedźmy".[beat] Tej od Uroku.
+a55868ae88	{NormalB} Umówił się na drugą w nocy.[beat] Dzisiaj.
+98ef769daf	{NormalA}Po prostu go ignoruj.
+f3af880201	{AngryA} Ty jesteś sekretarką, on szeryfem, a nikogo z was nie wybrano do kierowania tym biurem.
+4138b9dbea	Nie możesz tak po prostu tam iść.
+43d2ba42fb	{AngryA} Nie obchodzi mnie, co wy dwoje zrobicie, ja idę do jego mieszkania.
+063b3aeaa1	{NormalB} Już szukaliśmy klucza, pamiętasz? Nie wiem, gdzie jest.
+86535cd203	{AngryA} [angry] To wyważę ten przeklęty zamek![beat; calms himself] Zmarnowałem dość czasu, czekając, aż lustro go znajdzie. Nie zmarnuję więcej.
+0bf2e4c9a0	{NormalA} A czemu, do diabła, nie?
+e2c0d784eb	[amused] Ha!
+165d6ec813	{NormalA} Albo ta skomląca łasica stchórzyła, nigdzie nie pojechała i siedzi teraz na górze w swoim żałosnym apartamencie, budując fortecę z poduszek od kanapy!
+18cb3aefe3	{NormalA} A Bigby może tam iść, jeśli chce, ale moim zdaniem powinniście się zastanowić, co właściwie ci dwaj Tweedle'owie o tym wiedzą.
+1834708676	{CockyA} Nie są dość bystrzy, żeby spróbować pójść gdzie indziej--[gets cut off]
+ce9b7e3b22	Nigdy nie sądziłam, że obchodzi cię zdanie Sinobrodego.
+b154b449aa	Biurko Crane'a
+c91a5daecd	{WorriedA}  Po prostu... [starts again] Nie wiem, co Tweedle'owie z tego mają. Nie-- nie wiem, czy to Crane ich nasłał, nie wiem, czy...[trails off]
+35ae5e3b6a	...jak to masz w zwyczaju.
+173549d2c8	To mniej więcej wszystko?
+e2c62760ea	[pickup2] [to himself] To po prostu nie ma sensu.
+9acff60542	[pickup2] Czemu w ogóle o tym mówisz?
+85721b92cf	[pickup2] [annoyed] Słuchaj, to nie jest dobry moment. Zabrał kawałek lustra, więc nie możemy go użyć.
+54979852e8	[pickup2] Skoro Lily używała Uroku, musiała wiedzieć, kim jest wiedźma... a nie sądzę, żeby Holly już spaliła jej rzeczy.
+15710bb415	[pickup2] Pewnie jest tam adres albo numer telefonu, albo coś...
+bfaa6faa09	[pickup2] Nieważne, co wiedzą. Po dzisiejszej nocy nigdy nie pójdą do swojego biura.
+c767db6eb9	Rzeczy Lily mogą nam pomóc.
+e47baefba1	Mogę zrobić jedno i drugie.
+838419919a	[pickup2] Na tym musimy się skupić.
+e2660934d7	[pickup2] Trip Trap to lepszy wybór, żeby wytropić wiedźmę.
+1a295b5c25	Biuro Tweedle'ów brzmi obiecująco.
+ba0add9426	[pickup2] Jeśli Holly ma rzeczy Lily... to pewnie bezpieczniejszy wybór.
+4b28bbcf20	[pickup2] Nawet jeśli ich tam nie będzie... w biurze Tweedle'ów może być coś o Crane'ie albo o wiedźmie.
+c4f745d1a9	[pickup2] Słuchaj, pewnie i tak będę musiał zajrzeć w oba miejsca, więc--[gets cut off]
+e3bb748b2c	[pickup2] Nie, pewnie nie będziesz miał czasu.
+139b7cbaf5	[pickup2] [surprised] Co?
+51d8e7594a	[pickup2] [getting annoyed] Musimy znaleźć wiedźmę, Sinobrody, bo tam on jedzie.
+43e00e9075	Trudno.
+3882d32c66	Skrzynka
+4a3104f770	O co chodzi?
+316bfeca08	Czemu o tym mówisz?
+9b1ed2cbe5	Szuflada
+d95dcc3468	Apartament Crane'a ma numer 1903. Daj znać, co znajdziesz.
+f48c5fff00	Chętnie bym do ciebie dołączył, ale mam pewne sprawy do załatwienia...
+8d12d3de68	Nie, nie, lepiej sobie radzę sama. Nie potrzebuję współczucia ani jałmużny.

@@ -1,0 +1,141 @@
+# Odcinek 3 - env_craneapt cz. 3
+2f69ef7514	{NormalA}Jakoś w to wątpię.
+0ed1405eb6	{ThinkingA}Mów dalej. Słucham.
+3a8da18bd1	[unimpressed] {SarcasticA}Jak wygodnie.
+5aa680a39a	{NormalA}Dobra.[beat] Mów.
+c5bf33e39b	{NormalA}A może dokończymy tę rozmowę w {ThinkingA}celi?
+b3f19b8e71	{SarcasticA}Ja ci mówię o wiedźmie Crane'a, a ty zapominasz, że mnie tu widziałeś. {NormalA}Ręka rękę myje i tak dalej.
+3fd278e0cc	{ThinkingB}Dobra. Umowa stoi.
+dd88a76363	{ThinkingA}Nie zawieram umów ze złodziejami, Jack.
+04606addcf	[slightly nervous] {NormalA}Nazywa się Ciotka Greenleaf.
+f87dd81353	[threatening] {ThinkingA}Mam nadzieję, że mnie nie okłamujesz, Jack.
+e64ea12af7	{DoubtfulA}Na ile pewna jest ta informacja? Na pewno masz dobre imię?
+d9fe2a0ecc	{NormalA}No bo to więcej, {HappyA}niż miałeś, jak tu wszedłeś.
+981a5c9cbe	[from the foyer] Bigby?
+125893cfe0	[to Jack] {NormalA}Tylko {AngryA}trzymaj{NormalA} gębę na kłódkę, dobra?
+f17b92d7c5	{AngryA}Skończyliśmy.
+c0e4f3ddb1	[shouting to the other room] {NormalA}Jesteśmy tutaj, Śnieżko!
+688240c4f8	{DoubtfulA}Nasz przyjaciel Jack został przyłapany na kradzieży.
+c7ed2f61dd	{NormalA}Jest tu, żeby pomóc. Jack miał informacje o wiedźmie Crane'a.
+08eb73b2b2	{ThinkingA}[stern] Jack...
+353d68eb57	{NormalA}Pójdę do Trip Trapu. Zobaczę, co z rzeczami Lily.
+fc8a578e64	[to the room] {NormalA}Crane?
+014cf5af69	[to himself] {Body-Crouch}{DoubtfulA}Ta sama marka, którą znaleźliśmy w Open Arms.
+4aa0ebd86f	[muttering]Cholera.
+47d6314ede	W międzyczasie...[slightly more threatening] zostaw zapalone światło, kolego.[turns on a dime; sarcastically cheerful] Nara!
+4b791d698e	[small wince; minor pain]
+f10a6cf651	[to himself] {DoubtfulA}Gdybym miał zgadywać... to gówno nie działało.
+76c420394b	Na przykład czy musisz nosić poncho?
+c3ff6ffd41	[surprised gasp] {WorriedA}Och!
+96daeb1f27	{WorriedA}[surprised gasp] Ja, eee...
+c00166fb4e	{HappyA}Ale wiesz, niektórzy lubią takie rzeczy.
+a6b9381e39	[muttering] {WorriedA}Ktoś tu jest marudny.
+de6dcd3ba8	{NormalA}To nie jest nic.
+c143a35bba	[reasoning] {NormalA}Widzisz, jak on żyje. {AngryA}Nie potrzebuje tego całego gówna.
+90dffc5e17	{NormalA}Może coś o pierścieniu?
+e617447f02	{SarcasticA}Dobra. Zachowaj swoje sekrety.
+25df9ace6e	{ConcernedA}Nie masz tego dość?
+a7943ab16e	{AngryA}No bo {NormalA}co ty w ogóle tu robisz?
+840d6724cf	{SarcasticA}Tak sobie spacerujesz po mieszkaniu Crane'a?
+03e2fdb157	{NormalA}Bigby, chyba, eee, blokujesz drzwi... {NormalA}Mógłbym się tylko, eee, przecisnąć?
+30ed1d7993	{NormalA}Jeśli chcesz informacji, {SarcasticA}to jestem twoim człowiekiem.
+0230951002	{NormalA}Wiem różne rzeczy.
+95625ec461	{NormalA}Jeśli mi się to opłaci.
+6ce3cb82e4	{HappyA}Mógłbym być bardzo przydatny dla kogoś takiego jak ty.
+d233b2cdec	{NormalA}Jeśli szukasz wiedźmy Crane'a...[beat] {SarcasticA}cóż, tak się {NormalA}składa, że wiem, kim ona jest.
+5811ca1020	{NormalA}Szukasz wiedźmy Crane'a, prawda?
+cd73e89129	Słuchaj, nie jestem głupi.
+8807f3e4fc	{NormalA}Szukasz Crane'a, prawda?
+c19839c849	{WorriedA}Na mieście mówią, że ma jakąś wiedźmę w mieście...
+3a24a2b95a	No, nie wiem, gdzie on jest... {SarcasticA}ale co, jeśli ci powiem, że wiem, kto może wiedzieć, gdzie jest?
+70e5f4f409	{SarcasticA}Słuchaj, mam na Crane'a haka, który może cię zainteresować.
+ef66f6c344	{HappyA}Nic? {SarcasticA}Nic się tam w głowie nie dzieje? {NormalA}Dobra, wyłożę to po kolei.
+b8ab9388af	Wątpię.
+a49d84efb5	Słucham.
+899ab3af32	Jak wygodnie.
+8a9750726e	Mów.
+cc88988737	A może cię zgarnę?
+eb60194166	{HappyA}Mogę ci powiedzieć, kim ona jest.
+3e8c4d043d	{NormalA}Jeśli jesteś zainteresowany.
+1236b4fc7d	Ale informacje mają swoją cenę.
+c2737b1f1f	{SarcasticA}Ale pewnie już to wiedziałeś.
+5c1c56d444	Mam informacje, których potrzebujesz, to łatwa wygrana.
+96983261fd	[correcting him] {HappyA}Wygodnie dla ciebie, szeryfie.
+571ba45487	{HappyA}Dobijmy targu.
+df1db6bceb	Dobra, umowa.
+1f05dc82e9	Żadnej umowy.
+8f54bb8fc9	[nervous; "Whaddaya say"] {WorriedA}Co ty na to?
+a6b1c68950	{NormalA}A teraz powiedz mi, gdzie znajdę tę wiedźmę.
+5603866809	{HappyA}Doskonale.
+2c7b3bbc4c	{AngryA}Zaufaj mi choć trochę, stary. {WorriedA}Zrobiłbym ci coś takiego?
+dd2ea6fc91	{NormalA}Z tego, co wiem, możesz zmyślać to całe gówno, żeby wykręcić się z kłopotów.
+615e2930bb	[nervous] To może tak? Może ja ci powiem, żebyś wiedział, że jestem wiarygodny, {normalA}a potem rozważysz moją ofertę.
+f0a8cdbb5e	[getting punched in the gut] {FearA}Uff!
+953fb8e398	{WorriedA}To też nie jest pierdolony mecz bokserski!
+cd15ad4dc4	{AngryA}To nie są{AngryB} negocjacje, Jack!
+299ff51c22	[in pain; through teeth] {AngryA}Hnngh.
+39480ac6b6	[low growl/grumble] {AngryA}Hnn.
+c072691ad8	[annoyed; nervous] {WorriedA}Powiem ci, co wiem, a potem rozważysz moją ofertę. Hmm?
+93c0177b04	[annoyed; nervous] {FearA}To może tak?
+d00ec8e2ab	[adjusting his jaw; low] {AngryA}Grah!
+d986a30660	{NormalA}Gdzie ją znajdę?
+235bbd5a32	{WorriedA}Nie wiem, do czego jest mu potrzebna, ale {NormalA}skoro nie chodzi na Trzynaste Piętro, to musi być coś nielegalnego.
+0eec877d6b	{SarcasticA}Jeśli szukasz Crane'a, ona może wiedzieć, jak go znaleźć.
+37dc0b7e37	{WorriedA}Crane od lat próbuje to trzymać w tajemnicy.
+2295f8eb24	{NormalA}Nie wiem, jaki układ z nią zawarł, {SarcasticA}ale z tego, co słyszę, są w dość regularnym kontakcie.
+2c3d2dd1bb	Gdzie ona jest?
+c9a2518d18	{HappyA}Absolutnie, {NormalA}bez wątpienia.
+e7347cd4ac	{WorriedA}[nervous] No, eee... widzisz...
+27bcee8621	[nervous] {WorriedA}Eee, rzecz w tym... że nie wiem, gdzie dokładnie byś ją znalazł.
+8f496ae9fd	{HappyA}Ale nawet samo imię to dobry początek! Nie?
+94f52329d3	{AngryA}[under his breath; angry] Chyba sobie, kurwa, żartujesz.
+9747ffa6f5	{NormalA}Będę miał dla ciebie oczy otwarte. Jak znajdę coś, co może cię zainteresować, {HappyA}na pewno dam ci znać.
+1b5ac137ff	[quietly] {SarcasticA}Myślę, że ten układ może się nam obu w przyszłości opłacić.
+ef33f97fb9	{NormalA}No, eee... chyba masz mnóstwo roboty, {WorriedA}więc ja, eee...
+9d85639034	{AngryA}[grumpy] Jasne.
+d157a1369c	{NormalA}Było {SarcasticA}po prostu cudownie na ciebie wpaść, Bigby.
+e3b3c13935	[deep breath]
+fa1e14d363	{Normala}Chwileczkę.
+35e1aac5a4	[nervous] {WorriedA}Och, daj spokój.
+8e35f58740	[from foyer] {WorriedA}Wciąż tu jesteś?
+b75052fd32	Siedź cicho.
+05c6b7c1df	[confused] {ThinkingB}"Jesteśmy"? Kto jeszcze--
+7ae656a254	{WorriedA}Co on tu robi?
+81138f6e75	[from the next room] {ThinkingB}Z kim rozmawiasz?
+307d7127da	{SarcasticA}Mnie pasuje.
+f6a131d2fd	{SarcasticA}Ty tu rządzisz.
+6f84812f56	{AngryA}Mogę już iść?
+aa614b400c	[from the next room] {NormalA}Bigby?
+dce6d60604	{HappyA}Dobry wieczór, panno White.
+df178c7de0	[suspicious; annoyed] {AngryA}Dobry wieczór...
+e51f8e3b7e	{NormalA}Co się dzieje?
+a2630fe87f	Skończyliśmy, Jack.
+5a5af529f6	Tutaj, Śnieżko!
+706e4ca3bc	Okradał mieszkanie.
+900915f820	[under his breath; to Bigby] {AngryA}Myślałem, że się dogadaliśmy.
+e91558d37b	{ThinkingA}{Body-X}Czyżby?
+10c7e47bcf	Pomaga mi.
+4c021da8c7	[surprised] Och.
+799c7c889e	To nieważne.
+66f7d2b769	Ale miał informacje o wiedźmie Crane'a.
+acc6e75147	{normalA}To... teraz nieważne.
+a21a3b188b	{HappyA}Miałem informacje o Crane'ie i jego wiedźmie, które pomyślałem, że mogą {NormalA}zainteresować Biuro Administracji.
+3c68e4a5b8	[annoyed; "hurry up"] {AngryA}Co to znaczy?
+03495a1c2f	{NormalA}Cóż, skoro Bigby najwyraźniej stracił zdolność {AngryA}mowy, {NormalA}chętnie wyjaśnię.
+d5cbf41cfb	{HappyA}Przyszedłem zaoferować swoje usługi.{NormalA}
+6ac0325e7a	{NormalA}Ciotka Greenleaf.
+d451e7cd01	{NormalA}Nazywa się Greenleaf.
+5efdf58e41	{NormalA}Czego się dowiedziałeś?
+e4fbfbede7	[annoyed] {ThinkingA}Świetnie.{NormalA}
+b5da389d20	Ale nie wie, gdzie możemy ją znaleźć.
+04fc6bc65d	Sprawdzić w dokumentach?
+c777dcf488	[worried] {WorriedA}Crane spotyka się z nią o drugiej w nocy.
+aeca7982d1	[worried] {WorriedA}A my nie mamy pojęcia, gdzie ona jest.
+4a8140bc7a	[sigh; we're getting nowhere] {WorriedA}Bufkin szuka wszystkich nielegalnych wiedźm, ale na razie nic nie znaleźliśmy.
+ff67db08ea	{NormalA}Czy nie powinna być w spisie w Biurze Administracji?
+bba0b881e1	{NormalA}Dam mu to imię, ale nie mamy czasu czekać.
+cfd95c9087	{NormalA}Wymyślę coś.
+1fcda603f8	{NormalA}Nie wiem, {ThinkingA}ale coś wymyślę.
+d25f2a853c	[urgent] Musimy się dowiedzieć, gdzie się z nią spotyka.
+35cac4e766	[urgent] I tak będzie na styk.
+3b6ff56070	{NormalA}Spróbuj u Holly. Wciąż ma wszystkie rzeczy Lily.

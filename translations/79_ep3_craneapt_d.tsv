@@ -1,0 +1,99 @@
+# Odcinek 3 - env_craneapt cz. 4
+c6a06247db	{WorriedA}Jest jeszcze mieszkanie Tweedledee. Wiemy, że są w to zamieszani.
+577ed1a81b	[unsure] {ThinkingA}Jeśli jeszcze ich nie spaliła.
+c34fdbb1e5	{NormalA}I wiemy, że tam poszedł Sinobrody...
+6938a56509	{NormalA}Dokąd chcesz iść?
+f4f248d2dc	{WorriedA}Nie mamy dużo czasu.
+82f083497b	Myślę, że to nasza najlepsza opcja.
+262e524703	{NormalA}Brzmi dobrze.
+679c948db9	Na pewno coś wiedzą.
+63169d97b2	{NormalA}Złożę wizytę {ThinkingA}braciom Tweedle.
+a1d59c36cb	{NormalA}Dobrze.
+a3be02f691	{NormalA}Dam Bufkinowi to imię i mam nadzieję, że znajdzie coś w dokumentach.
+082d84468b	{ThinkingA}Chwileczkę, Jack! Chcę z tobą porozmawiać.
+940968c40e	{NormalA}Daj znać, co znajdzie.
+f32a74ff9a	Będę w kontakcie. [beat; serious] {WorriedA}Mam nadzieję, że ty też.
+6d8ab4a027	{ThinkingA}Złapiemy go, Śnieżko.
+add7f7f3fd	Będę dla niej wyjątkowo miły.
+664fe1c040	Mam robotę do wykonania.
+c153979db3	To ona zaczęła bójkę...
+0a2eb1d984	{ShockedA}[starts to say something] Eee-[cuts himself off]
+2561615f67	[slight annoyance]{ThinkingA}{Body-X}Co?
+e8e64be0a9	{ConfusedA}Po tym, co się stało na pogrzebie...
+b52457d426	{ShockedA}Może nie ucieszyć się na twój widok.
+6f489702ce	{NormalB}Na pewno to dobry pomysł?
+8144004ed8	[sarcastic] {SarcasticA}Postaram się być wyjątkowo miły, dobra?
+35e045f3a8	{SarcasticB}Jeśli twoim zdaniem bycie miłym to mówienie ludziom [slight pause] "spierdalaj"--
+17e9c66a92	{ThinkingA}[I don't believe you] Jasne.
+ecb6a53375	{SarcasticA}{Body-X}Spokojnie, mówię tak tylko natrętnym małpom, które nie dają mi spokoju.
+bf2bea0b52	{SarcasticA}O ile w ogóle kiedyś cię lubiła.
+a633e70b88	{NormalA}Mam {Body-StandA}robotę do wykonania. {Body-ArmsOut}Nie mogę unikać {Body-StandA}Holly tylko dlatego, że może mnie już nie lubić.
+a5fc756eec	{ShockedA}[did I say that out loud]Przepraszam.
+7a2defe0e3	[I don't believe you]{ThinkingA}Skoro tak mówisz.
+8d29454355	{NormalA}{Body-StandA}Hej, to Holly zaczęła. {Body-X}Chciałem tylko, żeby bójka się nie rozkręciła.
+0de1f9520c	{SarcasticB}I tak zrobisz, co zechcesz, na pewno.
+30b9eec400	Po co?
+2e67c0a79d	Czego szukasz?
+37aac90c32	{HappyA}Wiesz, jak się zastanowić... to właściwie zabawne, że tak na ciebie wpadłem...
+1985b65255	{SarcasticA}Może nie wiem, po co tu jesteś, ale...
+999584ad8c	[reading] "Tylko tyle udało mi się zdobyć. Obawiam się, że Śnieżka zacznie coś zauważać. Resztę będę miał w przyszłym tygodniu. Ichabod Crane."
+ddf15e1e43	[to himself] Co tu się dzieje?
+a38376e8e0	[recognition] Krzywy Człowiek.
+bc9115e19f	[to himself] {ThinkingA}{Body-Pocket}Dobra, no... musi być prostszy sposób...
+3445c14c5e	{NormalA}Uznałem, że jest nam, "małym ludziom", winien prezent pożegnalny.[beat; then quickly and quietly] {HappyA}Albo tylko mnie.
+194f1b1378	No weź.
+8d49d8d626	{WorriedA}Słowo harcerza, szeryfie.
+8a623a6181	[swallows; awkward] {FearA}Ale pogoda, co?
+80111af134	{AngryA}Kogo to, kurwa, obchodzi?
+259c1311b5	{NormalA}Chyba mogę ci pomóc.
+0998d53210	{SarcasticA}Bigby Wolf przychodzi do mieszkania Crane'a i wypytuje o wiedźmy... Nie jestem matemagikiem, ale wiem, że dwa plus dwa to pięć, nie?
+795936130e	{HappyA}Zamieść całe to zajście pod dywan.
+9d5a85c5fb	{WorriedA}[cough] Mocny uścisk.
+67932c0a5a	{AngryA}Och, daj spokój!
+31dca52371	Zawołaj
+de3c731be5	Odtwórz
+c7e88dc7d9	Mieszkanie 1901
+c2b34308cb	Mieszkanie 1902
+37742debd5	Mieszkanie 1903
+8e374c79f7	Popiersie
+800aad0e0a	Barek
+3c37082996	Drzwi do sypialni
+e419035254	Fiolka Uroku
+12e1dffd90	Automatyczna sekretarka
+1c7444be96	Portret
+4a4b063df6	Torba nauczyciela
+f4c6f851b0	Notatki
+806492090f	[Skonfiskuj pieniądze]
+972302a650	[Zostaw pieniądze]
+e2d54a3e79	[angry] Nie ukrywaj nic przede mną, Jack.
+33f58d4bbd	[angry, accusatory] Ty zawsze masz jakiś interes.
+9407eccd48	[defensive] Nie tym razem.
+6ee376979c	[defensive] Wiem, kiedy frajer nie jest wart zachodu.
+1fdfec4774	A ty? [accusatory - Jack clearly thinks Bigby does not]
+eff8a35ede	[pickup1] Pomyślałem, że sprzedam je w Lucky Pawn.
+9d87673cb9	[pickup1] Lucky Pawn?
+d833ea9f9d	[pickup1] To jedno z miejsc Krzywego Człowieka. Czasem tam pracuję... kiedy potrzebuję trochę "stabilizacji".
+d0cec8a624	[pickup1] [explaining like to a child] To lombard, łapiesz...?
+fa0fc452dd	[pickup1] [annoyed] Tak, tak...
+f34b29e2dd	Posąg
+dabac09efc	Biuro Dee i Duma
+c9e4464193	Trip Trap
+1e39f8d0fc	[pickup2] [muttering to himself] Po co Sinobrody miałby tu przychodzić tylko po to, żeby spalić wszystkie rzeczy Crane'a?
+33fbe52dc4	[pickup2] Śnieżka wysłała cię, żebyś go pilnował, a ty po prostu zastałeś to w takim stanie?
+0ae478b4fd	[pickup2] Wciąż musimy go znaleźć.
+1db80fa750	[pickup2] Chyba na razie to bez znaczenia.
+84bf90d4fb	[pickup2] No bo...
+ec7cfcbe4e	[pickup2] Myślisz, że to ma związek z morderstwami?
+55b8cfdb6f	[pickup2] I Śnieżko... znalazłem liścik z przypiętymi pieniędzmi.[beat] Crane defraudował pieniądze Baśniogrodu.
+864a940725	[pickup2] [sighs] No jasne. Bo po co być kompletną szują tylko w połowie.
+9dbad751c6	[pickup2] Crane spotyka się z Greenleaf o drugiej w nocy.
+136f4d076b	[pickup2] Nie wiem. Może.
+b10384a921	Pewnie ma związek.
+41d840152f	[pickup2] Myślę, że to powiązane. Może dziewczyny się o tym dowiedziały? Nie wiem.
+cdeacd087c	[pickup2] Mmm, może...?
+4cb247a6b1	Najpierw go złapmy.
+36e6c259b6	[pickup2] Szczerze mówiąc, w tej chwili mnie to nie obchodzi. Chcę tylko dorwać tego pierdolonego typa.
+8ddb9ecced	[pickup2] Jeśli było tu coś, co pomogłoby mi go znaleźć... to już tego nie ma.[beat; then to himself] Co za pierdolona strata czasu.
+0f530d6dd5	Spalony zegar
+9d0c0b4429	Spalone zdjęcie
+86cde02197	Spalona książka

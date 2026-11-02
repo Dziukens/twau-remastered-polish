@@ -1,0 +1,184 @@
+# Odcinek 2 - env_businessoffice_questiontj cz. 2 (TJ, Lustro, Bufkin)
+862a6afac0	Czemu podglądałeś?
+72d3ea090b	Porozmawiamy później.
+cc11ad7718	{body-X}{confusedA}Formalnie rzecz biorąc.
+6017196923	{body-pockets}{happyA}Prawda, Bigby?
+1367c8948a	{normalA}{body-pockets}Spokojnie, nic się nie stało.
+f3b29b91e3	{thinkingB}{body-X}Stąpasz po cienkim lodzie, Ropuch. Nie testuj mnie.
+b2bf170624	{SarcasticA}{body-hips}Nie ma co się tak nakręcać. {worriedA}{body-x}To nic wielkiego.
+8bf3aba207	{FlusteredA}{body-hips}A ja to nie jestem częścią Baśniogrodu?
+60359de738	[to Toad] {angryA}{body-standA}Nie mamy na to czasu.
+6b2a882254	{angryA}{body-Hips}Co robiłeś z lustrem,{ThinkingB} Ropuch?
+023da4591c	{angryA}{body-standB}Porozmawiamy o tym {ThinkingB}później.
+0d84d9600b	[sheepish] {sarcasticA}{body-hips}Myślałem, że może złapię cię na kiblu.
+fccfc8fd55	{HappyA}{body-hips}Tylko sobie żartowałem. {worriedA}{body-X}Długo tu czekamy.
+d287ed2a84	{body-Standscared}[sniffles]
+f5d0ae4393	Chętnie porozmawiam z panem o pańskich obawach później, {worriedA}ale musi pan zrozumieć, jak to pilne.
+06cd25def5	{worriedA}Musimy porozmawiać z TJ-em.
+74ef8304c9	{angryA}{body-x}To się{body-pockets} jeszcze nie skończyło, Bigby.
+5323adc2c5	{worriedA}Pomożesz nam?
+025e11f189	{worriedA}{body-StandB}W porządku.
+9ef4eadf05	{FearA}{body-Standscared}[sniffles]
+2fa6d3be19	{ThinkingB}Jestem pewna, że Bigby nie groził pańskiemu synowi. {worriedA}Proszę się uspokoić.
+980078b7d2	{thinkingA}Panie Ropuch! Proszę mówić ciszej. {WorriedA}Straszy pan TJ-a.
+d1a2fbf4fa	[angry]{surprisedA} To ja {AngryA}go straszę?
+7168f9f675	Rozumiem. Bigby postara się być delikatniejszy.
+b54330d906	Nie uspokoję się! Jeśli zrobi to jeszcze raz, wychodzimy.
+e9c716a831	Nie będę tego znosił.
+01ba23f805	[quiet, just to Bigby]{ThinkingB}Ale wygląda na to, że jest coś jeszcze.
+435febae7a	[quiet, just to Bigby]{thinkingC}Coś, czego nie chce powiedzieć.
+77458d0c75	{body-StandHurt}{fearA}Czy to prawda... [sniffle] {body-standscared}{worriedA}że wie pan, kiedy ludzie kłamią?
+0d5b165ad1	To magia.
+ee3bde2436	Proszę, powiedz prawdę.
+de15171983	{HappyB}Tak, to moja specjalna moc.{sarcasticA} Zawsze wiem, kiedy ktoś nie mówi mi prawdy.
+94278e5df5	{confusedB}Chcesz {sarcasticB}powiedzieć coś jeszcze?
+60c312ed20	{ SarcasticA}Tak, częścią mojej pracy jest wyczuwanie, kiedy ktoś kłamie. {happyB}Jestem w tym naprawdę dobry.
+ec988c5a94	{normalB}Proszę, powiedz prawdę.
+ff2f84de18	{ThinkingB}Jest coś jeszcze?
+9e0540d314	{worriedA}Chcesz nam powiedzieć coś jeszcze, TJ?
+959a5d50bf	[sniffle]
+b9d083085a	{worriedA}{body-standscared}Słyszałem, że pan to potrafi.
+1737ae0e49	{worriedA}{body-standscared}Dlatego jest pan szeryfem.
+0854c42b5d	{worriedA}{body-standB}Co się stało, TJ?
+43159bea4c	{fearA}{body-standHurt}[cut]Nie mogłem się powstrzymać.
+b5c020a779	[angry] {surprisedA}Co?
+7312a17ec4	{worriedA}{body-standscared}Proszę, nie gniewajcie się.
+5fd1a0d212	{worriedA}Ja... nie {fearA}{body-standA}zostałem pod wodą.
+477ff982ba	{worriedA}Wiem, że powinienem, ale się bałem i znowu wypłynąłem.
+20277ff3d3	[angry] {angryA}{body-hips}Tam jest niebezpiecznie! {fearA}A jakby ktoś cię zobaczył!
+bf59745b80	[angry] {angryA}{body-pockets}Dałem ci bardzo konkretne zasady!{body-hips} Musisz być cicho i się nie pokazywać, bo inaczej mogą stać się złe rzeczy. Mówiłem ci!
+069eece355	[stern] {angryB}Nie tym razem, Ropuch.
+de3d4ce33e	{confusedB}Nie {worriedA}masz kłopotów.
+c79fac7e40	{AngryA}{body-pockets}Akurat, że nie {body-x}ma.
+920e2117fa	[stern] {angryA}To wyjątkowa sytuacja. {angryB}Zostaw go.
+6fbe0ef3b7	{AngryB}Zostaw go, Ropuch.
+72734dfac1	[angry]{angryA}{body-pockets} To mój syn! {body-x}Ustaliłem granice nie bez powodu.
+96324a43dd	[sniffles] {sadA}{body-standscared}Przepraszam.
+7b95323450	{angryA}{body-pockets}Porozmawiamy o tym {body-x}w domu.
+e622063db0	{worriedA}Nie powinieneś był kłamać.
+8c199648aa	{AngryB}{body-standB}Ropuch, proszę. {body-standA}Dość już przeszedł.
+05a6eb309e	{thinkingB}Więc nie zostałeś pod wodą...
+b916b93d16	{worriedA}Jak znowu wypłynąłem, nikogo tam nie było, i pobiegłem do domu. To wszystko.
+4d30361d90	{fearA}{body-standscared}Obiecuję!
+70383f8cfa	[crying] {body-standscared}{fearA}Przepraszam
+231b69e3c0	{body-standB}{worriedA}Nie musisz przepraszać, synku. Powiedziałeś prawdę.
+fec9cac312	[sniffles]{body-standscared}{sadA}
+aaaf8fa209	[meek]{worriedA}{body-standscared}Tak.
+0c95ec79b3	{fearA}{body-standscared}Nie chciałem mieć kłopotów.
+8459433d32	{body-x}{normalA}Czemu {flusteredA}{body-pockets}nie powiedziałeś nam wcześniej?
+738367acd8	{sadA}Dobrze, synku.
+bbff0bf8f2	{happyA}Chodźmy do domu.
+eaeb081291	[low] {thinkingB}Bigby...
+42abff2f60	[tense, tired] {worriedA}{body-hips}Co za bałagan.
+a1156b4719	[calming] Ciii.
+850493f4b8	{happyA}{body-StandA}Wiemy, że jesteś dobrym chłopcem, TJ.
+bfeabf8209	{HappyB}Wszystko w porządku.
+216c38892f	{thinkingA}Jest coś {sadA}jeszcze, TJ?
+a547982b8b	[crying]{body-StandScared}[cut]Nie!
+4ddc77e45f	[quiet, just to Bigby]{ThinkingB}{body-standB}Tyle samo powiedział nam wcześniej.
+cce8787114	Ktoś się śmiał?
+60f65b9651	[scared]Nie.
+4c85b12381	{body-Crouch}{thinkingA}Słyszałeś, żeby ktoś się śmiał?
+125b76662c	{body-Crouch}Brzmiał na wściekłego, kiedy to mówił?
+ea9ed22be6	[scared]Tak.
+ce3df910bd	Dokładne słowa?
+f89ad68b47	{body-Crouch}Czy to były dokładnie te słowa: "przestań się śmiać"? Spróbuj sobie przypomnieć dokładnie, co powiedzieli.
+818d1ab293	[scared]Powiedzieli... powiedzieli: "przestań się ze mnie śmiać".
+0edda9547e	[Puść go]
+1178afeda6	Widziałeś kogoś?
+f479821eb1	Słyszałeś coś jeszcze?
+5e39539294	[more scared]{body-standscared}{fearA}Nie.
+e2733ba5c6	[even more scared]{body-standscared}{fearA}Nie!
+5d4e37d518	[cautioning]{AngryA}{body-X}Szeryfie...
+4ea54e3f63	{sadA}Bigby, {SadB}on się boi.
+8271f29499	[scared]{body-standscared}{fearA}Nie wiem, nie wiem!
+68774398b0	{body-Crouch}Dobrze, TJ.
+e44ff2e0ff	[pickup2][a greeting]Cześć, lustro.
+d44c676065	[pickup2]Witaj, Bigby. Miło cię widzieć.
+2cee1faee2	Co oglądał Ropuch?
+e69f849c22	Wiedziałeś, że Śnieżka żyje?
+ce7f6c8c15	Kto jest zabójcą?
+14ca355fea	[pickup2]Przykro mi, Bigby, nie mogę rzec. Rym czy nie rym, to nie ta rzecz.
+a0a12b7391	[pickup2][not too into this rhyming thing]Eee... Sekretów nie zdradzasz, to wiem, ale kto zabija? Powiedz mi, a zniknę w cień.
+bdd4047133	[pickup2][not too into this rhyming thing]Skoro Śnieżka żyje, jak się okazało, to czyje właściwie było to ciało?
+53856c50c8	[pickup2]Mimo twych rymów zgrabnych jak nigdy, tym razem nie pomogę ci, Bigby.
+84cd0b7d02	[pickup2][brief throat clear]
+2c3cc3ae19	[pickup2]Lecz jak wiesz, pokazać mogę wiele: powiedz, kogo chcesz ujrzeć, przyjacielu.
+973543c77f	[pickup2]Pewnie cały czas wiedziałeś, że Śnieżka żyje, co?
+3d7dd7cad4	[pickup2]Możliwe, lecz chwila ta minęła: bez rymu i pytania sprawa zgasła.
+2175eb7cb0	[pickup2]Co pokazywałeś panu Ropuchowi i jego synowi?
+e3d39dfbd9	[pickup2]Kopciuszka, co buty sprzedaje, Roszpunkę, Różę i ciebie, jak w życiu bywa.
+e8db3f8bad	[pickup2]I muszę zauważyć, że rymu zabrakło. Następnym razem trzymaj się zasad, by nie przepadło.
+133870923c	Pokaż mi Tweedleduma.
+c3c58478e4	Pokaż mi Drwala.
+4242df056a	Pokaż mi Tweedledee.
+93d0511991	[pickup2]No. Tak zrobię.
+1c14511337	[pickup2][hesitant about this rhyming thing]Dobra, lustro, powiedz przecie, gdzie, kurwa, jest Tweedledee na świecie?
+49bc799f2c	[pickup2][doesn't like the rhyming thing]Gdzie znajdę Tweedleduma... eee... tego śmiecia, kuma?
+0ecdaab6c8	[pickup2][not into the rhyming thing]Drwal i ja się biliśmy, a teraz chcę wiedzieć, gdzie go znajdziemy.
+40a6d47a02	[pickup2][not into the rhyming thing]Lustereczko, pokaż mi Holly, tę trollicę, albo... wrzucę cię do dziury na ulicę.[not serious, just can't think of a rhyme]
+e85fb06480	[pickup2][a little put out]Nie trzeba gróźb...
+84e8c5fe47	[pickup2][sarcasm]No, bardzo pomocne.
+b7427b081f	[pickup2]Typowe.
+1ee4264c14	[pickup2]Niektórych rzeczy nie mogę wyjawić. Me usta zapieczętowane, nie będę się łamić.
+587feaca1d	[pickup2][doesn't like this rhyming thing]Lustereczko, pokaż mi Lily. I tak, te rymy są głupie, mój miły.
+01857c539f	Kim jest ofiara?
+4e19cb0477	[pickup2]{sarcasticA}Oczywiście, panno Śnieżko.
+2ea48f280f	[pickup2]{worriedA}TJ jest tam, nie wiem, czy chcesz z nim porozmawiać przed czy po, {thinkingA}ale daj znać, jak będziesz gotów obejrzeć ciało. Ja... chcę przy tym być.
+3b3bf5d3fa	[pickup2]{normalA}Bufkin? Masz chwilkę?
+e1b05fe925	[pickup2]{normalA}Och! {SarcasticA}Panno Śnieżko! Mam pytanie.
+09b8223ae4	[pickup2][to Bigby]{worriedA}Wybacz na chwilę.
+55bb7c86f0	[pickup2][mild panic]{worriedA}Ach, dość tego, lustro! Znikaj! {angryA}Anuluj!
+ae5d7543fd	[pickup2][angry]{angryA}Ropuch! Co ty, do cholery,{body-X} wyprawiasz?
+39b92d84b9	[pickup2][urgent, concerned]Co się dzieje?
+f7d20a3f68	[pickup2][the voice of reason]Bigby ma rację, chyba nie powinien pan bawić się lustrem. To własność Baśniogrodu.
+d940701f17	[pickup2]Chodzi mu o pustaki. Widziałeś ślady po linie.
+2d7146275b	[pickup2]Chcesz teraz obejrzeć ciało?
+3afbf19c4f	[pickup2][ready, but not looking forward to it]{normalB}No.
+d4d4a426af	[pickup2]{NormalA}Za chwilę.
+8eb116c2d2	[pickup2]{worriedA}Kiedy będziesz gotów.
+404c7c9874	[pickup2]Już się robi, panno Śnieżko.
+527cf71a5b	[pickup2]Więc sprawdź każdego, kto pasuje do tego profilu. Możesz zacząć od Sinobrodego.
+b13abcba41	[pickup2]...Chciałabym też, żebyś zdobył dla mnie informacje o tym programie "Straży Sąsiedzkiej", który mają Zwykli.
+5d6b47e673	[pickup2]Chyba mam już w aktach jakieś ulotki.
+a42cce3030	[pickup2]Nie sądzę, panno Śnieżko.
+e2f58b1ede	[pickup2]Jakieś jeszcze pytania?
+df8b6c3f1f	[pickup2]Gotów teraz zbadać ciało?
+ae5521ca75	[pickup2]Jeszcze jedno: przynieś mi wszystko, co mamy o tym, jak w przeszłości regulowaliśmy używanie uroków.
+34c8ce0544	[pickup2]Oczywiście, panno Śnieżko.
+13c2d41fcb	[pickup2]{shockedA}O rety! Prawie zapomniałem!
+3532dbf264	[pickup2]{worriedA}Wszystko w porządku?
+fe58e01236	[pickup2]{thinkingA} [cut]Jasne. Poza tym, że {sadA}ktoś wciąż musi powiedzieć Holly, że jej siostra nie żyje.
+f191f9069b	[pickup2][to self]No, pasuje.
+aa06d56dbe	[pickup2][to self]Księżyc. Zwykle chodzi o oszustwo albo dezorientację, ale dla mnie... no, kto wie.
+7ab769da87	[pickup2][to card on the table]Mam nadzieję, że znajdziesz to, czego szukasz.
+d868c1014d	[pickup2]Szkoda, że one nie rozwiązują morderstw.
+5e38ff56c7	[pickup2]Perfumy Śnieżki...
+3efc356da8	[pickup2]Pusto. Typowe.
+668dc625f0	[pickup2]Wygląda na to, że Śnieżka zrobiła mały research.
+3cd58622b4	[pickup2][to self]Wygląda na to, że między mną a Woodym niewiele się zmieniło.
+f8a0eb2482	[pickup2][to self]Dojdę do sedna tej sprawy.
+94dc157386	[pickup2][heavy sigh]
+e83ca94211	[pickup2][to self]Piękna i Bestia... zawsze odgrywają przed sobą przedstawienie.
+e49e66744f	[pickup2][to self, but about Snow]Nigdy nie umiałaś rozpoznać niebezpieczeństwa, co?
+17dd242679	[pickup2][to self]Leki na zgagę. Może to było dla niego trudniejsze, niż myślałem.
+3a0f27d4c6	Pokaż mi Lily.
+6e1d841c43	Pokaż mi Holly.
+057088d6b8	Ropuch i TJ
+73b74b403b	Śnieżka i Bufkin
+4278905a1c	Karty tarota
+43d6aeb488	Skrzynka Crane'a
+8a3006a9da	Tabliczka z nazwiskiem
+6225eb5bf8	Książki
+0fe051e1fb	Klatka
+cf4d50bb86	Księga Baśni
+3802edc3d3	Leki na zgagę
+f6624df173	Flakon perfum
+16278059e5	To nie jest dobrowolne.
+0165479dca	To nie potrwa długo.
+acbf05cf15	Nie masz kłopotów.
+4020f936db	Możesz iść.
+f978eb149d	[pickup2][warning] Bigby. Myślę, że wystarczy.
+97f22d4033	{normalb}[hushed to Snow] Mówiłem poważnie, Śnieżko.
+7f154f245f	Nie masz kłopotów, TJ.
+5c6c4d714f	Nie powinieneś kłamać, TJ.

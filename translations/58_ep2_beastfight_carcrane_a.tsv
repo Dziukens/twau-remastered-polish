@@ -1,0 +1,189 @@
+# Odcinek 2 - env_openarmsupstairs_fight + env_streettile_carcrane cz. 1
+0aa10ca55e	Bestio! Przestań!
+026dcd8881	{angryB} Draniu!
+bbb4f88d39	[getting shoved against wall]
+f095dd5baa	[held against wall]Chyba wreszcie widzę, kim naprawdę jesteś!
+a69353b4d5	Po prostu porozmawiaj z żoną!
+2b2bbe7d41	Bigby, nie! Nie rób mu krzywdy!
+b1b808bb9e	Bestio, nie! Nie rozumiesz!
+3b90d8c72c	{surpriseA} Przestańcie! Przestańcie!
+1f2f495955	To moja wina!
+a5c6376409	Zostaw go!
+fbd3cf2eee	Prowadzę sprawę.
+96a8cac7b3	Przestań, Bestio!
+04094a486b	{thinkingA} Bestio, posłuchaj mnie, {sadA} nic się nie dzieje!
+a9c3a5fb25	[pickup2] [trying to explain, loud enough to cut him off] {sadB} To nie to, co myślisz! Proszę!
+ecf7d07b5d	[pickup2][angry, hurt] {sadA} Jak mogłaś to zrobić? {shockedB} Przeszliśmy razem wszystko! {worriedC} Dbałem o ciebie! Kocha... [loved you]
+463fdbad04	[pickup2] [angry, hurt] {shockedA} Jak mogłaś mi to zrobić?
+e4d0e42230	[pickup2] {concernedB} Zdradzasz mnie! {annoyedB} Z nim?!
+bf76ea4875	[pickup2][explaining] {confusedA} Nie! Nie, Bestio. {surpriseA} Obiecuję! Nie zdradzam.
+28d8af0b7f	[pickup2][shocked, hurt] {shockedB} Bigby?
+f5521cc55e	[pickup2] [furious] {angryB} Akurat!
+c99ec51566	[pickup2] {confusedA} Pomagam mu! To wszystko!
+ff1444f380	[pickup2][furious] {angryA} Wiem, co to za miejsce!
+62517f4619	[pickup2] {sadB} Nie! Nie {surpriseA} to miałam na myśli!
+3276c63e2b	[pickup2] [rage] {angryB} Wiem, co się tu dzieje!
+2d4ffd1c8b	[pickup2][furious] {angryB} Przestań mnie okłamywać!
+f873ce4cd4	[pickup2][forceful] To śledztwo w sprawie morderstwa.
+1da5bd5319	[pickup2][forceful] Ona mi pomaga...
+147dd97e26	[pickup2] Nie tak się takie rzeczy załatwia.
+ced09382b3	[pickup2][forceful] Bestio, przestań! Natychmiast.
+5d24d21a50	[pickup2][furious] {annoyedB} A co ty możesz wiedzieć? {confusedB} Nie masz nikogo!
+f8d801c52a	[pickup2][furious] {annoyedB} Co jest, kurwa, z tobą nie tak? {angryA} To moja żona!
+d96ce39769	[pickup2] Spokojnie, Bestio. To nie to, co myślisz.
+a5295826a4	[pickup2][held against a wall, tense] {confusedB} Mówiłeś, że widziałeś ją tamtej nocy! {angryB} Powinienem był, kurwa, wiedzieć!
+4e710d300b	[pickup2][held against a wall, tense] {annoyedB} Cały czas z nią sypiałeś!
+a38428e399	[pickup2][held against a wall, tense] {confusedB} Mówiłeś, że jej nie widziałeś! {angryB} Ty pierdolony kłamco!
+89043abc02	[pickup2][held against a wall, tense] {annoyedB} Wiedziałem, że coś kombinujecie za moimi plecami!
+847931ca52	[pickup2][tense] Nie chcę ci zrobić krzywdy, więc po prostu się uspokój i...
+b6a0552f6e	[pickup2][tense] Nie musimy tego robić. Po prostu się uspokój i...
+435d1cf04f	[pickup2][tense] Posłuchaj żony! Po prostu się uspokój i...
+eb85c21606	[pickup2][stop that] Hej!
+ee6b8ca850	[pickup2][getting mad] {angryA} Bestio!
+63fca62d89	[pickup2][angry] Po prostu przestań!
+353f504583	[pickup2][angry] {confusedA} Co ty, do cholery, wyprawiasz?!
+ff1433a247	[pickup2][angry] Mówiłam ci!
+cabb88d638	[pickup2][angry] {angryA} Nawet mnie nie słuchasz!
+43293ad327	[pickup2][angry] {angryA} Próbuję ci wyjaśnić!
+99605fffe1	[pickup2][angry, hurt] {annoyedB} Bronisz go?!
+f5634df403	[pickup2][angry] {thinkingA} Spójrz na siebie! Tak {surpriseA} załatwiasz sprawy?!
+0669775912	[pickup2][angry] {angryA} Kazałam ci przestać!
+cff7c5ce8c	[pickup2][angry, getting hard to talk] [yells in frustration] Raaaah!
+0a050eb284	[pickup2][enraged] {angryB} Wszystko zniszczyłeś!
+806a34b82d	[pickup2][completely out of control] To moja pierdolona żona!
+375185dd35	[pickup2][angry] Bestio!
+62f43dcfc4	[pickup2][getting punched in the face] Aaa!
+9b11dad5f7	[pickup2][struggling against Bigby] To moja żona, Bigby!
+a572701e1f	[pickup2] {confusedA} Ja nie...
+7b81beb7dc	[pickup2][desperate] Przestańcie!
+559bb4d75b	[pickup2][gasps] Bestio!
+e40a42b502	[pickup2][held against a wall] {confusedB} Myślałem, że mogę ci ufać!
+0b9904adef	[pickup2][held against a wall] {annoyedB} To jest to twoje "nie mieszam się"?
+5aaafe07f8	[pickup2] {confusedA} Nie, kochanie, nie, {nervousA} poczekaj chwilę!
+becde8f008	[pickup2][furious] {annoyedB} Na pewno świetnie sobie nawzajem pomagacie!
+dbe78fe603	Nie chcę ci zrobić krzywdy.
+0fd25d7b8c	Nie rób tego!
+685c58ac40	[Uderz go jeszcze raz]
+d85419c7f4	[Ma dość]
+bca089c2bd	Uderz go jeszcze raz
+5a9383db84	Ma dość
+a8a7be6ca5	{body-Drive}Nie trzeba było długo, żeby to z niego wyciągnąć.
+6d913fc2e1	{body-Drive}{AngryB}To niekoniecznie znaczy, że są zamieszani w morderstwa.
+18393ac87d	{AnnoyedA}Chciałem tylko, żebyś wiedział, że były pewne zastrzeżenia.
+6b21c4bfab	{NormalA}Wiem, szeryfie, wiem.
+028c463a2c	[tired] {body-SitInCab}{body-SitInCabLookLeft}{WorriedA}No.
+e806a56bf4	[awkwardly starting] {body-Drive}{NormalA}Eee, znaleźliśmy wczoraj w nocy Drwala przykutego do słupa. {ThinkingA}To twoja sprawka, prawda?
+f1208f2bce	{ThinkingA}Cóż, dzięki tobie w tej okropnej sprawie jest przynajmniej trochę nadziei. {NormalA}Jestem przekonany, że ma jakieś informacje o zabójstwach.
+1039ecb468	{SuspiciousA}Zakładam, że chciałbyś się nim zająć.
+ac05a972a6	{body-Drive}{AngryA}Przenieśliśmy go do piwnicy na przesłuchanie.
+08786a9254	Na pewno był w to zamieszany, tyle możemy wywnioskować z {AnnoyedB}jego bełkotu. {SuspiciousA}Musiał mieć jakiegoś wspólnika.
+bf0cb243d0	{body-Drive}{AnnoyedA}Sinobrody go teraz przesłuchuje...
+d65e01bdd8	{ConfusedA}...i już jest bliski przyznania się.
+6b002dc205	{body-Drive}Tak, ale to tylko znaczy, że nie działał sam.
+c797157c13	{body-Drive}{SuspiciousA}Nie sądzisz, że jest zamieszany?
+c19d686e7b	[sullen] {body-SitInCabLookLeft}{ConcernedA}Właściwie nie jestem tego taki pewien.
+8c40b1f80c	{body-SitInCab}{ThinkingA}Był ze mną, kiedy...{WorriedB}[Bigby doesn't want to say the word, 'head'] kiedy ją zostawiono na schodach.
+e3cb97352b	[sullen] {body-SitInCabLookLeft}{ThinkingB}No... dobrze. {body-SitInCab}Mam do niego pytania.
+22131fd922	{body-Drive}{TenseA}Cóż... wszyscy mamy.
+ca76fb3d19	{body-Drive}{ThinkingA}[making a point] Sam.
+23463d0b0b	[sullen] {body-SitInCabLookLeft}{DoubtfulA}Te morderstwa wymagały planowania... Nie wiem, czy Drwal jest zdolny do czegoś takiego.
+2027b20ec1	[uncaring of Crane's theory] {body-SitInCab}{ThinkingA}No... sam.
+d61124ec67	To nie jest mocny podejrzany.
+0c01f638f1	Mam do niego pytania.
+cc3d089c15	Nie teraz, Crane.
+da68546e3b	[Ignoruj go]
+666f87d023	{body-SitInCab}{body-SitInCabLookLeft}{ThinkingA}Myślałem, że Sinobrody jest za granicą.
+5534d07bc9	[trying to assuage you] {AngryA}Wiesz, że jest ekspertem w tych sprawach. {ThinkingA}Szczerze mówiąc, prawie sam się zgłosił.
+72701e85e4	[sullen]{ThinkingA}... Nie spodziewałem się tego.
+92cb1f033e	{AnnoyedA}Cóż, jakaś część ciebie się spodziewała, inaczej byś go nie aresztował. {SurprisedA}I dzięki Bogu, że to zrobiłeś.
+bb30c08c80	{body-Drive}{ConfusedA}Prawie. {NormalA}Chyba liczy na łagodność. Wygnanie... zamiast studni.
+cc23d0d78e	[dubious] {body-SitInCab}{body-SitInCabLookLeft}{ConfusedB}Przyznał się, co?
+1b42e39e83	[through clenched teeth] {body-SitInCab}{AngryD}Rozerwę tego pierdolonego psychopatę na pół.{body-SitInCabLookLeft}
+87538a72cb	{SurprisedA}Ale naprawdę, dzięki Bogu, że go zatrzymałeś...
+aa151f676e	[nervous] {body-Drive}{ThinkingA}Oczywiście, kiedy już poznamy całą historię.
+5014d7aaed	{body-Drive}{NormalA}Do niedawna.
+39d9bafc51	{body-Drive}{SurprisedA}Więc naprawdę, dzięki Bogu, że go zatrzymałeś...
+4c81e30afa	[thinks a bit] {HappyA}To był łut szczęścia w tym okropnym bałaganie.
+3698e419f2	[pissed] {body-SitInCabLookLeft}{DoubtfulA}"Szczęścia"?
+b9816ee612	[pissed] {body-SitInCab}{AngryD}To wszystko było jednym wielkim [emphatic/]gównem[/] {AngryB}i niczym więcej.
+8f5bf3537a	[pissed] {AngryC}Dwie osoby nie żyją. W tym wszystkim nie było [emphatic/]nic[/] "szczęśliwego".
+51c274b219	{body-Drive}{SuspiciousA}Nie chciałem sugerować...
+338bbe016e	{body-Drive}Drwal potrzebuje jeszcze trochę... zachęty, a potem powinniśmy poznać całą historię.
+85ce275881	[coldly] {body-SitInCab}{AngryA}Po prostu powiedz, co mam zrobić.
+7e5c6182b3	Z kim współpracuje, czemu to zrobił... takie rzeczy.
+d6dd13754d	[sullen] {body-SitInCabLookLeft}{DoubtfulA}Zobaczę, co i jak, jak wrócimy, ale na razie... {body-SitInCab}{ThinkingA}po prostu się przez chwilę zamknijmy, dobra?
+70770d91a4	{WorriedA}Zrobię to. Tylko nie teraz.
+7affd13a21	{body-Drive}{SurprisedA}Musimy opracować plan działania, Bigby.
+6a46dadaf0	{body-Drive}[big sigh]
+a674651a1a	[sadly] {SadA}Minęła ledwie jedna noc i kawałek poranka, a ja już też za nią tęsknię.
+b16c66a67c	[sad] Wiesz, nigdy nie tęsknię za domem bardziej niż wtedy, gdy ktoś z nas umiera. A teraz... że to akurat Śnieżka... Nigdy nie radziłem sobie z takimi rzeczami.
+fb39f898cd	To trudne.
+9956fdb66c	Wcale cię to nie obchodzi.
+c0b2169110	Powiedziałem: nie teraz.
+9d089e6d30	To nic nie pomaga.
+50757b1241	[melancholy] {body-Drive}{SadA}Po prostu nie mogę uwierzyć, że to dzieje się naprawdę.
+2a272c8e0f	[annoyed] {body-Drive}{AnnoyedB}Cóż, przepraszam, jeśli mój sposób radzenia sobie z tym cię "zaniepokoił", Bigby, ale myślałem, że mamy coś wspólnego.
+dd317215b9	{body-SitInCabLookLeft}{ConfusedB}Otrząśnij się, Crane. {AngryA}Skup się.
+e57216f73f	{body-SitInCabLookLeft}{NormalB}Kiedy mówiłem, że nie chcę teraz rozmawiać, {AngryA}mówiłem poważnie. Ani o sprawie, ani {WorriedB}tym bardziej o tym.
+c7363c1be7	{body-SitInCabLookLeft}{AngryA}Rozpamiętywanie tego gówna nic nie daje.
+ca43cc715c	[weakly] {body-Drive}[cut]Mnie pomaga.
+28f94fe574	[angry he's dredging this up] {AngryB}[cut]Mnie, kurwa, na pewno nie.
+a4c4589f85	[angry] {AngryA}Czemu, na Boga, musiało do tego dojść?
+ec9778b801	{WorriedA}...Naprawdę nie wiem, czy ktokolwiek z nas jest bezpieczny.
+5c0a0eb4bb	{body-Drive}{NormalA}To było kiedyś... pewne miejsce, a teraz...
+deab623621	[serious] {body-Drive}{AngryA}Nie wiem, co jeszcze powiedzieć, Bigby. Musimy... {SurprisedA}musimy to zakończyć.
+2e12e5a0d9	{AngryA}Dwa morderstwa w ciągu dwóch dni. Jeśli szybko nie znajdziemy sprawcy, {AngryB}dziś wieczorem pewnie będziemy mieć kolejne na progu.
+2b10907f97	{body-Drive}{ConfusedA}Co chcesz przez to powiedzieć?
+08a82f41b2	[thinking; almost just to himself] {body-SitInCab}{ConfusedB}Dzieje się tu coś więcej.
+4016b5eb87	{DoubtfulA}Nie wiem. Po prostu coś mi tu jeszcze nie pasuje.
+12a97e596f	[a little pissed] {AngryB}Co, wolałbyś, żeby zostały zamordowane "celowo"?
+5056b68e75	[wary] {body-Drive}{SurprisedA}Strasznie pomyśleć, że to był tylko przypadek. Bezmyślna robota jakiegoś błądzącego psychopaty.
+5f29ea18b0	[defensive] {AnnoyedB}Nie, oczywiście, że nie. [beat] {AnnoyedA}Wiesz, o co mi chodzi.
+03691ed1f5	{body-SitInCab}{ThinkingA}Przypadkowe zabójstwa nie potrzebują powodu.
+e08e0d37f6	[dubious] {body-Drive}{ThinkingA}Wiadomość? Do kogo?
+6783e59978	{body-SitInCab}{ThinkingA}Obie zostawiono w Woodlands... To może być jakaś wiadomość.
+d78a92763d	[solemn] {body-Drive}{WorriedA}Nasze historie były kiedyś takie proste. Miały początek, środek i koniec.
+1cc82fd9c3	[solemn] {body-SitInCabLookLeft}{WorriedB}No... to trudne.
+89a0808bdb	[solemn] {AngryA}Ale odkąd przenieśliśmy się do tego okropnego miasta... {SadA}wszystko się tak poplątało.
+4c67891c02	[CUT][solemn] {AnnoyedB} Panna White zasługiwała na lepsze zakończenie.
+16d26e99dc	{body-Drive}{AngryA}Z kim współpracuje Drwal? {ThinkingA}Czemu chcieli to zrobić?
+51ebd25157	{body-Drive}{SadA}No bo jaki w tym nieznośny sens?
+54f2bf15f5	[pissed] {body-SitInCabLookLeft}Daj, kurwa, spokój.
+efb13df7c4	[shocked] {body-Drive}{SurprisedA}Co?
+957a812aa7	{AngryB}Myślałem, że mamy coś wspólnego... {AngryC}że możemy o tym porozmawiać jak dżentelmeni!
+fb9a3016e9	[pissed] {AngryD}Traktowałeś ją jak pierdoloną pokojówkę, a {SarcasticB}teraz chcesz się komuś wypłakać w ramię? {AngryC}Nie obchodziła cię wtedy i nie obchodzi teraz.
+9b5558c118	[angry] {AngryC}To nieprawda! Zupełnie nieprawda!
+8d129b59e1	Nie mamy nic wspólnego.
+639f4bf95b	Po prostu zapomnij.
+015b689071	[pissed] {body-SitInCabLookLeft}{AngryA}Wyjaśnijmy sobie coś, dobra? {MockingB}Nie mamy ze sobą absolutnie nic wspólnego. {AngryB}Wszystko, co nas łączyło, umarło i przepadło.
+d074858cba	{body-SitInCabLookLeft}{ConfusedA}Dobra. [beat, sadder]{WorriedA}To było kilka gównianych dni.[beat] {WorriedA}Wiem, że się starasz.
+c8adba6491	[sincere] {body-Drive}{NormalA}Dziękuję.
+79807300dc	{body-SitInCabLookLeft}{AngryB}Po prostu zapomnij.
+b86679ecf9	{body-Drive}{NormalA}Przenieśliśmy go do piwnicy, ale...
+e526e22791	{ConfusedA}Po prostu nie wiem, o co ci tam chodzi.
+511f224122	{NormalA}I Bigby, musimy tu działać ostrożnie.
+7b4ddf24c0	Ludzie uważają, że tracisz kontrolę nad tą pracą...
+6ac5044490	{body-Drive}Dzwonią do mnie dniem i nocą.
+bf4c7d3b40	...nad sobą.
+5b63ca9eb5	{body-Drive}{NormalA}Więc... mając to na uwadze, powinniśmy omówić strategie, wiesz, schwytania sprawcy. {AngryA}Bo najpewniej wciąż jest na wolności.
+7927f5731b	[coldly] {AngryB}Lepiej pracuję sam.
+1778e7b70a	[glum] {WorriedA}Załatwię to.
+a83d29edda	{body-Drive}{AngryA}Myślę, że w tym przypadku szybciej byśmy to załatwili razem. {ThinkingA}Wiesz, mogę ci pomóc.
+0ab308c81e	{body-Drive}{AnnoyedA}To wydaje się kompletną stratą czasu.
+5d044f089e	[sighs] {ConcernedA}Słuchaj, to ja odpowiadam, jak coś pójdzie źle, {ThinkingA}a skoro nikt inny nie zgłasza się do tej roboty...
+9f9297179e	{AngryB}Dwie osoby nie żyją, Crane. {AngryA}A "ludzie" powinni rozumieć, że na tym polega ta praca.
+c83e5f1dd2	{body-Drive}{SurprisedA}Wiem, szeryfie, {NormalA}wiem.
+fcc64a30b0	{body-Drive}Chciałem tylko, żebyś wiedział, że były pewne {AnnoyedA}zastrzeżenia.
+5893328774	{body-Drive}{ThinkingA}Ogólnie rzecz biorąc. {AngryA}Ze strony społeczeństwa. Głównie od tych, których trochę poturbowałeś.
+61c5138948	{ThinkingB}Kto się skarżył?
+c270fc2e36	[beat] {WorriedA}Odpuszczę trochę.
+e2aa6e2de6	{ThinkingA}No wiesz... dla twojego własnego dobra.
+4c06052893	Ma brata.
+bf9cea4956	{body-Drive}{AnnoyedB}To nie znaczy, że koniecznie są zamieszani w morderstwa...
+a30b7b942e	{body-SitInCabLookLeft}{ThinkingA}Jest ich dwóch. Dee i Dum. {AngryA}I węszą na każdym miejscu zbrodni, które oglądałem.
+4d4e4508a3	Pracuje dla kogoś.
+6c10193ddb	{body-SitInCabLookLeft}{DoubtfulA}Pracuje dla kogoś, a {AngryA}ten ktoś chce, żeby węszył na każdym miejscu zbrodni, które oglądałem.
+c7f5bc2b58	{body-SitInCabLookLeft}{AngryA}Węszy na każdym miejscu zbrodni, które oglądałem...
+dc241c582c	{body-Drive}{AnnoyedA}No bo na razie nie wygląda na to, żeby coś wiedział...
+3fad0f3fc5	[awkwardly starting] {body-Drive}Eee, znaleźliśmy Tweedledee przykutego do słupa. {ThinkingA}To twoja sprawka, prawda?
+9ccae8ec7d	[dismissive] {AnnoyedB}Cóż, nie wiem, czemu go zatrzymałeś.

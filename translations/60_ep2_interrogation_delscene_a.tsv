@@ -1,0 +1,125 @@
+# Odcinek 2 - env_policestationinterrogationroom_delscene cz. 1
+da574f9514	Przyjaciółka.
+a68c2999de	Współpracownica.
+f42586ec27	Nie znałem jej.
+7507a4a979	Zwykły zbieg okoliczności.
+8b0a2f16c6	To rodzinne imię.
+4161c30b38	Do czego pani zmierza?
+12df299c49	Jesteśmy nieśmiertelni.
+07c0abed07	Odpuść.
+0b08d9e31c	Ochrona świadków.
+a2da81370f	[zapal]
+8184b40eab	[Zagroź jej]
+87a432f96d	Nie mogę na to pozwolić.
+469dd316c9	{NormalA}Czy {body-SitA}byliście... {DoubtA}blisko?
+f609b11955	{body-SitA}{NormalA}Pan i panna...{NormalB}White.
+594a3bae31	{body-SitA}{ThinkingA}Tylko przyjaciółką?
+b916008af0	{body-SitArmsDesk}{WorriedA}Była {body-SitA}przyjaciółką.
+f0dbf2a613	{NormalA}Przecież mówię.{body-SitArmsDesk}
+54c2b65627	{body-SitArmsDesk}{WorriedA}Pracowaliśmy {WorriedB}razem.{body-SitHead}
+42116fe500	Nie, gdzie indziej.
+d23bad781f	Tak, zgadza się.
+54225698b8	Skąd pani to wie?
+2c96507da2	{body-SitHead}{ConfusedB}{body-SitArmsDesk}Skąd pani{AngryB}{body-SitA} to wie?
+a031ef9340	{body-SitHead}{MockingB}Nie, {body-SitA}{body-SitArmsDesk}nie pracujemy tam.{ThinkingB}
+f86509c329	{NormalA}I pracowaliście też razem w... {DoubtA}[checking paper] Woodland Luxury Apartments, {NormalB}zgadza się?
+3729c5d358	Tak, pracowaliśmy razem.
+0b411b9ffa	Nie, to nieprawda.
+fcfa03647e	{body-SitHead}{ConfusedB}{body-SitArmsDesk}Zgadza się.
+8cb6dd8571	{ConfusedB}{body-SitArmsDesk}No.{body-SitHead}
+8b3152b481	{body-SitArmsDesk}{ConfusedA}Chyba tak.
+0e2c27fe59	{body-SitA}{AngryA}Proszę nie zgadywać, panie Wolf.
+c9246adaef	[threatening] Proszę mnie nie okłamywać.
+e8d2a670e5	{NormalB}{body-SitA}[threatening] Nie jest pan pierwszą osobą, z którą rozmawiam, panie Wolf.{AngryA}
+89b5a875b6	{MockingA}{body-SitArmsDesk}Nie, nie pracowaliśmy.
+bf90923fa7	W pańskich dokumentach jest właściwie coś trochę dziwnego.
+79a8482393	{body-SitA}{NormalB}Nie jest pan{body-SitB} pierwszą osobą, {DoubtA}z którą rozmawiam.
+af5a41874f	{ThinkingA}Wiem, że pracował pan w Woodlands z panną White.
+10ad41cc77	{body-SitArmsDesk}{MockingB}Chyba po prostu {body-SitA}zabawny {ThinkingA}zbieg okoliczności.
+4264722515	{body-SitA}{WorriedA}Wiem, że to musi być dla pana trudne,{NormalA}{body-SitB}ale doceniam pańską współpracę.
+99068ac7c0	{HappyA}{body-SitA}Jeszcze tylko kilka pytań.
+c3bb3ba862	{body-SitArmsDesk}{normalA}Nie {ConfusedA}{body-SitA}... {ThinkingA}nie znałem jej.{ThinkingB}
+6e7db71505	{DoubtA}{body-SitA}Więc mówi mi pan...
+d0201bdc3f	że ta kobieta {ThinkingA}nic dla pana nie znaczy.
+8ec8b5dce0	Schowaj to!
+bb4f8d301c	{AngryC}{body-SitArmsDesk}Schowaj to pierdolone zdjęcie!
+3f2d8e57ff	{AngryA}Zrobię wszystko, żeby wydobyć z pana prawdę, panie Wolf.
+b7a2eb18fd	{body-SitA}{AngryA}[threatening] Proszę mnie nie okłamywać.
+ce63023445	{body-SitHead}{AngryA}Mówiłem {body-SitArmsDesk}pani. {DoubtfulA}Nie znałem jej.
+c3f14d064a	{body-SitB}{DoubtA}Pańska reakcja mówi co innego.
+b56a444214	{AngryB}To martwa kobieta. {AngryA}Muszę {body-SitA}ją znać, żeby tak zareagować?{NormalB}
+99f6ceac10	{NormalB}Znał pan pannę White.
+d2c32e211b	{sarcasticB}{body-SitHead}Dobrze się pani bawi?
+0ed56c8aea	{PainA}Proszę po prostu powiedzieć prawdę.
+2e56b84324	{ConfusedA}{body-SitArmsDesk}Co to ma wspólnego z {ConfusedB}{body-SitA}morderstwem panny White?
+6d75315a95	{body-SitA}{DoubtA}Więc pański ojciec nazywa się Bigby Wolf...
+f090073759	[sarcastic] {body-SitA}{SarcasticA}Przyłapała mnie pani!{MockingA} Jesteśmy nieśmiertelni!
+28e950c2d5	{body-SitA}{AngryB}Na pani miejscu {body-SitHandDesk}bym odpuścił{AngryC}.
+75716d41d4	{body-SitA}{doubta}To groźba?
+c46ab27234	{SarcasticB}Jesteśmy w programie ochrony {body-SitA}świadków.
+f343f7baf5	{body-SitA}{AngryA}Jestem pięć sekund od wezwania FBI.
+e5de658337	{NomalA}Więc jeśli nie wyjaśni mi pan, co pan kombinuje, {NaormalB}i to natychmiast, {AngryA}będzie pan miał dużo większe problemy.
+46226a238a	Ma pani jakąś teorię spiskową, {ThinkingA}więc zadzwoni pani po FBI?{SarcasticA}
+c3167522a5	{body-SitA}{ThinkingB}To absurdalne!{body-SitArmsDesk}
+ef90fb77d4	{body-SitA}{PainA}Dowody wskazują na coś znacznie większego, niż jesteśmy {WorriedA}w stanie ogarnąć. {ThinkingA}Może nie wiem, co to jest, ale zapewniam pana, {AngryA}że federalni się dowiedzą.
+01410e0e28	[threatening] {body-SitA}{AngryA}Nie mogę pani {AngryB}{body-SitArmsDesk}na to pozwolić.
+0981bd04f1	{DoubtA}Dobrze.{body-SitB}
+503935fe14	W pańskim najlepszym interesie jest współpraca.
+1ea29045a6	{AngryA}{body-SitA}Proszę mówić!
+61475d29cd	{body-SitA}{AngryA}Dość tych gierek!
+900019fa23	Jeden.
+78accabc60	{body-SitA}{ThinkingA}Powinien pan bardziej się starać pomóc.
+522c3f75d6	Milczenie {NormalB}na pewno pana nie uratuje.
+59918d0b4a	{body-SitA}{AngryA}Do cholery, Bigby!
+2ceebf0514	{AngryA}Powiem panu, co {NormalB}wiem.
+458f4c037b	Pan i panna White {NormalB}pracowaliście razem.
+dd7894b445	{NormalA}W... {body-SitA}{ThinkingA}[checking paper] Woodland Luxury Apartments, {NormalB}zgadza się?
+721e384514	{HappyA}{body-SitA}Co pan na to?
+fba0417201	Znalazłam trzy różne akty urodzenia Bigby'ego Wolfa, wystawione w odstępach mniej więcej pięćdziesięciu lat.
+974e557157	{WorriedA}{body-SitArmsDesk}To pewnie mój ojciec {MockingA}i dziadek.
+b8eeb73f21	{body-SitA}Moja rodzina nie jest zbyt pomysłowa, jeśli chodzi o imiona.
+daf692ab11	{ThinkingA}To dziwne, bo w pańskim akcie urodzenia jako ojciec {AngryA}figuruje pan Nathaniel Wolf.
+f5f56ad7a7	I w tym.
+c0b6e5bc91	{NormalB}I w tym też.
+9fd3f9782e	{DoubtA}Właściwie wszystkie trzy są niemal identyczne, łącznie z dniem urodzenia.
+bab22fac44	Trzy.
+fdb02803ab	Dwa.
+109b47c923	{body-SitA}{AngryA}Cztery sekundy.
+5584fd0997	{ThinkingA}Czy wiedział pan, że {body-SitB}obaj urodziliście się{NormalB} w tym samym szpitalu?
+de6d728ca0	{body-SitA}{AngryA}We wszystkich trzech aktach urodzenia są ci sami rodzice, podpisał je ten sam lekarz i mają dokładnie tę samą datę urodzenia.
+131a4441f1	{NormalB}Różnią się tylko rokiem.
+75fb84c437	{body-SitB}{NormalB}Zacznijmy od ofiary.  {ThinkingA}Skąd ją pan znał?
+0a8dc1fb56	{NormalB}To jasne, że ją pan znał.
+3fee7abfcb	{body-SitA}{AngryA}Naprawdę?
+2d7a62035c	{body-SitA}{NormalB}Musi pan zrozumieć...
+edc0465510	{DoubtA}No to to {body-SitA}też musi być {AngryA}zbieg okoliczności.
+6985286f64	Pomieszane dokumenty?
+312b727318	{body-SitA}{NormalB}Zaraz do tego dojdę, panie Wolf.
+bd6c95cf05	{ThinkingA}{body-SitArmsDesk}Ktoś musiał coś schrzanić.
+7688aac0f7	{NormalA}{body-SitA}Dokumenty są błędne.
+ca6789366f	{WorriedA}Nie wiem, co jeszcze powiedzieć.
+551994a083	{SarcasticA}{body-SitArmsDesk}Mówiłem pani, {NormalA}to {body-SitA}zbieg okoliczności.
+57818812c4	{body-SitArmsDesk}{ThinkingB}Mówiłem pani. {SarcasticA}To rodzinne imię.{body-SitA}
+a147fabb9a	{MockingB}Jeśli dokumenty są pomieszane, to{NormalB} nie moja wina.
+92124edf9e	[angry] {body-SitArmsDesk}{AngryB}Co to, {AngryC}{body-SitA}kurwa, ma wspólnego z{AngryD} panną White?{AngryA}
+fb32042508	{body-SitArmsDesk}{angryA}Odczep {DoubtfulA}{body-SitA}się.
+bf75b9abe9	{body-SitA}{NormalB}Nie ma {AngryA}mowy, panie Wolf.
+7f5e4f9f75	{body-SitA}{AngryA}Pan i panna White macie dziwne dokumenty, sfałszowane papiery...
+257c8e6d3f	{MockingB}Jak wampiry albo...{SarcasticB}elfy.
+e961592e09	Nie {MockingA}mogę o tym mówić.
+8ad173aed7	[threatening] {body-SitA}{AngryB}Nawet {AngryC}się {AngryD}{body-SitArmsDesk}nie waż.
+eeba1b866e	{body-SitA}{DoubtA}Bardzo zabawne.{AngryA}
+c5ecd5e403	{NormalB}Coś pan {AngryA}ukrywa!
+cec8f26448	{body-SitA}{AngryA}Czas minął, {NormalB}panie Wolf.
+3f98635cf1	Popełnia pani błąd!
+22d1a9e49f	Proszę! Chwila.
+3b9a24a8be	{body-SitA}{AngryB}Stop!
+ed1824cfb8	[back to reality]{ThinkingA}Co? {AngryA}Mam się powtarzać?
+3af5b082b5	[tense] {body-SitA}Powiedziałam...
+b2e7c22d11	[slow, pointed] {NormalB}Ma pan trzy akty urodzenia.
+19ae6fe8ce	Tak, dziwne akty urodzenia.
+c8a034535f	{ThinkingA}Och...{NormalA}{body-SitB}
+f318e2d517	{DoubtfulA}{body-SitArmsDesk}Już pani o to pytała.
+41bd0ef14e	{ThinkingA}{body-SitArmsDesk}No, z pomieszanymi latami...
+bf693d6e03	{ThinkingB}Już to przerabialiśmy.
+0731228589	{ConfusedB}{body-SitArmsDesk}Co się dzieje?

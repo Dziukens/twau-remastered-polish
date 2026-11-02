@@ -1,0 +1,185 @@
+# Odcinek 5 - env_foundryoffice
+29f74177a7	[threatening] {AngryA} Ten pistolet mieści sześć specjalnie zaprojektowanych srebrnych kul.
+df3d692861	[threatening] {ThinkingA} Może nie jestem najlepszym strzelcem... ale gwarantuję, że przynajmniej jedna kula trafi w cel, a ty będziesz się tarzał po podłodze w agonii. Niezdolny do uleczenia się.
+5866dcfc8a	{ConfidentA} Bez Swinehearta, który by cię uratował, umrzesz.
+02afe925a3	{AngryA} Kończy mi się cierpliwość, Bigby.
+3ea8b5e454	{SarcasticA} Chcesz sprawdzić tę teorię?
+ec5414ab6e	Blefujesz.
+7fcdf382ec	{ConfusedA} Nawet gdybyś miał srebrne kule, chyba obaj wiemy, że do mnie nie strzelisz.
+07234267f0	Ale śmiało, zaryzykuj.
+6575b7a004	{SarcasticA} Odradzałbym to.
+23d06368d5	[getting shot in face by silver bullet]Agh!
+c4e948bfaf	{thinkingA} Pozwól, że zadam ci szczere pytanie...
+c4d6b8c1e8	{DoubtfulA} Na czym ci tu naprawdę zależy?
+87a82d1712	{ConcernedA} Często bywasz lekkomyślny. {WorriedA} I martwię się, że nie myślisz o-- [trails off]
+075e9d25eb	{NormalA} Bo to dwie bardzo różne rzeczy.
+b3ab2cdd99	{ThinkingA} Naprawdę chcesz prawdy...?
+cfd76e19d5	{SarcasticA} Czy chcesz tylko wyglądać na bohatera?
+2035debfd9	{SarcasticA} Jeśli chodzi o tę sprawę, rzecz jasna.
+18f9f4fee2	{ThinkingA} To nim powinieneś się przejmować... a on pewnie wciąż jest w Pudding & Pie i czeka, aż przyjdziesz go zgarnąć.
+d4edf7ff49	[angry] {AngryB} Naprawdę myślisz, że jestem taki głupi?
+6cd8c512fd	{NormalA} Nie, myślę, że on jest taki głupi. Za bardzo mu zależy na tym swoim cholernym klubie. Nie zwieje z miasta, zanim tam nie zajrzy.
+0cf6660721	{normalA} A zwieje z miasta.
+e1751372f8	{ConfidentA} Więc aresztuj mnie, jeśli musisz... ale to Georgiego naprawdę chcesz.
+20986ce96a	{ConfidentA} Nie żyje, prawda?
+007fef0a7b	{ConfidentA} Chodzi mi o to, że zabójcę spotkała kara. {HappyA} Wygrałeś.
+153dd0c971	{NormalA} Rozumiem, że masz obowiązek mnie zgarnąć, ale możesz się trochę rozchmurzyć.
+ee218b2849	{FlusteredA} To koniec.
+c6b63e5e20	Chodzi o Faith.
+ed60d067cc	{ConfidentA} Wiesz, kto je zamordował.
+b1360d59d5	[slight anger] {AngryA} Robię to dla Faith. Bo ona i Lily zginęły, a ktoś za to odpowie.
+ddf60e9fde	{ConfidentA} To po co tu jesteś?
+c201d99408	Chodzi o sprawiedliwość.
+e319a0c669	[slight anger] {AngryA} Chodzi o sprawiedliwość. Jestem szeryfem... muszę postępować słusznie.
+f789400d2d	{AngryB} Zamordowano dwie osoby.
+29a120027b	{NormalA} I wiesz, kto to zrobił.
+2f34418e14	Chodzi o Baśniogród.
+06764473d2	[slight anger] {AngryA} Chodzi o ochronę Baśniogrodu. Kiedy jakiś {AngryB} dupek morduje dwoje naszych, moją robotą jest go dorwać.
+4b350bbbd0	{ThinkingA} To po co tu jesteś.
+5a407ae18c	{sarcasticA} No bo chcesz złapać swojego zabójcę, prawda?
+91f1316f03	{NormalA} Jesteś bystry. Przyznaję.
+2612fc99e3	{ConcernedA} Więc czego po prostu nie rozumiem...
+4f096daa41	{ConcernedA} Może jestem odrobinę przesadnie ostrożny, ale z dobrego powodu.
+7f52b5d875	{tenseA} Może uważasz, że zabicie mnie to dobry pomysł, ale usilnie radzę ci to przemyśleć.
+75ab4b6445	[clears throat, collecting himself]
+c342d93c4e	[threatening] {AngryB} Wstawaj.
+43d3275775	[calm] {ThinkingA} Nie musi tak być, szeryfie.
+b597c638f0	{ConfidentA} I tego właśnie chcę.
+6347312d03	{WorriedA} Zamierzasz zrobić to, co ona każe, prawda?
+08bd4c7067	[forceful]Właśnie. Więc wstawaj!
+7b8d4eae9b	[shaken but recovering] {TenseA} Tak, cóż... Mary nie zdążyła dokończyć kul. [beat] Dopilnowałeś tego.
+a5eed252da	{ConcernedA} Nie zabiłem tych kobiet.
+67a1f5dab4	{ConcernedA} Nie jestem mordercą, panie Wolf.
+43e9d2450f	{ConcernedA} Proszę tylko o szansę...
+8c56e21d5c	...żeby przedstawić swoją wersję wydarzeń.
+0614d7fff0	{DoubtfulA} I myślę, że o tym wiesz.
+19667f7cff	[concerned] {ConcernedA} Wrócić do włóczenia się po dziczy jak zdziczały pies... samotnie?
+29a633567a	[concerned] {ConcernedA} Stracisz zaufanie Baśniogrodu i jesteś skończony. Twoje stanowisko przejdzie na następnego tępaka w kolejce, i co wtedy zrobisz?
+58487bbba6	{ConfidentA} Na pewno tego nie chcesz.
+1673180e70	{ThinkingA} Potrzebujesz ich, Bigby. Czy ci się to podoba, czy nie, to oni utrzymują cię na powierzchni.
+aa6b2ead77	{ThinkingA} Baśniogród cię nie zechce.
+867d6b8c13	{NormalA} Nie będziesz miał nikogo.
+5f4f012578	{ThinkingA} Będziesz zrujnowany...
+0268d212e9	{ThinkingA} Farma cię nie zechce.
+e97678c7c9	{ThinkingA} A co z panną White?
+868653042a	{ThinkingA} Chcę tylko, żebyś widział szerszy obraz.
+663081941e	[tense] {ThinkingB} Wiem, co robisz, i to nie zadziała.
+4637c5dbee	[tense]Do tego nie dojdzie.
+11da237c3b	[in pain]Słuchaj...
+b1b98afa41	[getting punched]Uff!
+abfb8e6026	{NormalA} Nie chcę się powtarzać, ale żeby było jasne...
+ea01d9c6e9	{ConfidentA} Nie dostaniesz odpowiedzi... ale będziesz miał trudności z wytłumaczeniem się pannie White i reszcie tego żałosnego miasta.
+46c095620c	{ThinkingA} Jeśli zmienisz zdanie i postanowisz zrobić coś głupiego...
+50c8d06aa5	{TenseA} I zrobię to... {WorriedA} pod warunkiem, że przystaniesz na moje warunki.
+ad1dca1a61	{TenseA} Jeśli postanowisz zrobić coś głupiego, na przykład mnie zamordować...
+a40ab5117a	[slight threat] {AngryA} I nie sądzę, żebym był nierozsądny.
+3a34a77921	{AngryA} Gówno. Prawda.
+6ba7d11104	{WorriedA} Pan Porgie się myli. Zapewniam cię.
+cc9c5a5b8d	{NormalB} Już rozmawiałem z Georgiem. Wiem, że to ty zleciłeś ich śmierć.
+580ba916c2	To czym w takim razie jesteś?
+3007bd5ebb	Wierzę Georgiemu.
+2ef3405f2b	[in pain; recovering]To wciąż nie zmienia faktów, szeryfie.
+c54d7880f2	[getting punched, alt]Ach!
+ee679b01e2	{NormalA} Do Pudding & Pie.
+ebc1d8f650	{NormalA} Do Woodlands.
+d6c44ee3c8	{HappyA} Wiesz, właściwie nie mogę się doczekać, aż znów zobaczę pannę White.
+68dd1013ba	{ConfidentA} Więc... ruszamy?
+4dce6a6567	{HappyA} Moje wcześniejsze kontakty z nią przebiegały całkiem dobrze.
+5333e3e6f0	{NormalA} I z pewnością mamy wiele do omówienia.
+34e63bbc11	{ThinkingA} Mam pewne... okazje biznesowe, które chyba by cię zainteresowały.
+6d14040188	{NormalA} Właściwie oboje robicie spore wrażenie.
+7d9abfa4da	{DisgustedA} Tak już miałem dość Crane'a.
+83b47a5a50	{ConfidentA} Jak to wszystko się skończy, powinniśmy porozmawiać.
+5536bacc18	{ThinkingA} Na pewno masz pytania.
+2e08d9df9e	[Zabij go teraz]
+f42a98bec9	[choking] {WorriedA} Nie... rób tego.
+8787271909	[choking] {TenseA} Co by-- Śn-- Śnieżka pomyślała?
+b4dfcac039	{AngryD} To twój koniec.
+c90d11d9c3	[choking]
+613da2abc5	{NormalB} Nie.
+6f519d6b99	[choking] {TenseA} Bigby--
+ee2b1f24d7	[choking] {ConcernedA} Popełniasz-- wielki-- wielki błąd.
+2c05d2a4f0	[choking]Ty--
+ed420af2f6	Dość już powiedziałeś.
+ef8618c55b	[choking on blood; final struggle]
+df57a2288d	[gasping]
+bff5a1111d	[gasping] {AngryA} Naprawdę się nie zmieniłeś, co?
+483e89750b	{NormalA} Po prostu wstawaj.
+a67bb4c95b	[Zabierz go do Śnieżki]
+ec1f76337c	A potem spotka cię kara.
+89af70fc84	Staniesz przed sądem swoich równych.
+edf2c3770e	[getting shoved]
+6579d0b8d6	[calm; businesslike] {ThinkingA} Zanim cokolwiek ze mną zrobisz, chciałbym zwrócić uwagę na kilka rzeczy.
+19863bcecf	{NormalA} Czyżby?
+8a01a965aa	{NormalA} I zrobisz to, co ona każe.
+0bc2dbcfe2	{ConfidentA} Zabierzesz mnie z powrotem żywego.
+039768bb17	Czemu miałbyś tego chcieć?
+7cec4a1435	Nie będziesz żywy.
+914553d6f6	Mów teraz.
+e1f5cca6a3	{ThinkingA} Nie ma powodu, żebyśmy skakali sobie do gardeł.
+b02635b2e1	{NormalA} Słuchaj...
+7d3564c495	Teraz masz do czynienia ze mną.
+5d7e2efa09	Taki jest plan.
+e157a4ceb9	{MockingA}Właśnie. [beat] Ale co się z tobą stanie, jak już tam dotrzesz, to zupełnie inna historia.
+8e39846f19	{NormalA} Witaj, Bigby. Wyglądasz na zmęczonego.
+c7f00cc4e4	[cold] {ThinkingB} Daj mi jeden dobry powód, żebym cię teraz nie rozszarpał.
+1bf6dbe77b	To zajmie tylko chwilę.
+973ab98adc	{ConfidentA} Porozmawiajmy.
+242c452f34	Proszę... usiądź.
+04ba1f6d61	{ConfidentA} Chyba nie rozumiesz...
+ff9e43b783	[forceful] {AngryB}Nie rozmawiamy. Wstawaj!
+b492398294	[commanding] {ConfidentA} No, chwileczkę!
+b26b85fc5f	{AngryA} Idziemy!
+78284f3cee	{DoubtfulA} Jesteś gotów pozwolić, żeby jego zbrodnie uszły bezkarnie?
+458dc56aab	{DoubtfulA} Jesteś gotów pozwolić, żeby twój morderca uciekł?
+192a9640e9	{SarcasticA} gdyby usłyszała, że prawdziwy zabójca prześlizgnął ci się między palcami.
+cbf3510a82	{ThinkingA} Nie wyobrażam sobie, żeby panna White była zadowolona,
+9be48f9344	[menacing] {AngryA} O, nie martw się. Georgiego też dorwę.
+9ca020f293	{AngryA} Ale najpierw zajmę się tobą.
+dbc7ecd2d9	{AngryA} To nie Georgie jest mordercą... tylko ty. {AngryB} Mam w dupie, co się z nim stanie.
+bb810fb499	{AngryA} Pozwól, że to ja będę się martwił o Georgiego.
+76ed884040	{ConfidentA} Na pewno podejmiesz właściwą decyzję.
+7c8f29f571	No to, eee... dokąd?
+6dcdc0f712	[pickup1]Wolałbym nie marudzić.
+c0351742b1	[pickup1] {ConcernedA} Słuchaj, proszę tylko o szansę, żeby przemówić we własnej obronie przed społecznością.
+52c2ff0362	[pickup1] {ConfidentA} I na pewno panna White się zgodzi, że należy mi się uczciwy proces.
+0074fe6edb	[pickup1] {ThinkingA} Możemy się przynajmniej co do tego zgodzić?
+1ba75b5235	[pickup1]Dobrze. Rób, co musisz...
+dae8af7b54	[pickup1]No, powinieneś.
+a93d94645d	[pickup1]Wszystko w swoim czasie.
+30835a6ee9	[pickup1]Dobra. [beat]Ale powiesz mi, co się dzieje.
+d847a4c984	[pickup1]Jeśli chcesz odpowiedzi, będziesz musiał ze mną współpracować.
+dde6d86fb5	[pickup1]Musisz mi powiedzieć natychmiast. Nigdzie nie idziemy, dopóki nie dostanę od ciebie odpowiedzi.
+1fda22c860	[pickup1]Ale bądź spokojny...
+5e19a99a78	[pickup1]Bo nie powiem ani słowa więcej, dopóki nie stanę przed społecznością.
+012edbc421	[pickup1]Może sam tego nie zrobiłeś... ale nie sądzę, żeby Georgie kłamał, mówiąc, że to ty zleciłeś ich śmierć.
+3421d7931a	[pickup1]Jeśli nie jesteś zabójcą, to czym jesteś?
+8734e5e960	[pickup1]Georgie powiedziałby wszystko, żeby się ratować. Obaj to wiemy.
+df20e0bb04	[pickup1]Dobra. A teraz porozmawiajmy.
+2c93a6c7d0	Dobra, chodźmy.
+3a5187af36	[Skuj go]
+cd19a05ce9	[pickup3]Czy to dla ciebie wystarczający powód?
+c31cb03e5f	[pickup3]Następnym razem nie chybię.
+0acd84de74	[pickup4]Zabawne... słyszeć to od gościa, który celuje mi w głowę.
+0337aaa887	[pickup3]To tylko środek ostrożności.
+754c04b3b9	[pickup3]Na pewno rozumiesz.
+6555cd6fdd	[pickup3]Chyba wolałbym go zatrzymać, jeśli pozwolisz.
+8d77b0f509	[pickup4] Dobra, idziemy. Oddaj broń.
+acf8400091	[pickup4]Nie sądzę. Nie robimy tego po twojemu.
+ad67fbe205	[pickup3]Jaka szkoda...
+abddeafb99	[pickup3]Miałem nadzieję, że się dogadamy.
+649b0dce30	[pickup3]Co ty na to?
+8c6ded5213	[pickup3][grudging] Dobrze.
+346cd2b875	[pickup3][getting gun ripped out of hand]
+9e969ee5fd	[pickup3]Na pewno panna White będzie zadowolona...
+d85b4f840a	[pickup3]Taki niezawodny szczeniak.
+82e88a7bf6	[pickup3]Rozumiem, czemu chce cię mieć przy sobie.
+57a4742a23	[pickup3]Zabicie mnie tutaj nic by nie dało.
+1914051da9	[pickup3]Nigdy nie poznasz prawdy.
+bbde50ffb0	[pickup3]I co by pomyślała panna White?
+7419a971c1	[pickup3]Żadnych odpowiedzi, żadnych dowodów...
+1632f64df6	[pickup3]Zjawiasz się tylko ze zwłokami...
+be89dc86d9	[pickup3]Co teraz zrobisz? Rozszarpiesz mnie jak jakieś zwierzę?
+18b6c8e8de	[pickup3]A ona ledwie będzie mogła na ciebie patrzeć.
+477072a955	[pickup3]Czy to warte zachodu?
+ee80e250c3	[pickup3]Bigby...

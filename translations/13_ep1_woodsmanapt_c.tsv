@@ -1,0 +1,251 @@
+# Odcinek 1 - env_andersenwoodsmanapt (cz. 3 - przesłuchanie Ropucha)
+00821d007e	[pickup4] {AngryA}{DoubtfulA}Słyszałem, jak ktoś {NormalA}płakał.
+53bf54f5bd	[pickup4] {FearA}Mały uderzył palcem w {SurprisedA}ramę łóżka, {WorriedA}i tyle. {SurprisedA}Piecze, {FlusteredA}wiesz, ale [in Toad Jr's direction] {SurprisedA}to nic, o co warto robić aferę! [back to Bigby]
+aa0a584848	[pickup4]{SurprisedA}...ale dzięki, {HappyA}że wpadłeś, {SurprisedA}bardzo {HappyA}to doceniam.
+4bba53ba59	[pickup4] {WorriedA}Przepraszam, {SadA}że wciągnąłem w to pannę White...
+08431d658d	[pickup4] {HappyA}Więc, wiesz, {FlusteredA}fałszywy alarm.
+f87a8ac31c	[pickup4] [To Toad Jr] {WorriedA}Wszystko {SadA}w porządku?{WorriedA}
+8f6d6af39b	[pickup4] {HappyA}Lepiej pływa, niż chodzi, zupełnie jak tata.
+b8e6914966	[pickup4] {FlusteredA}To znaczy, {SurprisedA}przykro mi, {FearA}że przyszliście tu na darmo...
+729d91d507	[pickup4] {AngryA}...ale {SurprisedA}to [emphatic] naprawdę [/i] {AnnoyedA}nic, {AngryA}serio.
+8af947eca9	Wyjdę, kiedy będę gotów.
+90bd0b4644	Rozejrzę się.
+7e3938fc23	[pickup4] {FlusteredA}Hę?
+cd0e0b3bce	[pickup4] {DoubtfulA}Masz wyłamany zamek.
+21eae48f9a	[pickup4] [noncommittal grunt]{AngryB} Mhm.
+be7632b079	[pickup4] {ThinkingB}Zamek. Wygląda, jakby {DoubtfulA}ktoś wyważył drzwi.
+ad1e2f4899	[pickup4] {ThinkingA}Czemu zamek jest wyłamany?
+d3d90fdfaf	[pickup4] {ThinkingA}Twój zamek też jest wyłamany. {ThinkingB}To miejsce się rozpada.
+961579ef9e	[pickup4] [defensive] Trochę kurzu i wyłamany zamek... do czego zmierzasz, stary?
+bb762c7649	[pickup4] [suspicious] {ThinkingA}I nie ma to nic wspólnego z tą krwią?{DoubtfulA}
+a012abacaa	[pickup4] {DoubtfulA}I czemu zamek jest wyłamany?
+85ff83ebc1	[pickup4] [not getting it] {ConfusedA}Hę?
+516c412f2c	[pickup4]{DoubtfulA} Nie potrzebowałbyś klucza, żeby wejść.
+41d2c494b0	[pickup4] {SarcasticB}To czemu wszedłeś przez okno?
+9185a1c3b3	[pickup4] {ThinkingB}Czemu tego nie naprawiłeś? {SarcasticB}Każdy z ulicy mógłby tu po prostu wejść.{SarcasticA}
+d2d2652db7	[pickup4] [very annoyed] {FlusteredA}Bigby, {FearA}no weź, {SurprisedA}błagam cię o litość, {FlusteredA}stary.
+e5c4bf7fb0	[pickup4] Jak to się stało?
+8e914e09ec	[pickup4] Jak co się stało?
+d0ae100058	[pickup4] [sad] Kurwa mać. Cholerstwo musiało spaść ze stołu.
+90a636751a	[pickup4] [disbelieving] Aha. Lampa po prostu spadła ze stołu.
+df72f899fa	[pickup4] [nervous] Albo mały się wygłupiał, [weak smile] bawił się w piratów... [back to nervous] Kto go tam wie.
+fb8d094309	[pickup4] A, eee, jak to się stało?
+4992925c98	[pickup4] [nervous] Chyba to zadrapałem, jak szukałem plastra... no, bandaża. Pewnie nie zauważyłem.
+6be868ecad	[pickup4] Naprawdę?
+bcb013d2ca	[pickup4] [nervous] Wiesz, w tym budynku to jak mieszkać na fundamencie z termitów. Wszystko takie tanie, że cud, że to jeszcze stoi.
+cb5fafe2d4	[pickup4] I lampa też jest rozbita.
+894c2b0488	[pickup4] [feigning playful bashfulness] Akurat musiałeś przyjść, kiedy mam taki bałagan...
+fc9ead7c5d	[pickup4] Wszedłeś przez okno... byłeś "w nerwach"... jak to się rozbiło?
+ab7ed923e8	[pickup4] Co się rozbiło?
+1df3840121	[pickup4] [nervous and covering] Jak mówiłem, byłem rozkojarzony, wiesz, po wspinaczce i przez ten samochód, czułem się jak głupek... Musiałem to strącić i nie zauważyłem.
+8909e4d39a	[pickup4] [defensive] A czemu, do cholery, nie?
+6888cd6c40	[pickup4] Lampa nie mogła spaść ze stołu.
+926dfbd0b0	[pickup4] [irritated] Zajmowałem się synem, Bigby. Robiłem inne rzeczy.
+0d400750ba	[pickup4] Twoja lampa się roztrzaskała, a ty nie zauważyłeś? Co dziś robiłeś, Ropuch?
+ca050840a7	[pickup4] No... tak się stało, nie?
+4c1866a18a	[pickup4] Więc lampa jakoś po prostu spadła. I trzymasz się tej wersji?
+c0c6f4b480	[pickup4] Kiedyś to posprzątam. Nie przejmuj się tym.
+01ba6fa5cd	[pickup4] To moje mieszkanie...
+3c303640f2	[pickup4] ...nie sądzisz, że wiem, co się w nim dzieje?
+4bbf601d10	[pickup4] Nie wiem... coś tu śmierdzi.
+0286636e8b	[pickup4] [defensive] Ej, tańczące miotły i gadające tostery to jedno, ale Wilk w szeryfowskiej skórze nie ogarnia przewróconej lampki?!
+bd8f6ca9b3	[pickup4] [sad, desperate] Cholera jasna, stary, weź, odpuść już.
+a73db065a3	[pickup4] Bo lampa zawsze stała tam, Ropuch.
+f55563795b	[pickup4] Widzę w kurzu ślad po lampie, tam gdzie stała.
+d424a96040	[pickup4] [rattled] Zrobiłem małe przemeblowanie... kogo to, kurwa, obchodzi?
+9be6426850	[pickup4] Była podłączona tam...
+3bbd06faba	[pickup4] ...a teraz jest tutaj.
+56e5cf0b01	[pickup4] [upset] Jeszcze się do tego nie zabrałem! Widzisz, ile tu jest cholernych wtyczek.
+efa032fdf8	[pickup4] Bo nie stała na tym stole. W gniazdkach nie ma miejsca.
+3c949efdd6	[pickup4] I jej nie podłączyć? Weź, Ropuch.
+5f23ce46c2	[pickup4] Hę? O czym ty...
+22cfbd52e5	[pickup4] Co masz na myśli?
+a21a1cedbc	[pickup4] Przestawiałeś coś?
+c4f2714b0f	[pickup4] Tu jest czyste miejsce w kurzu.
+d9a1144ce2	[pickup4] [shaking his head, confused] Eee, może któraś z zabawek małego czy coś. W sumie kto wie?
+10bf371db7	[pickup4] [nervous] Znowu krew?
+673f368fea	[pickup4] Nie, tylko czyste miejsce w kurzu. Przestawiałeś coś?
+85175e1c80	[pickup4] To mieszkanie biedaka, Bigby, z tymi drzwiami i w ogóle. Czego chcesz?
+a08fb258c2	[pickup4] Czyste miejsce w kurzu jest stąd, skąd ją przestawiłeś.
+7afe692a14	[pickup4] Bo lampa zawsze stała tutaj, Ropuch. Stała tutaj...
+58c61b2913	[pickup4] Bo nie stała na tamtym stole, Ropuch. W gniazdkach nie ma miejsca.
+147943108a	[pickup4] Była podłączona tutaj...
+6e8b6348e3	[pickup4] ...a teraz jest tam.
+3e1682ebf4	[pickup4] [annoyed] Nic się nie stało, stary. [Empathic/] Nic[/i].
+c0eceb9a4e	[pickup4] Ta rozbita lampa stała tutaj. Prawda? Po prostu powiedz mi, co się stało.
+94dc020c80	[pickup4] [sighs, is getting tired of this] A bo ja wiem, Bigby, ma tyle bezwartościowych błyskotek...
+37b9f41379	[pickup4] Co to była za zabawka?
+88580c3945	[pickup4] [irritated] Bigby? ...Halo? ...Jest tam kto?
+82ea11c7a6	[pickup4] [annoyed] To trochę kurzu, później posprzątam.
+5b36394929	[pickup4] Co się tu stało?
+255cbbdada	[pickup4] [dodgy, falsely friendly] Ej, tylko mi tu nie matkuj! [waving him off]
+f651d127f9	[pickup4] [dry] Brzmi boleśnie.
+927b2e7b79	[pickup4] Pogrzebacz? Co z nim?
+e499dd61d8	[pickup4] Na czubku jest świeża krew. Czułem ją od drzwi.
+a5f0fb9f3b	[pickup4] [nervous, grasping] Ja... poprawiałem węgle i trochę mi się wyśliznął... rozciął mi stopę jak muszelka. Bolało jak cholera, paskudztwo.
+8f1a483a03	[pickup4] No. Co się stało?
+fd2b48a221	[pickup4] Tu jest więcej krwi.
+f739595432	[pickup4] [making it up] No, to... tak właśnie było, nie?
+aa31d921ba	[pickup4] Na pogrzebaczu?
+e1838b27c9	[pickup4] [confused] Co się stało?
+94db552615	[pickup4] [anxious] Mógłbym lepiej odkurzać, wiem.
+4e06ff0893	[pickup4] To co się stało?
+0846ac4a2a	[pickup4] Na czubku jest świeża krew. Czułem ją od drzwi.
+670cbc3666	[pickup4] Na czubku jest więcej krwi.
+adbcfd81a6	[pickup4] A co się stało tutaj?
+1fa7781113	[pickup4] To się stało, zanim wszedłeś przez okno, czy potem?
+0d60aa4e0f	[pickup4] [dismissive] Potem, potem.
+ed4c0db5ef	[pickup4] [pause, then carefully...] Nie, stary, mylisz z jaszczurkami.
+741065fce0	[pickup4] [suspicious] Myślałem, że [emphatic/] ropuchy [/] mogą wyschnąć.
+9afcb6b249	[pickup4] [nervous] Pomieszkaj tu trochę, a przeciągi sprawią, że poczujesz się jak w cholernej tundrze! Lubię ciepło, co w tym złego?
+a58a06467c	[pickup4] To najgorętsze lato od lat, Ropuch, więc po co rozpalałeś ogień?
+92fcd0f1d1	[pickup4] [rattled, caught] No, nie, ja... rozciąłem rękę. Rozciąłem rękę [emphatic/] najpierw[/], i przez to upuściłem to cholerstwo na stopę.
+1389d0b6e4	[pickup4] Mhm.
+cfe1443bf6	[pickup4] Czekaj... upuściłeś go na stopę? Wcześniej mówiłeś, że skaleczyłeś się w rękę.
+66c34394ac	[pickup4] [irritated, sarcastic] Przepraszam, że moje sprzątanie nie spełnia twoich standardów.
+9cc294afe7	[pickup4] Skaleczyłeś się, ale potem nie odłożyłeś pogrzebacza?
+26a512ca68	[pickup4] [exasperated] Na litość... to tylko pogrzebacz, ty ciężko myślący palancie! To nie "Dziesięciu Murzynków"! Zwykły wypadek!
+f53143f575	[pickup4] [defensive and anxious] O mój Boże, {AngryA}nie rób takiej {SurprisedA}afery {AngryA}z tego! {AnnoyedA}Nie ma {AngryA}tu nic do [emphatic/] {FearA}rozwiązywania[/], szeryfie, mówię ci {SurprisedA}wszystko, co się stało!
+96d64fc631	Wielka dziura w ścianie
+7632d798c2	[pickup4] {WorriedA}Mały prawie umarł ze strachu.
+63714a5889	[pickup4] [dubious] {ThinkingA}Doprawdy.
+ce5074d6bb	[pickup4] {NormalA}Bez konkretnego powodu.
+082ef988ec	[pickup4] [nervous] {SurprisedA}Wczoraj w nocy, jak wyszedłem, byłem w... {FlusteredA}w kompletnych nerwach, stary... jak każdy by był... {HappyA}i zupełnie zapomniałem kluczy do mieszkania. [nervous laughing]
+d6437c20da	[pickup4] [nervous] {AnnoyedA}Co znowu? {NormalA}Jeśli to krew, to wiesz, co się stało, ja...
+ed28b061e5	[pickup4] {SurprisedA}No, no... [thinks] i wiesz, było tak ciemno, {HappyA}że pewnie wtedy rozbiłem lampę.
+585298c7f6	[pickup4] {AnnoyedA}No, jak mówiłem, mały ciągle zostawia wszędzie zabawki...
+5a454772dc	[pickup4] To nie wygląda na ślady po zabawce.
+507d592dd2	[pickup4] {FearA}No, cóż...
+52cc22613d	[pickup4] {NormalB}Na parapecie są jakieś ślady.
+195cac7576	{alias:357095073} [pickup4] [dubious] {ThinkingA}Doprawdy.
+869a7dad8e	[pickup4] {AnnoyedA}Ciężko było wspiąć się po tej cholernej ścianie, a jeszcze ty mi tu robisz z tego przestępstwo.
+6026c446a5	[pickup4] Mały był w domu. Czemu cię nie wpuścił?
+0de5a56124	[pickup4] [incredulous] {SarcasticA}Był środek cholernej nocy, Bigby, miałem go budzić, bo jego głupi tatuś nie sprawdził kieszeni?
+6d5702c990	[pickup4] {ThinkingA}Nie masz zapasowych? Klucza pod wycieraczką czy coś?
+24c88c0e73	[pickup4] {SurprisedA}W [emphatic/] tej [/i] dzielnicy? Odbiło ci?
+ff878d84c0	[pickup4] [interrupting] To krew. Wciąż świeża.
+9b5f849acc	[pickup4] [sheepish] Naprawdę zamierzałem tu posprzątać...
+26a692decb	[pickup4] [anxious] A, no, skaleczyłem się w rękę. Biegałem jak głupek, szukając bandaża...
+d81d49a594	[pickup4] Czemu? Czy to...
+27406d7785	[pickup4] Krwawisz?
+5c835ab015	[pickup4] [nervous] Na pewno mały też pobrudził ściany tym świństwem z zabawek.
+68a84ff528	[pickup4] [nervous] To tylko trochę spróchniałego drewna, nie pleśń czy coś...
+5d7b64298d	[pickup4] Skaleczyłeś się, wchodząc przez okno?
+32dfeebda1	[pickup4] Znowu krew?
+3e5bd3fa88	[pickup4] No. Wciąż świeża.
+1233d3468c	[pickup4] [anxious] O? Naprawdę?
+04526b02eb	[pickup4] Czekaj... skaleczyłeś się w rękę? Wcześniej mówiłeś, że w stopę.
+dead707ced	[pickup4] [anxious] To tylko plama krwi, nie musisz tak stać i się na mnie gapić.
+1c56746bd9	[pickup4] [beat] No, to wszystko. Małe zadrapanie.
+47ebbf2ee2	[pickup4] [suspicious] No. Tak właśnie było.
+0439c30594	[pickup4] Jak mówiłem, szybko się goję. Trudno mnie drasnąć, sam wiesz.
+addc770ec7	[pickup4] [suspicious] To czemu nie krwawisz?
+d9715a1417	[pickup4] [shrugs] Dobra, Ropuch, jak sobie chcesz.
+0203f2d18b	[pickup4] [pissed] {AngryA}"Jeszcze nie"?
+96acdd3c26	[pickup4] [pissed] {AnnoyedA}Nikt się {AngryA}z nikim nie bił, {SarcasticA}Bigby. Nie było żadnej {AngryA}bójki.
+a22d5e78a6	[pickup4] [pissed] {AngryA}To {AnnoyedA}kiedy? {AngryA}Kiedy sobie pójdziesz?
+b0f555aea1	[pickup4] [pissed] {WorriedA}Mówisz mi prosto w {FearA}[emphatic/] oczy[/], {AngryA}że twoim zdaniem coś {SurprisedA}przed tobą {AngryA}ukrywam.
+9bdae752ab	[pickup4] {FearA}Siedzisz tu i oskarżasz mnie o {AngryA}Bóg wie co, a po {SurprisedA}co, Bigby?
+593397fd93	[pickup4] [angry] {FlusteredA}No bo {FearA}czuję się, jakbym był {SurprisedA}na procesie {AngryA}...
+c4ef9bf0c6	[pickup4] [angry] {AnnoyedA}...we własnym {SurprisedA}cholernym {AngryA}domu!
+06c3304068	[pickup4] [angry] {AngryA}To {SurprisedA}nie {AngryA}przystoi!
+c566d856a3	Kiedy uznam za stosowne.
+ed06af2a63	Kiedy powiesz mi prawdę.
+4306695671	Kiedy dowiem się, co się dzieje.
+ddb5e28553	[pickup4] Kiedy? [coldly] Kiedy uznam za stosowne, Ropuch.
+24ed30843c	[pickup4] {FlusteredA}Ale powiedziałem ci prawdę, stary. {SurprisedA}Jezu Chryste, {FearA}czego jeszcze chcesz?
+caeb692186	[pickup4] Kiedy? Kiedy zaczniesz mówić mi prawdę, Ropuch.
+0cdbec2be0	[pickup4] Kiedy? Kiedy dowiem się, co tu się dzieje, Ropuch. Wiesz, możesz to przyspieszyć...
+bf2d7adc01	[pickup4] [pissed] {SurprisedA}Jak? {FearA}Jak niby mam to {AngryA}"przyspieszyć"?
+1fdd52649a	[pickup4] {FlusteredA}Skaleczyłem się w rękę, {FearA}rozbiłem lampę...
+eae600c2fe	[pickup4] {FearA}Nie ma nic więcej do opowiadania, stary!
+0fbb8c20c5	[pickup4] {SadA}Zapomniałem kluczy, {FlusteredA}więc wspiąłem się na parapet.
+84e00c31d3	[pickup4] [confidently] Hmm. Coś się tu nie zgadza, kolego.
+a9305e621c	[pickup4][friendly] Wiem, że kłamiesz w sprawie krwi.
+70ec509c26	[pickup4] [nervous, desperate] {WorriedA}C... co masz na myśli? {FlusteredA}Nie kłamię! {FearA}Skaleczyłem się tym pogrzebaczem!
+9dab1205fb	[pickup4] Weź. Mówiłeś, że skaleczyłeś się w stopę... mówiłeś, że w rękę... i tyle krwi?
+dedd527aba	[pickup4] [friendly] Ropuch...
+02305028a4	[pickup4] [nervous, desperate] {WorriedA}Kurwa mać, Bigby, {FlusteredA}zapomniałem kluczy! {FearA}Dorosła żaba nie może na chwilę zapomnieć {SurprisedA}kluczy {FlusteredA}od domu?!
+2a4958d43e	[pickup4] Wiem, że kłamiesz w sprawie drzwi.
+28dc16c431	[pickup4] To drewno może i spróchniało, ale to tylko ułatwiło wyważenie. [pause; "and another thing!"] I znam cię, Ropuch, prędzej spałbyś w schowku swojego rozbitego auta, niż pomyślał o wchodzeniu przez pierdolone okno.
+4817e72035	[pickup4] [friendly] I kłamiesz w sprawie krwi.
+5fbd5e04d1	[pickup4] [c'mon, man] Lampa w żaden sposób nie mogła "spaść", Ropuch, cały czas była podłączona tutaj!
+0a58963b6f	[pickup4] Ktoś [emphatic/] wyrwał [/] lampę [emphatic/] z [/] gniazdka i [emphatic/] rzucił [/] nią. Tak było, prawda?
+3a446a3fdf	[pickup4] [friendly] Wiem, że kłamiesz w sprawie lampy.
+868af7ac96	[pickup4] [nervous, desperate] {FlusteredA}Lampa {FearA}spadła, i tyle! {SurprisedA}Potrąciłem ją, {FlusteredA}jak wchodziłem... {FearA}jak wchodziłem przez to {SurprisedA}coś!{FearA}
+25372c3179	[pickup4] [friendly] I kłamiesz w sprawie lampy.
+e4bd95e282	[pickup4] I kłamiesz w sprawie drzwi.
+b0e6b5d31d	[pickup4] [gently] Powiesz mi, co się dzieje?
+5f61675854	[pickup4] [friendly, but stern] Nie skaleczyłeś się pogrzebaczem. Nie zapomniałeś kluczy. Nie strąciłeś lampy ze stołu.
+eb1a930f3d	[pickup4] Te historie nie trzymały się kupy.
+06f4193ca1	{happyA}[pickup4] Chyba mój mały zadurzył się w twojej dziewczynie.
+2f96294ed7	[pickup4] [nervous] Muszę w końcu kupić szufelkę...
+29ee551724	[pickup4] No, straszny bałagan. [falsely cheery] Zapomniałem, gdzie trzymam, eee, apteczkę!
+a1fe7a2275	[pickup4] [nervous] Nigdy nie byłem dobry w kobiecych obowiązkach... w domowych sprawach, z tymi niezdarnymi rękami...
+1c71e3a55a	[pickup4] [anxious, making a joke] Chyba powinienem to naprawić...
+4451969a79	[pickup4] Przydałoby się tu trochę odkurzyć, chyba.
+e84e545607	[pickup4] Co jest, stary?
+93aabab4ef	[pickup4] [peeved] Skończyłeś już?
+72e89d5588	[Bądź twardy]
+136cee88cd	[Rozejrzyj się jeszcze]
+60d5096465	[pickup4] [feigning innocence] Nie wiem, czego chcesz, Bigby... Nic się nie dzieje.
+d5a447b373	[pickup4] Wiem, że coś tu nie gra, Ropuch. I wiem, że [emphatic/] ty [/] wiesz, że nie wyjdę, dopóki nie dowiem się dlaczego. Możemy więc przeskoczyć do końca, zanim będę musiał zrobić się nieprzyjemny?
+9d0d3ec496	[Zastrasz Ropucha]
+dee4ba1df6	[pickup4] Szczerze, Ropuch, nie wiem, czy się dowiem. I nie wiem, czy mam [emphatic/] cierpliwość [/] rozbierać na części ten twój przekręt.
+c47cc65542	[pickup4] [weak, pleading, softly] Mój chłopak jest w drugim pokoju, Bigby...
+6f6fd88b23	[pickup4] [weakly] Po prostu... po prostu nie ma nic do powiedzenia. Rozejrzyj się i sam zobacz. Wszystko ma swoje wyjaśnienie, zobaczysz.
+c3cdc14ac0	[pickup4] No bo przecież sam cię tu wezwałem...
+1a4b19283a	[pickup4] No weź, jesteśmy przyjaciółmi, nie?
+693b9938d9	[pickup4] ...nie możemy zacząć od nowa?
+e2b3f17e1e	[Uderz Ropucha]
+54a5c1bd0b	[pickup4] [quietly, in shock] Bigby... czy to naprawdę konieczne?
+47da6d7dfc	[pickup4] TATO!
+c17de16b44	[pickup4] [moaning] {WorriedA}Oooch, moje {FearA}cholerne {SadA}oko...
+0013e0b68b	[pickup4] [frightened] Co się stało? Boli?
+dd499abed1	[pickup4] [in pain, groaning] {SarcasticA}Do diabła...
+b127099c71	Tak.
+276745a9a8	[pickup4] [stern] Na tym polega ta robota, Śnieżko. Może ci się to nie podobać, ale... na tym polega ta robota.
+4cce93f798	On coś ukrywa!
+34568d4fa1	[pickup4] [stern] On coś ukrywa. Albo coś, co wie, albo coś, co zatrzymał, ale nie będę się z nim dłużej bawił.
+d742dcb4dd	Przepraszam...
+25f5e603db	[pickup4] [apologetic] Trochę mnie poniosło.
+19e061af72	[pickup4] Może... może to...
+1d7a2628a3	[pickup4] [concerned] Myślałam, że tylko z nim porozmawiasz...
+bd6484fb83	[pickup4] [tired] {SadA}To nie on.
+58d9ac36b6	[pickup4] [to Toad] Zdejmij kapelusz.
+ccaf8ca4dd	[pickup4] [disgusted] O mój Boże...
+ef0498466b	[pickup4] [angry] Bigby, chyba nie...?
+ffdffb69f2	[pickup4] [scared] Tato...?
+8ec0783f72	[pickup4] [sighing in pain] To był ten... rzeźnik, jeden z Tweedle'ów. Dum albo Dee, trzeba by ich rozebrać do gaci, żeby odróżnić jednego od drugiego.
+67b14192b0	Czego szukał?
+6e9558cab9	Dokąd poszedł?
+b764c60bd7	Co mu powiedziałeś?
+b5b6d42de9	[pickup4] [bitter] {AnnoyedA}Nie mam, kurwa, pojęcia, szeryfie.
+48e2842918	[pickup4] Czego szukał?
+f4209f5474	[pickup4] Wiesz, czego szukał?
+47acfb09df	[pickup4] [mean] Mów, co się stało. Natychmiast.
+142fb11dfe	[pickup4] [very nervous] {WorriedA}Ciągle ci mówię, {FlusteredA}to tylko nieporozumienie! {FearA}Seria przypadkowych wpadek!
+303b51556e	[pickup4] {WorriedA}To wszystko robi się trochę stresujące, {FlusteredA}dobra?
+e644f3205c	[pickup4] {WorriedA}Proszę... {FlusteredA}tylko {FearA}spokojnie, {FlusteredA}spokojnie...
+6335264214	[Złap Ropucha]
+f615f2f2a6	[pickup4] [moaning] {SadA}Oooch...
+53b5417009	[pickup4] Teraz [emphatic/] ty [/] powiesz mi, co tu się dzieje, albo [emphatic/] ja [/] zacznę...!
+4b8161bdb5	[pickup4] {FlusteredA}Próbowałem uciec przez okno...
+15e0ee15d0	[pickup4] {FearA}...ale wciągnął mnie z powrotem.
+eb743aab9a	[pickup4] [sighs] {WorriedA}To był ciężki poranek, {SadA}tyle ci powiem.
+eb1a3e0921	[pickup4] {WorriedA}Ładna sztuka odzieży.
+0e69819d3b	[pickup4] [disappointed] {SadA}No dobra. [to Toad Jr] {WorriedA}Przynieś im futro.
+744b36de04	[pickup4] Czyje futro?
+a081318122	[pickup4] {FlusteredA}Nawet próbowałem dać temu draniowi jej futro. {AnnoyedA}Nie wziął go.
+eca9379fa7	[pickup4] Pożycza?
+2f3bcce53d	[pickup4] {AngryA}Niczego nie kradnę. {FlusteredA}Zdziwiłbyś się, jaka tu jest rotacja, stary. {ConfusedA}Ja tylko... {WorriedA}przejmuję to, co ktoś zostawił.
+ca39546d48	[pickup4] [bureaucratic] Cóż, teraz zabierzemy to futro. Jeśli ma najbliższych krewnych, rodzinę, kogokolwiek...
+898350ed96	[pickup4] [eager to help] Tata pożycza rzeczy od ludzi, którzy tu mieszkają...
+519ea271ef	[pickup4] [realizes he's done wrong]... Eee... czasami...?
+8658d1dbd7	[pickup4] {FlusteredA}Dziewczyny.
+c33b83129f	[pickup4] Wiesz, dokąd poszedł Tweedle?
+77e1e2f42d	[pickup4] Co mu powiedziałeś?
+99b67fd367	[pickup4] [sincere] {FlusteredA}Nie mam pojęcia.
+35fce0226d	[pickup4] [embarrassed] {WorriedA}Powiedziałbym ci... {FearA}chciałem, {SadA}naprawdę...
+20eb0265d1	[pickup4] [mid-sentence] ...chyba nie myśli o mnie zbyt dobrze.
+7480ef98d3	[pickup4] [to Toad] Zdejmij kapelusz.

@@ -1,0 +1,2 @@
+# keep LF line endings in the repository regardless of the contributor's autocrlf setting
+* text=auto eol=lf

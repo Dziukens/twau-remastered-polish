@@ -1,0 +1,305 @@
+# Odcinek 1 - env_fabletownwoodlandslobby, env_fabletownwoodlandbuilding_delscene, env_taxi
+2c9c27807d	[pickup4]{Body-StandA}{WorriedA}Bigby! Hej! Zaczekaj.
+77124316a3	[pickup4]{WorriedB}Widziałeś moją żonę? {ThinkingA}Widziałeś Piękną?
+5e7bef50f3	[pickup4]{Body-StandA}{AngryA}Cholera... {ThinkingA}coś się dzieje.
+73145281dd	[pickup4]{Body-StandA}{NormalA}Tak. Widziałem.
+af41de8d2a	[pickup4]{Body-StandA}{ThinkingA}Co? {ShockedA}Kiedy?
+9259c5bb2e	[pickup4]{Body-StandA}{ConfusedA}Przed chwilą?
+5ee4c7a649	[pickup4]{ConfusedB}Widziałeś ją przed chwilą?
+de10bd950b	Przed sekundą.
+df4cda489e	[pickup4]{Body-StandA}{NormalA}Ledwie kilka sekund temu.
+0ab79d21be	[pickup4] Minęła mnie.
+9f3e78ddf9	[pickup4] {ThinkingA}Pewnie jeszcze ją złapiesz.
+0aef4e3e24	[pickup4] {Body-StandA}{HappyA}Dzięki!
+4c4910f43e	Wczoraj.
+1c38ae7399	[pickup4]{Body-StandA}{NormalA}Wczoraj. {ThinkingA}Czemu pytasz?
+ecdffce2b2	[pickup4]{Body-StandA}{SuspiciousA}Och... dobra...
+746753a2fa	[pickup4] {Body-StandA}{ThinkingB}Prosiła, żebym ci nie mówił.
+05d46be7c1	[pickup4] [grave]{Body-StandA}{ConcernedA}Naprawdę?
+0ff8fd0632	[pickup4] {ThinkingA}No. {NormalB}Mnie też wydało się to dziwne.
+416ac1d0e9	[pickup4] {EmbarrassedA}Dzięki, Bigby.
+5e464b3d89	Nie widziałem jej.
+b62b994d9e	[pickup4]{Body-StandA}{NormalA}Nie. {NormalB}Nie widziałem jej.
+d3bcbdf218	[pickup4] {Body-StandA}{WorriedA}Och... Dobra. {EmbarrassedA}Przepraszam, że przeszkadzam.
+7961000ec2	Nie mieszam się.
+2c457cdb24	[pickup4]{Body-StandA}{ThinkingA}Nie mieszam się w to.
+e67687b1a9	[pickup4]{Body-StandA}{ConfusedA}W co?
+72d89f571a	[pickup4]{NormalB}W cokolwiek to jest, Bestio. {SarcasticA}Nie jestem doradcą małżeńskim.
+f7f5aa994a	[pickup4]{Body-StandA}{NormalA}Zawsze warto najpierw sprawdzić...
+18ecf0265c	[pickup4]{Body-StandA}{ThinkingA}Nieważne, ile razy to sprzątają, {NormalB}tu zawsze śmierdzi... [he trails off]
+c9ca4c31cb	[pickup4]{Body-StandA}{WorriedA}No to widziałeś?
+cd0d3d7302	Prosiła, żebym ci nie mówił.
+390b821d80	[pickup4][heard from behind closed elevator doors][frustrated]{Body-StandA}{ShockedA}Kurwa {AngryA}mać.
+5011e770ab	[pickup4]{Body-StandA}{AngryA}Siódmy dzień z rzędu.
+cbf3475e19	[pickup4]{Body-StandA}{NormalB}Dawno nie dostałem żadnej poczty.
+a3cc3c6627	[pickup4][to himself]{Body-StandA}{ThinkingA}Jak długo to jeszcze potrwa?
+b9a3f50916	[pickup4]{Body-StandA}{ThinkingB}Można by pomyśleć, że szeryf dostanie stały wpis.
+674fb98415	[pickup4]{Body-StandA}{AngryA}Cholerstwo znowu odpadło.
+dbf72a16ce	[pickup4]{Body-StandA}{NormalA}Muchołap powinien odkurzyć tego gościa.
+648ccae209	[pickup4][not overly loud]{Body-StandA}{SarcasticA}Hej... nie śpisz?
+d18ec6f034	[pickup4][to himself]{ThinkingA}Hm. Może to i lepiej.
+0acfe64b26	Przycisk windy
+2dcff8c037	Skrzynka na listy
+487e59e2ac	Spis lokatorów Woodlands
+09dd997789	Wnętrze windy
+5f432ff197	Zbroja
+f7b28d7b1e	Tabliczka Bigby'ego
+0e78b32331	Biurko
+8d78cf18c7	Użyj tabliczki z
+0b01cc688e	Schody
+e2808e3b1d	Nie pamiętam, kiedy ostatnio musiałam to zamykać...
+0bfada1ace	Mam nadzieję, że nikt... Nie wiedziałam, co robić, ja... przykryłam to... po prostu...
+e9911b09e9	Wszystko w porządku?
+ef6763fd23	Tak, ja...
+0312703e11	Piękna? Co ona tu robi?
+994b5e5f57	To ona... to znalazła.
+8f258c65da	[to herself] ...teraz trzeba będzie to wymienić.
+e35bbc7d4d	Otwarte.
+e7e5526418	Tam. Po prostu... idź... popatrz. Musimy coś zrobić. Szybko. Ludzie zaraz zaczną się budzić.
+9a4c00f9db	Bigby... cześć.
+4597bf7d6b	Wszystko w porządku, Piękna?
+8c2d3f65be	Tak, dzięki. Ja... nic mi nie jest.
+54835dcc8c	Zadzwonić po męża?
+49e77cd521	Mam zadzwonić po Bestię?
+341dc8387d	Nie, nie. Nie trzeba. Nie chcę go budzić.
+496c6c7acf	Może już nie śpi.
+151728face	Same fakty
+e6743827d2	Rozumiem.
+f05692315a	Wiem, że to ostatnie miejsce, w którym chcesz być, ale muszę zadać ci kilka pytań, zanim cię puszczę.
+b6e18569d4	Musisz odpowiedzieć na kilka pytań, zanim cię puszczę.
+4c6624f10b	Chyba nie mam wyboru.
+54fef7e65e	Bigby, nie muszę tam patrzeć, żeby zobaczyć jej twarz. Nie znam jej. Przykro mi.
+743368f7a8	Nigdy jej nie widziałam.
+745417fb5d	Znasz tę kobietę?
+9a0445659f	Spójrz na nią jeszcze raz.
+534ec8f0e7	Bestia wie, gdzie jesteś?
+cab80c6dcb	Tak, oczywiście.
+0e0e7ddcbc	Bestia mówił, że wyszłaś
+d9f3c44385	Dziwne... bo rozmawiałem wcześniej z Bestią i powiedział, że już się wymknęłaś.
+4edac34540	No tak. Przepraszam. Nie nazwałabym tego wymykaniem się. Tak, poszłam na spacer. Powinien wiedzieć, że to robię. Czy to teraz przestępstwo wyjść w nocy z domu?
+c527819950	Nie. Próbuję tylko wszystko wyjaśnić.
+c3be5a4bb4	Zdradzasz Bestię?
+a822e3c20a	[angry]Napić się... Chciałabym się dziś trochę wyspać.
+89fde3af74	Dokąd idziesz?
+9e34f9ef5a	Co? Odbiło ci? Nie. Nie zdradzam, a to ostatnie miejsce, w którym powinieneś mnie, kurwa, o to pytać. Słuchaj, może zajmiesz się swoją robotą i, kurwa, odczepisz się od mojego prywatnego życia.
+cbaafdb413	Co to, do cholery, było?
+cccca9139c	Dziwnie się zachowuje.
+fc0922efb3	Ostatnio dziwnie się zachowuje. To nie jest odosobniony przypadek.
+edeb19decd	Powinniśmy mieć ją na oku.
+cd326d0dd7	Rozmawiałem wcześniej z Bestią.
+3e79a9bb7f	Bestia był wcześniej w moim biurze. Podobno Piękna wychodzi późno w nocy, a on nie wie dokąd.
+e715cbe544	Ciekawe.
+08f0bf813a	Nie wiem. Po prostu zadawałem jej pytania, a ona wybiegła.
+dd501a75a5	Hm. Brzmiało, jakby chodziło o coś więcej.
+27b86565ee	[not wanting to be a nag] Przepraszam. To nie moja sprawa.
+0824c54e60	Dzięki za poświęcony czas.
+87cb171724	Dzięki za poświęcony czas. Na pewno było ci ciężko.
+51a65aa99d	Nie wiem, do czego zmierzasz.
+4b44dd2e47	Mogę już iść?
+46a2760c78	Naprawdę nie podoba mi się, jak to poszło. Jeśli tak wygląda zrobienie czegoś słusznego, to rozumiem, czemu ludzie nawet się nie wysilają. Dobranoc.
+e670fd27dc	Tak. Nie wyjeżdżaj z miasta.
+c27e2cbd95	Tak. Na razie nikomu o tym nie mów.
+a38dcc1907	Nikomu, Piękna. Nawet Bestii.
+336bfd6267	Zamierzam.
+a439aa5542	Rozumiem... Znajdź tego człowieka, Bigby.
+4c57ddc1d1	Nie wracasz do domu?
+0444728375	Idę... Muszę się napić... uspokoić nerwy. Dobranoc, Śnieżko.
+824c8851e9	[pickup2]To Piękna.
+f60c9dd439	[pickup2]Kto tam siedzi?
+8bac312335	[pickup2]Wyjaśnię więcej, jak wejdziemy. Nie mamy dużo czasu. [frustrated at rusty lock]Zacięło się...
+9eba171e33	[pickup2]Po prostu nie mamy dużo czasu. [struggling with rusty lock]Cholerstwo!
+3909fec409	[pickup2]Znalazłem coś, muszę cię o to zapytać.
+8b9939867d	[pickup2]Mogę zobaczyć twoje ręce?
+8c135df4fc	[pickup2]Po co? Chyba nie myślisz, że to ja?
+5851db6014	[pickup2]Spokojnie. Po prostu mi je pokaż.
+863aa53802	[pickup2]No.
+d36d1ff83f	[pickup2][a little snarky]I co?
+ca95c3048f	[pickup2]Znalazłem tam w błocie ślady stóp. Mogą być od kobiecych butów.
+2e58c04c03	[pickup2]No to nie moje. Możesz sprawdzić.
+521860c7c5	[pickup2]Dobra.
+53be442ea8	[pickup2]Byłaś ostatnio na zakupach?
+eaffd4bb2c	[pickup2]Nie. O co ci chodzi?
+cfd64ba20e	[pickup2]O nic. Nieważne.
+9805308e85	[pickup2]Wyrzucałaś dziś coś? Do tamtego kosza?
+edb83b6dfe	[pickup2]Eee. Nie.
+3bd630a69b	[pickup2]Zatrzymam cię od razu. Owszem, lubię zakupy... w Barney's. NIE używają plastikowych toreb. I nigdy nie weszłabym w błoto w tych butach. Spójrz na nie.
+98fe5732d7	[pickup2][sad]Niewiele zauważyłam... poza... nią...
+d4c901f7a0	[pickup2]Znalazłem plastikową torbę z krwią w środku. A tam odcisk kobiecych butów. Więc muszę zapytać... wiem, że lubisz zakupy...
+2b1a13e08c	[pickup2]Dobra, w porządku. Musiałem zapytać. Widziałaś coś jeszcze, jak tu weszłaś?
+a1016ed27d	Torba i buty
+a60ba1a7a5	Buty
+448650ce04	[pickup2]Piękna. Co ty tu robisz? Co się dzieje?
+5276bfd541	[pickup2]Dzięki Bogu.
+f5059938e1	Rozpoznajesz Faith?
+5b709b6313	Znalazłem dowody
+f491efff32	[pickup2]Skończyliśmy już, Bigby? Naprawdę chcę już iść do domu. Proszę?
+71625e2d4d	Tak
+13c9471efe	Jeszcze nie.
+bc2223d7b2	[pickup2]No to szybko pytaj, o co tam chcesz. Chcę iść.
+2910be9127	[pickup2]Jeszcze nie. Muszę cię o coś jeszcze zapytać.
+1b3fea892b	[pickup2]Dzięki, Bigby.
+2932017c1a	[pickup2]Tak. Przepraszam. Możesz iść.
+0018c8ff84	[pickup2]O coś?
+837b50fde3	[pickup2]Piękna... mam powody sądzić... słuchaj, czy coś się... dzieje?
+882db92a61	[pickup2][under his breath quick]...a, chuj z tym.
+8173983262	[pickup2]Mogę już iść?
+17f956b368	Nieważne
+8a0b582c37	[pickup2]Czyli mogę iść?
+7f50c5356d	[pickup4]Właściwie. Nieważne.
+b07609618b	[pickup4]Jeszcze nie.
+d00a8e9845	[pickup2][aggravated sigh]Ale niedługo, tak?
+0a6d2f1133	Jak się trzymasz?
+26c403ac85	[pickup2]Czułabym się lepiej, gdybym mogła iść.
+81397a13f4	W porządku?
+8fa56a408d	[pickup2]Bigby, weź. Nic mi nie jest.
+aae6fa1ad2	Przypomniałaś sobie coś?
+68543f3ccb	[pickup2]Jeśli przypomnisz sobie coś jeszcze, co widziałaś albo słyszałaś.
+5b1c08e31b	[pickup2]Powiedziałam ci wszystko, co wiem. Szczerze.
+9d76aca608	Jeszcze nie
+cacc1dfee3	[pickup2]Tam? [beat]Nie.
+f0b9418c05	Bigby! Cholera. Słuchaj, dobra? Na górze jest gość, który grzebie w rzeczach Drwala.
+5667966f7e	Wszyscy powinniśmy.
+09f005e479	Cieszę się, że byłeś z nią delikatny. Wyglądała na naprawdę wstrząśniętą.
+f8b0bfa91a	Mogło pójść lepiej.
+89ddaff7fd	W tej wersji oryginalnej sceny to Piękna znajduje odciętą głowę Faith na schodach Woodlands. Podczas przesłuchania Bigby poznaje szczegóły jej charakteru i motywacji. Scena nie została ukończona, ale jej fragmenty prezentujemy tutaj.
+22f993f437	Bigby odkrywa głowę Faith. Potem przesłuchuje Piękną.
+614daccf5c	Gdy Piękna odchodzi, Bigby rozmawia ze Śnieżką o tym, dokąd udać się dalej.
+2474157ab2	To chyba najlepsze podejście.
+a9b8db1c65	Czasem ta twoja strona mnie przeraża.
+caa6638096	To ma sens.
+cbafdafeaa	Szkoda, że nie m...
+9e71169801	Najwyraźniej nie wiesz, czym się zajmuję całymi dniami. W tej chwili jestem odźwierną, pilnuję, żeby żaden z tych pokrzywdzonych ludzi, jak on to ujmuje, nie marnował jego czasu.
+3a520608e9	Pierwszy krok to dostrzec problem i zrozumieć, że to problem. Teraz trzeba tylko doprowadzić rzecz do końca.
+e681204815	Wciąż jest mnóstwo pytań...
+6f22b0ca7c	Znajdziemy Drwala, dowiemy się, co wie, i pójdziemy dalej.
+3536f23042	Nadal uważam, że to pewnie mąż.
+8f502f65d7	Jeszcze nie wiem jak ani dlaczego, ale skoro pytasz...
+5d32cc0495	Nie wiem, Bigby. Bywa... trudny, ale nie wiem, czy byłby do tego zdolny.
+6280499d2b	Bądź ze mną szczery. Jak myślisz, kto... to zrobił?
+a7970b97eb	To przeczucie.
+0057d88656	Tak myślisz?
+52d4e19bb6	Trip Trap. Westchester 1256 w Bronksie.
+6f0450c766	[not loving the fare] Ech, Jezu.
+fb425965db	Bigby...
+09bf94df7a	Jej mąż
+073e6a82cf	Po tym wszystkim, co widzieliśmy?
+79b9440e99	To czemu my...
+dff0c1eda7	Drwal
+23af4f16ff	Drwal. Miał motyw, miał środki.
+1d1608d09b	Jesteś taki pewny, że jest winny?
+93cba07454	Tak
+bdf4c2f0e1	Myślę, że jest... w najgorszym razie jest winny pobicia tej dziewczyny i rzucenia się na mnie z siekierą. Jak dla mnie, i tak tanio się wywinie.
+a62eb33cef	Wyciągnę go stamtąd za fraki i wsadzę do celi. Resztą zajmiemy się później.
+2e12a4b4a7	Jest niebezpieczny...
+d0c0a3f051	Na tym etapie rozbiję mu szklankę na głowie i wywlokę go stamtąd. Resztą zajmiemy się później.
+5c4a1940b1	Muszę go przesłuchać.
+084f8012a1	Nie wiem, czy jest. Dlatego muszę z nim porozmawiać. Nie znam całej historii. Może ma jakieś informacje, które nam pomogą.
+0f9a6bd1d9	Czasem bywasz męczący.
+f0cc48cb4b	Ja też nie wiem. To znaczy... chyba że wiesz, tylko nie chcesz mi powiedzieć.
+580b351524	Dee
+41b7915611	Faith miała kłopoty. Bała się kogoś. Muszę się dowiedzieć kogo. Może tego, dla kogo pracowała.
+47a4dd7abc	Bigby, weź. Porozmawiaj ze mną.
+637ebecaed	Myślę, że może w to być zamieszany Crane.
+a7252019a3	Co? Naprawdę?
+f6ac232dfc	Alfons
+bf9e445ba4	Ten facet... ci faceci, którzy mnie zaatakowali. Dee i Dum. Mają z tym coś wspólnego.
+84b9f18ad0	Sinobrody
+7169e98a91	Miałam takie samo podejrzenie.
+5eca95a31c	To jego modus operandi.
+432e5a0f0f	Jeszcze z nim nie rozmawialiśmy, ale...
+3ab0b5144f	Powiedz mi. Na tym etapie chyba nic mnie nie zaskoczy.
+91a8ad7756	Mam przeczucie, że Sinobrody ma z tym coś wspólnego.
+f6276f2e85	Nie wiem, czy nie wiesz, czy po prostu nie chcesz powiedzieć.
+cbe4d9b1e5	Czemu tyle palisz?
+db1f1d3ab5	Trochę przytępia mi zmysły. Pomaga się skupić.
+fb7865bb1a	W mieście jest mnóstwo widoków i zapachów. O większości z nich wolę nie myśleć.
+a66a54d75c	Przepraszam. Nie przywykłem do... przebywania z ludźmi. Mogę zgasić.
+37d9cfd9bc	Nie, Bigby, naprawdę. Nie musisz. Nie przeszkadza mi to. [beat] Jestem po prostu ciekawa.
+d4b47dea3d	Ja...
+ee504d0837	Ale to nie moja sprawa.
+85d3d5a7d0	Dzięki za pomoc.
+e2bfcca3bf	Dzięki za...
+500d3b8d03	Szkoda, że nie...
+8f5eb990a5	Dobra robota.
+55acf9508f	Robisz naprawdę...
+39b3da1f13	Nie jest tak źle, jak myślałem.
+7b740e1ff5	Nie jest tak źl...
+bcad116e3e	[sympathetic] Wyglądasz na zmęczonego.
+ed2916ed9e	Przepraszam.
+dfe5420d46	Mów.
+e95367613d	Nie, to...
+651716ef38	Mów. Nie chciałem ci przerywać.
+66660482a1	Chciałem powiedzieć...
+377d42b709	Chciałem tylko powiedzieć...
+4418693971	Dzięki... za pomoc. Doceniam ją. To wszystko.
+a95a8c5785	Nie ma sprawy. Cieszę się, że nie przeszkadzałam.
+2a8c682f3e	Wręcz przeciwnie.
+e2db586b3f	Dobrze się spisujesz. Uznałem, że powinnaś to wiedzieć.
+40b415cef3	[somber] Dzięki. Doceniam to.
+b3b4109cc6	Miałem obawy, że jedziesz ze mną, ale... nie było tak źle, jak myślałem.
+65cf0adb0b	No, to chyba najbliższe komplementu, czego mogłabym się po tobie spodziewać.
+6fdc79a7c1	Więc...
+daa618b59b	To nie było ważne.
+468be4e621	Och... dobrze... no, to jest...
+16f3e26209	Nieważne. To nie było istotne.
+5f13e526c8	To nic, ja tylko...
+2f380496ed	Widząc to wszystko dzisiaj... Niektórzy Baśniowie mają gorzej, niż sobie wyobrażałam. Tyle uwagi poświęcamy mieszkańcom Woodlands... że zapomina się, iż tam jest cała społeczność, której trzeba służyć.
+9204bb0c80	Żeby musieć się uciekać do... prostytucji. [beat] Szkoda, że nie możemy zrobić więcej.
+6869aaf994	Robisz, co możesz.
+f91eed6e53	Teraz pomagasz.
+66be631fc2	Problemem jest Crane.
+fcb143641a	Naprawisz to.
+ae63aefd2f	To Crane jest tu winny, nie ty.
+8f568381e2	Jestem bardziej winna niż ktokolwiek.
+4c22e8b1c7	Zrób coś z tym.
+4517ac5929	Mam wrażenie, że zawsze można zrobić więcej, ale ty robisz, co do ciebie należy.
+9355f1afa5	Bigby.
+7b614ffec2	Ja... eee...[changes her mind] po prostu... uważaj na siebie, proszę.
+2a116007e4	No, może powinienem.
+6f5d309193	No, może tym powinieneś zająć się sam.
+82778c26a1	Ty też.
+82c4334c0d	To samo dotyczy ciebie.
+15bc53c216	Nie martw się.
+a63ce35754	Mam nadzieję.
+2f260af9ce	Nie martw się. To się niedługo skończy.
+ae07453542	Zawsze.
+76f3dddaa1	[matter of fact] Zawsze.
+ef7882a2bb	Przynajmniej spróbuj.
+5f412b6bc2	[pickup5] To nieprzyjemne uczucie.
+9612a323cd	[pickup5] Po prostu czuję, że jesteśmy krok z tyłu.
+98b3825648	[pickup5] Wiem, że to jeszcze wcześnie, ale...
+855bc7d97a	[pickup5] Nie tak to sobie wyobrażałam...
+c2f96aeedd	[pickup5] ale Crane rządzi po swojemu.
+ec5400e4e7	[pickup5] Żeby musieć się uciekać do... prostytucji... [beat] żeby samobójstwo było wyjściem, ja po prostu... Już nie wiem, co my robimy.
+95b4bade44	[pickup5] Robisz, co możesz. Nikt nie może zrobić więcej.
+ec37461fff	[pickup5] Naprawisz to.
+fc33423df3	[pickup5] To zrób coś z tym. Masz pozycję, z której możesz coś zmienić.
+5789f3cebd	[pickup5] Jeśli naprawdę chcesz pomóc, znajdziesz sposób.
+791992e04a	[pickup5] No... to nieprawda.
+ac8f026b0d	[pickup5] Jasne, bywało gorzej, ale... niewiele.
+261c11637a	[pickup5] {worriedA}Teraz jest gorzej niż kiedykolwiek.
+94170f4cf1	[pickup5] [guilt racked/contemplative] {worriedA}Nie wiem...{angryA} to po prostu zepsuty system. {worriedA}Baśniowie, którzy wchodzą tylnymi drzwiami, jak Sinobrody... {angryA}dla nich mamy cały czas świata. {worriedA}A jak spróbujesz wejść frontowymi drzwiami, oficjalną drogą, {sadA}prosząc o cokolwiek... potrzebując pomocy, to... odprawiam cię z kwitkiem.
+987f4864b1	Wytrwaj.
+05c365f351	[pickup5] Powinnaś wytrwać. Są Baśniowie, którzy wiele by dali, żeby być na twoim miejscu, i myślę, że łatwiej coś zmienić od środka.
+03547fe4ba	[pickup5] [faint smile] Mówisz mi, że zmiana zaczyna się od środka.
+34c016bde7	[pickup5] Jasne.
+019e1872e4	[pickup5] Nie takiej rady spodziewałam się od ciebie.
+76cae98f8e	[pickup5] Jestem pełen niespodzianek.
+ab8f5e67c4	Może mogłabyś odejść...
+cc18804a4c	[pickup5] Nie rozmawiamy o mnie.
+2644fe691d	[pickup5] Muszę to rozważyć.
+683fb954ce	[pickup5] Powinnaś stamtąd odejść. Jeśli jest tak źle, jak mówisz, może są lepsze sposoby załatwiania spraw poza systemem.
+ec21487979	[pickup5] Nigdy nie myślałam, że z ciebie taki, co się poddaje.
+44f6e562b7	Coś wymyślisz.
+ad53ec3222	[pickup5] No, to niewiele znaczy.
+4750b96192	[pickup5] Coś wymyślisz. Jesteś lepsza ode mnie w tych politycznych sprawach.
+4263f638b5	[pickup5] Mam nadzieję, że masz rację.
+1913407806	[pickup5] Ufam, że podejmiesz słuszną decyzję.
+f15121e198	[pickup5] Może to nie dla mnie.
+d3a76d4ac7	[pickup5] Myślałam, że służba publiczna jest... czysta.
+1e69350172	[pickup5] Że to sposób, żeby pomagać.
+acb99ee7f5	[pickup5] [beat] Mam nadzieję, że masz rację.
+271773c05f	[pickup5] Za każdym razem, gdy myślę, że zaczynam rozumieć, co się dzieje... wszystko się jeszcze bardziej komplikuje.
+2e346c388b	[pickup5] Czuję, jakbyśmy zawsze byli krok z tyłu.
+403f26ec14	[pickup5] Drwal to jedyny trop, jaki mamy, i był jedną z ostatnich osób, które widziały Faith żywą.
+cf00398732	[pickup5] Wyciągnięcie z niego odpowiedzi zacznie coś wyjaśniać.

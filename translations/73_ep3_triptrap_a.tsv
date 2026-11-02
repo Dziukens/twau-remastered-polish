@@ -1,0 +1,139 @@
+# Odcinek 3 - env_bartriptrap cz. 1
+9f2c431a3c	[processed: behind a door] [annoyed] Czy możesz co.
+a64ad2a39f	[processed: behind a door] [laughing to himself] Ona śpi, ty pierdolony idioto.
+c81f7fa45e	[processed: behind a door] [grossed out] Po co miałaby tego słuchać?
+29686c1cb0	[processed: behind a door] No to jak to się stało!
+f327ea84cb	[processed: behind a door] Co tu jeszcze wyjaśniać?
+21adae999f	[processed: behind a door] No... Mogę--
+b9653e999b	[processed: behind a door] Nawet nie dała mi szansy wyjaśnić!
+575e75a137	[processed: behind a door] Wiemy, co się stało.
+5ac5aae0fd	[processed: behind a door] No... wiesz, co się stało.
+c1f764d750	[processed: behind a door] Mogę po prostu, nie wiem... poczekać tu chwilę?
+943ff61996	[processed: behind a door] Aż się obudzi?
+bd84ee766b	[processed: behind a door]Spadaj.
+c6b260cd67	[processed: behind a door]Zamknięte.
+53b86f69c2	[processed: behind a door]Spierdalaj do East Village. Nie mamy otwarte.
+f2f9a78c33	[processed: behind a door]Nie słyszałeś, kurwa?
+860088552e	To ja, Bigby.
+c01fb54ca5	Tu szeryf.
+3cbfeb6d84	{ThinkingA}Chłopaki, to ja, Bigby.
+be081a9da0	{ThinkingB}Chłopaki, otwierajcie, tu szeryf.
+402a0c92e1	{ConcernedA}Muszę porozmawiać z Holly.
+ca6db356b3	[processed: behind a door] [annoyed]Przeczytaj tabliczkę.
+1e69698a76	[while still looking at Bigby]{StonedA}Hej, patrz, Woody, szeryf.
+b1ef61fef5	[greeting] {MockingB}Doktorku.
+ab5f632edf	{NormalA}Bigby?
+837c8b6c39	[making a joke] {Sarcastic}Pijesz w środku tygodnia?
+48bf8b0b25	{WorriedB}Jak ona się w ogóle czuje?
+f80e85bb1f	{Professional}Dla każdego.
+17aed8992d	{MockingA}Dzisiejsza noc to nie była wizyta w operze.
+e6b843cace	{NormalA}Fizycznie... coraz lepiej. Emocjonalnie... {MockingA}nie wiem.
+41fe514ff7	{WorriedA}Jest zupełnie nieprzytomna? {ThinkingA}Mogę z nią porozmawiać?
+c24cf4447f	{MockingA}Śpi, Bigby. A na twoim miejscu bym jej nie niepokoił.
+363e35c5db	Przeszła bardzo ciężkie chwile.
+41ec9437ee	{MockingB}Nie mogę wyjść, dopóki nie zdobędę informacji.
+6b74ebc354	{MockingA}Możesz je zdobyć bez niej?
+a6245da4f1	{DoubtfulA}Jeśli ona ich nie ma, to będę musiał.
+c14021d35e	{MockingB}Przeszła bardzo ciężkie chwile.
+9490f1cf8e	{MockingA}Złamałem cztery igły, zanim udało mi się wkłuć.
+b213a4c4c4	{Sarcastic}Ta dziewczyna ma cerę jak skała.
+11988f6019	{Professional}Musiałem jej natrzeć rękę octem.
+ec176a7342	[processed: behind a door] Gren?
+13412ebd21	[processed: behind a door] [laughing to himself] A gówno mnie to obchodzi.
+78994df30a	{StonedB}Minąłeś się ze Swineheartem.
+75eae79f4c	[lightly sarcastic]{StonedA}No to wchodź, {StonedB}kolego.
+9268be73b4	{ConfusedA}No nie? Znaczy... {TiredA}pewnie nie czujesz się najlepiej po tym cyrku.
+272e8c8d12	{WorriedA}Gren...
+aca8aa95ac	{StonedB}Co, to podróżnik, {StonedA}zmęczony podróżnik w poszukiwaniu odrobiny... gościnności, nie?
+8b11a0e54a	No... jasne.
+20e4edf5ec	Co z tobą nie tak?
+feda7afb93	Muszę zobaczyć rzeczy Lily.
+64b6ce1280	[confused]{ConfusedB}No, jasne. {ConfusedA}Dzięki.
+cb9ebf5456	{StonedB}Nic ze mną nie tak. Właściwie {StonedA}mam cholernie dobry humor, więc korzystaj.
+391f495773	[calmly confused]{ConfusedA}Co z tobą jest, kurwa, nie tak?
+950e194d78	[laughs a little to himself]{StonedA}Nieważne.
+e14e22156f	{ConfusedA}No... Będę tu tylko {ConfusedB}dwie minuty. Muszę tylko przejrzeć rzeczy Lily.
+f527eb527a	{StonedA}Wszyscy powinniście korzystać.
+1a74814ca3	{StonedB}Co jest, kurwa, stary? Mam cholernie dobry humor.
+4e4649edba	{WorriedB}Gren, daj spokój, usiądź tutaj.
+2fb402e233	{StonedA}Chcę oczyścić atmosferę. Wszyscy siedzimy razem w tym gnojowisku {StonedB}pierdolonego zasranego miasta, więc wszyscy wzniesiemy toast. {StonedA}Wszyscy.
+9f6e202b9a	{SadA}Tak, mówił, na pewno mówił, {TiredA}ale coś ci powiem.
+6b0eed69b6	Gren, Swineheart mówił, że nie powinieneś tego mieszać z--[gets cut off]
+7ca9ff1de8	{AngryA}Myślisz, że obchodzi mnie, kurwa, co mówi ten pierdolony typ?[beat] {ConfusedA}Albo co ty mówisz?
+1f3c5c2dcc	Doktor dał im obojgu ambrozję barmecydzką.[beat] Na ból.
+5ba7739021	I powiedział, że nie powinien jej mieszać z alkoholem.
+8231cdc281	{AngryB}Nie chcę się z nim nachlać.
+f9dbd29d18	[Wypij]
+5d54fdccfe	{AngryA}Kończy mi się czas, Gren.
+ff057fe61d	[Wytrąć mu drinka]
+cdb70ec990	{WorriedB}Czego jeszcze chcesz?
+f4f4dc51d2	{AngryB}Niczego od ciebie nie chcę, Woody.
+3eacc412b8	{AngryC}Chcę, żeby w miejscu, gdzie była twoja tłusta, głupia, pierdolona dupa, została wielka czarna dziura.
+b378560036	{AngryB}O, zapomniałem! {AngryC}Ty nic nie wiesz!
+bf7bcd5c72	{AngryB}Ten chodzący placek ze smalcu płacił siostrze Holly, żeby dawała mu się {AngryC}pieprzyć! Za naszymi plecami!
+da5a684643	[nervous]Dobra, dobra, zanim się nadąsasz, to Śnieżka mnie wypuściła, jasne?
+3be04deffc	{AngryA}Nie zesraj się, Woody, na pewno on to rozumie.
+72ed7cb841	{StonedB}A jak nie, to może to później obgadać z żoneczką.
+51cc5945cd	{AngryA}I nic by nie wyszło na jaw, gdyby Bigby nic nie powiedział!
+872361edf0	{AngryB}Daj spokój, jakby to była jego pierdolona wina.
+10ecc7952e	{AngryB}Nie, ale wiedziałeś, że Holly się wścieknie, i {AngryC}wiedziałeś to z cholernie dobrego powodu.
+3ebaeea431	[getting pissed] {AngryA}Nie planowałem tego, jasne? A to nasze coś, czymkolwiek było... to nie było nic wielkiego.
+854a9177c4	[hugely sarcastic]{StonedA}A Holly musiała się o tym dowiedzieć, przeglądając całe gówno po siostrze! {StonedB}Ależ to musiała być frajda!
+fc81455caa	{WorriedA}Nie było. Nigdy jej nie pieprzyłem, kiedy była Śnieżką, {WorriedB}i nic o tym nie wiedziałem.
+4eb60caec7	Gren, odpuść.
+86adbaa518	{ConfusedB}Myślę, że cokolwiek się stało, to była sprawa między nimi, {WorriedA}a Lily nie żyje, {WorriedB}więc zostawmy to, Gren.
+634af91f13	[getting tired] {body-SitA}{SadA}Nie wiem, gdzie jest gówno Lily.[beat] {TiredA}Sprawdź pokój Holly, nie wiem.
+8a80c4f160	[sleepy]{body-SitA}{TiredA}Lunatyków i trolli, chyba taka jest zasada.
+21d1556a33	[sleepy]Może ogrów też.
+95e74dfc85	{NormalB}Jeśli nie znajdę jej rzeczy, może {ThinkingA}będę musiał--[gets cut off]
+a9754f4ab5	{AngryB}Ale z ciebie pierdolony --[gets cut off]
+db30514d06	[falling asleep]Co za pierdolony dzień.
+7ed7a50c0a	[tired]{TiredA}{body-SitA}Co za dzień, nie, szeryfie?
+2335f7a209	Po prostu-- nie było sensu, żebym siedział w pace, ona... sama tak powiedziała.
+4a4612cf40	{SuspiciousA}Oooo, nie. {StonedB}A zresztą doktor wyraźnie kazał mi dać tej zacnej kobiecie spać.
+86d2333c15	{ConcernedA}Nie da się jej obudzić?
+7f76d285e0	Nie da się obudzić Holly?
+3d6aaccc27	Ścigam Crane'a.
+bc2852f69c	{TiredA}Zaraz przejdziemy do tego, po co {ConfusedA}tu przyszedłeś.
+ce35739955	{AngryB}Ścigam Crane'a, jasne? {MockingB}Faceta, którego wszyscy nienawidzimy? {AngryA}I czas nagli, więc {ConfusedB}spróbuj się skupić choć na minutę.
+2196895147	{ThinkingA}Gren, Bigby nie przyszedł tu, żeby się z tobą nachlać.
+67161789fa	{StonedA}Dawno nie czułem się tak dobrze, grubasie...
+cfe12f2775	{AngryA}Co jeszcze, kurwa, mam tu powiedzieć?!
+e10de133ce	{MockingA}Chyba po pogrzebie...
+85f20824c3	{Sarcastic}Klin klinem nie zaszkodzi.
+0e2ec2fda4	[trying to wake him] {WorriedA}Gren.
+9436d7bd94	[Snore-cough]
+5e9fd50fae	[trying to wake her up] {WorriedA}Holly.
+05d9eec9d1	[trying to wake her up] {ConfusedB}Holly!
+572845b1e6	[very tired] To ty, Woody?
+9d173cb93e	[half-asleep]To ty...
+5d6f09c089	[half-asleep]Woody...
+5271df8a4d	No, jasne.
+c21558dd0f	[uncaring] {ConfusedB}No, jasne.
+aba2c3d1ff	[half-asleep]Za dużo się włóczyła...
+8afab191e4	[half-asleep]Była fajną dziewczyną...
+c10dc2b1e3	[half-asleep]Ale fajną dziewczyną...
+00a8158baf	Oczywiście, że mi zależało.
+88f6fa345f	Nie jestem Drwalem.
+6d6cc557b4	[half-asleep]Mm? Bigby?
+b27a085d0c	{ConfusedA}Nie jestem Drwalem, Holly. {WorriedA}To szeryf, to Bigby.
+b948301439	[half-asleep]Zależało ci na niej choć trochę?
+c6242bbd51	[half-asleep]Bar zamknięty.[beat] A Lily i tak nie ma, więc... chyba możesz wracać do lasu...
+37482f7c67	{WorriedA}Oczywiście, że mi zależało.[beat] {WorriedB}Wciąż mi zależy.
+7be280840e	[half-asleep]Mam nadzieję.[beat] Mam nadzieję, że tak.
+872d7b2fe2	{ConfusedB}Nie wiem, Holly.
+d528efef14	[half-asleep]Nie wiem, po coś tu, kurwa, przylazł...
+32a0fe76bb	Przykro mi z tego powodu.
+2cf4c9332d	Wynagrodzę ci to.
+4a8145cc8f	[half-asleep] Jasne, mały...[sighs] Jak rzeki zawrócą... a niebo zacznie krwawić pierdolonymi Cyganami.
+75749144ff	Przykro mi, Holly. Przykro mi z powodu tego, co się stało...
+70bf49dda5	Przykro mi, że się dowiedziałaś.
+326d4fabd0	Ja... przepraszam. Przykro mi, że dowiedziałaś się w taki sposób.
+da35cf58c0	Śpij dalej.
+92d1089cdb	[half-asleep]I nie jestem w nastroju do zabawiania gości.
+55ca2ac1a2	[half-asleep]Nie zostało już nic, co mógłbyś zniszczyć...
+26ba2975a1	Nie, to ja, Bigby.
+17f7b1a5ad	[half-asleep]I wybacz, ale... nie jestem w nastroju do zabawiania gości.
+fa352c4ca3	Nie, Holly. To ja. Bigby.
+68d14128c7	[half-asleep]Bar zamknięty.
+1e4b51d0ab	[half-asleep]Bigby... bar zamknięty.

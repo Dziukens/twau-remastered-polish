@@ -1,0 +1,141 @@
+# Odcinek 3 - env_tweedleoffice cz. 2
+5c93cf6132	Pójdę do mieszkania Crane'a.
+fa5c59204b	[processed: phone call]Crane spotyka się z nią o drugiej w nocy.
+870f5b6c6e	[processed: phone call]Zostawiam to tobie, ale nie mamy dużo czasu.
+c99149083e	{NormalA}{body-Pocket}Pójdę do mieszkania Crane'a. Zobaczę, czy jest tam adres albo {ThinkingA}{body-StandA}coś takiego.
+32486c4ee8	Brzmi dobrze.
+cc629f6797	[to himself]{DoubtfulA}{body-StandA}Zobaczmy, czy mają teczkę na Crane'a.
+4eb8ced9f2	[reading; to himself]{ThinkingB}{body-HandOnHipLeft}"Drogi Bracie Dee, myślę, że powinniśmy sprawić sobie psa. Z poważaniem, Brat Dum."
+70148f540c	{ThinkingB}{body-HandOnHipLeft}[reading; to himself]"Drogi Bracie Dum, nienawidzę psów i dobrze o tym wiesz! Z poważaniem, Brat Dee."
+88bbb8e97c	{ThinkingA}{body-StandA}[muttering]Para dziwaków.
+fd2c3b429e	[to himself] {ConfusedA}{body-StandA}O co tu chodzi?
+8363a990d8	[to himself]{ConfusedA}{body-StandA}On to naprawdę wysłał pocztą?
+bf214519c7	Mają swoje dziwactwa.
+a562a45388	[to himself]{ThinkingB}{body-StandA}Jest gorzej, niż myślałem.
+748b28640b	[to himself; this is bad]{WorriedA}{body-StandA} Piękna jest dłużna Krzywemu Człowiekowi?
+f2bf21c632	[to himself]{NormalB}{body-StandA}Cholera.
+edb0012c85	[to himself; confused]{ConfusedA}{body-StandA} Detektyw Brannigan?
+85c0377a62	[reading]{ThinkingB} "Mieć ją na oku".
+d376db757e	Nie przejmuj się.
+ec42fc7b6e	Nie przysłałem go.
+69eda69416	Muszę iść.
+8f1c2f403b	Możesz pracować dla nas.
+99761081ec	Porozmawiaj ze Śnieżką.
+227de05126	Co za dupek!
+7d47202b43	Co zabrał?
+bc7e24047d	Co tu się stało?
+a7d3ec1767	Z kim rozmawiasz?
+c4bb5f30f9	{WorriedA}{body-StandA}Wszystko w porządku? Twoja twarz...
+9149f0bb59	{ThinkingA}{body-StandA}Co się, do diabła, stało?
+aa3093e5b3	Zaraz to posprzątam. Przepraszam.
+2d8bb8abb2	Co? Gdzie?
+ee6307b934	Dobrze! Ja-- No chyba...
+992d06079c	[confused] Czy wszystko w porządku--? [gets cut off]
+5208db31ee	[over his shoulder; rushed]Jadę do Trip Trapu. Tylko, eee, {WorriedA}zadzwoń do Śnieżki i powiedz jej, co się stało, dobra?{DoubtfulA} Zrobisz to dla mnie?
+50e4313c1e	[urgent]{NormalA}Muszę iść.
+3ffa2e391b	{AngryB}Ach, cholera.
+bbb5cb6ee9	[awkward]Coś wymyślę.
+28f144d446	[to himself] {AngryA}Cholera.{DoubtfulA} Jak on zamierzał to wszystko spłacić?
+e89dcf49ea	[to himself] {ThinkingA}{body-HandOnHipLeft}Więc dlatego byli w jej mieszkaniu... i u Drwala.
+4732f354ac	{DoubtfulA}{body-StandA}[to himself]Crane wynajął ich, żeby szukali zdjęcia?
+a8829ff80c	[to himself]{WorriedA}{body-StandA}Czemu tak bardzo chciał je odzyskać?
+e21ae245fd	{AngryA}{body-X}[frustrated]Nie to, czego potrzebuję.
+9ad11c7b10	Czego dokładnie pan szuka? Może mogę pomóc.
+e792667ae7	{NormalA}{body-StandA}Czegokolwiek o Crane'ie... {ThinkingA}albo o wiedźmie, z której usług korzystał.
+188c32c03c	{NormalA}{body-Pocket}Nie mam pojęcia... {AngryA}Pewnie czegoś, czego nie powinni mieć.
+de6af9c3d8	[awe]Co to jest?
+aaeb41c9ab	[to himself]{ThinkingA}Co to za rzeczy?
+6ad2b21194	{DoubtfulA}Ale to nie jest wiedźma.
+ba56f1d867	{ThinkingA}{body-StandA}[to himself; recognizing the name] Krzywy Człowiek...
+7284027c82	{NormalA}Krzywy Człowiek.
+ec84f27350	Komu wysyłał pieniądze?
+e732b3af28	[Weź pieniądze]
+7cccd55ad6	{DoubtfulA}Ale wciąż muszę znaleźć tę wiedźmę.
+9ceaef401c	Tego pan potrzebował?
+4fb22c5352	[thinking out loud]{ThinkingB}{body-StandA}Chyba nie,{ThinkingA} ale to ciekawe. {NormalA}{body-X}Dzieje się tu coś więcej.
+14df12359f	[to himself] {DoubtfulA}{body-StandA}Książka.
+df32ee30a4	{AngryB}{body-StandA}To niewiele nam mówi.
+11becc18ce	[to himself; grumble]{ThinkingB}{body-StandA} "Zatrzymać dla B.C.W."[beat] Hm.
+640756b411	[from another room; muttering]Och, dzień dobry, Sinobrody.[beat] O nie, przykro mi, wielkoludzie, nie może pan wejść!
+0be3db2076	[startled] Och! [glum]Dzień dobry, szeryfie.
+731413a88a	[surprised to see you here]{WorriedA}{body-StandA}Muchołap...
+ec12eeca45	[glum]Co pana sprowadza?
+de908b1348	Był tu Sinobrody.
+2dfa1f3915	{AngryB}{body-StandA}To robota Tweedle'ów?
+a9ed1a224d	Nie... to nie oni.
+1d58956bb5	Dopiero co tu był.
+e954f4cddc	Czy-- Czy szuka pan Sinobrodego?
+bc5f708619	Chyba znalazł to, czego szukał.
+5c05f71634	Czegoś szukał... nie wiem czego.
+5e09f816d2	Kiedy nie chciałem go wpuścić...
+1d84a54f5c	{AngryB}{body-Hips}Cholera.
+67afa031ea	{AngryC}{body-Hips}Co za pierdolony dupek!
+7e277024e5	{AngryA}{body-X}Co zabrał?
+aa72929985	[slightly nervous]Nie wiem, czego chciał. Nie widziałem, co zrobił potem...
+01603a4a70	{AngryA}{body-StandA}Wiesz, dokąd poszedł?
+e47d3fc5ab	Naprawdę przepraszam, Bigby.
+52dd819178	Mówił, że to oficjalne śledztwo, ale skąd miałem wiedzieć, czy mówi prawdę?
+e69d1713a4	Mówił, że pan go przysłał... ale, nie wiem, po prostu pomyślałem, że kłamie.
+4c87d91353	Mówił prawdę?
+1cac96517c	Nie powinienem tak po prostu wpuszczać tu ludzi.
+90fa326921	Powiedział, że dopilnuje, żeby mnie zwolnili.
+e0bda55776	Ale potem się wściekł i mówił... po prostu okropne rzeczy.
+9dc671444a	{NormalA}{body-Pocket}Nie{WorriedA} przejmuj się, Muchołapie.
+59a2e0e1c6	[reassured, but distracted]Dobrze... w porządku.
+62707de5fb	{AngryA}{body-StandA}Kłamał. Nie przysłałem go tutaj.
+266019d672	{WorriedA}{body-HandOnHipLeft}Dobrze zrobiłeś.
+f0c4de93b7	{AngryA}{body-StandA}Nigdy, przenigdy nie ufaj temu facetowi. {ThinkingA}{body-HandOnHipLeft}Dobra?
+c02e172b37	Jasne. Przepraszam.
+40dbc592e9	[trying to come to terms with it]Wyrzucą mnie.
+d6be24f280	Powiedział, że tylko przeszkadzam... kazał mi spadać.
+1c00cd13b6	Co ja teraz zrobię?
+ab4e35c09d	Crane już mnie "zwolnił" z Woodlands.
+b0a3fbc6bb	{NormalA}{body-X}Dlatego tu jesteś?
+27662da98a	Tu jest miło, wie pan. Spokojnie.
+c9ccc782ac	[sigh]Ale na pewno nie przejdą nad tym do porządku.
+41528d9d5f	Zazwyczaj są całkiem mili. Wyrozumiali...
+dff41a4b23	Przychodzę i sprzątam.
+da38e6db2f	[helpless]Co ja zrobię?
+c4a4721a60	{ThinkingB}{body-X}To właściwie nie mój problem.
+d1b8655ff7	Jasne... Ja-- Wiem. Przepraszam.
+520d373b7f	{NormalA}{body-StandA}Cóż, Crane'a już nie ma... {WorriedA}Nie widzę powodu, czemu nie mógłbyś wrócić do Woodlands.
+7bd9c7bc1a	[happy] Naprawdę? To by było... Dziękuję.
+af1a825cb7	[Hold your horses]{NormalA}Wpadnij do Biura Administracji.{ThinkingA}{body-HandOnHipLeft} Niczego nie obiecuję.
+aa0267fda8	{WorriedA}{body-StandA}Porozmawiaj ze Śnieżką.{body-HandOnHipLeft}{NormalA} Może będzie mogła coś dla ciebie zrobić.
+88e464b22c	[hurried]{NormalB}{body-StandA}Słuchaj, kończy mi się czas.
+269c1d09a5	Jasne. Oczywiście.
+86ff5d7c6b	I zapytam ją o tę pracę, dobrze?
+c743b65d17	{ThinkingA}{body-StandA}Trzymaj się, Mucho.
+25892a6279	Pan też, szeryfie Bigby.
+36f9cbf8f0	Hej... Bigby...
+9b729c0550	Mnie pasuje.
+d67819eefb	Porozmawiaj ze Śnieżką.
+1b5a8a68b0	Myśli pan, że po tym wszystkim... Myśli pan, że mógłbym wrócić do Woodlands?
+eb9737dac4	Pan i Śnieżka, jesteście mili.
+7be75ecc3b	Chyba już nie chcę.
+fe156d48c1	Odkąd Crane mnie zwolnił...
+7d0cdd5cee	Nie chcę pracować ze złymi ludźmi, wie pan?
+dab3d2478b	No bo mogę dalej tu pracować, ale...
+fdad5f74e3	[awkward]Przepraszam. Nie powinienem był pytać.
+a782253aba	[mad]Powiedział, że tylko przeszkadzam.
+a8c9634a44	[rushed]Powodzenia.
+f0df12276e	[rushed]Bigby, muszę kończyć. Ktoś właśnie przyszedł.
+a90f62aeeb	Ale wie pan, Crane... eee, zwolnił mnie... niedawno.
+a3f264274f	[to himself] {AngryA}{body-StandA}Ciotka Greenleaf.
+4ffb8641a1	[to himself]{ThinkingB} A.G.
+50b07ce65b	[Finally!] {NormalB}To jest to!
+d697315b3b	Masz telefon?
+a4da27e423	Muszę powiedzieć Śnieżce.
+4da1562c41	Dzwoń do Biura Administracji!
+c785993901	{DoubtfulA}{body-StandA}Jest tu gdzieś telefon?
+115be51f87	{ThinkingB}{body-HandOnHipLeft}Muszę zadzwonić do Śnieżki.
+224ad2154f	{NormalA}{body-HandOnHipLeft}Muszę powiedzieć Śnieżce.{ThinkingB}{body-StandA} To tutaj!
+92b451afd2	{DoubtfulA}{body-StandA}Dzwoń do Biura Administracji! Powiedz Śnieżce, że jadę pod {NormalA}ten adres.
+5bd14eb3bc	[quick]Tam-- Tam jest telefon.
+40f7490e82	[quick]O, tam.
+cb882c4c9d	Mam komuś powiedzieć? Może pannie White?
+641d3a3de6	{ThinkingA}Niech się tam ze mną spotka.
+fc09269f89	[quick] Dzięki, Mucho.
+99727d4438	[through the phone] Biuro Administracji.
+e62045ec46	Bliźniacy zaproponowali mi tu pracę na nocną zmianę... żebym miał cokolwiek.
+ca906bd4a3	Płacą nieźle.
