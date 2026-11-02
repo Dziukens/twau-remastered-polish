@@ -6,3 +6,6 @@ output/Archives/
 
 __pycache__/
 *.pyc
+
+# Release packages (attached to GitHub Releases, not committed)
+release/
