@@ -16,11 +16,12 @@ Obejmuje wszystkie 5 odcinków, interfejs, dodatki i Księgę Baśni. Głosy zos
 - ekran **„Wybory graczy”** (statystyki decyzji)
 - **Księga Baśni** (encyklopedia postaci i miejsc)
 - usunięte sceny, opisy w galerii grafik
-- nagłówki napisów końcowych (nazwiska twórców bez zmian)
+- role w napisach końcowych (imiona i nazwiska twórców bez zmian)
 
 Razem ok. 25 000 linii (~97% unikalnych tekstów). Celowo zostały po angielsku: uwagi dla aktorów
 w nawiasach kwadratowych (np. `[sighs]`, gra ich nie wyświetla), teksty deweloperskie i testowe,
-oferty sklepów z wersji konsolowych oraz listy nazwisk w napisach końcowych.
+oferty sklepów z wersji konsolowych oraz imiona, nazwiska, nazwy firm i listy podziękowań
+w napisach końcowych.
 
 **Osiągnięcia nie są tłumaczone.** Ich nazwy i opisy (powiadomienia w nakładce Steam, lista
 w bibliotece) pobiera Steam ze swoich serwerów w językach ustawionych przez wydawcę — pliki gry
@@ -120,6 +121,7 @@ przerywają pracę zamiast cokolwiek tam zapisać. Projekt trzymaj poza folderem
 | `tools/ttarch2.py`, `landb.py`, `prop.py`, `font.py` | odczyt i zapis formatów Telltale |
 | `tools/polish_font.py`, `bcn.py` | dorysowywanie polskich liter w czcionkach (BC1/BC3) |
 | `tools/render_test.py` | podgląd czcionki: `render_test.py <plik.font> <wynik.png>` |
+| `tools/credits.py` | generuje `translations/165_credits.tsv` (słownik ról z napisów końcowych) |
 | `output/INSTALACJA.md` | instrukcja dołączana do paczki |
 
 ### Jak tłumaczyć

@@ -90,7 +90,8 @@ def check_text(key, en, pl, speaker, add):
         add('same', '')
 
     hits = EN_WORDS.findall(body_pl)
-    if len(hits) >= 2:
+    # the credits roll keeps names and thank-you lists ("The Watkins Family", "Jen and Noah") in English
+    if len(hits) >= 2 and en.count('\n') < 50:
         add('english', 'words: %s' % ', '.join(sorted(set(h.lower() for h in hits))))
 
     odd = sorted({c for c in pl if ord(c) > 127 and c not in POLISH and c not in en})

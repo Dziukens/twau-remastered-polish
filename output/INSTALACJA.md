@@ -51,10 +51,11 @@ wczytywane standardowym mechanizmem silnika (tym samym, którego używają oficj
 - usunięte sceny z dodatków (przesłuchanie u Kelsey, Śnieżka u władzy, rozszerzone zakończenie)
 - **Księga Baśni** (encyklopedia postaci i miejsc)
 - opisy usuniętych scen, podpisy w galerii grafik
-- nagłówki napisów końcowych i tytuły odcinków (nazwiska twórców bez zmian)
+- role w napisach końcowych i tytuły odcinków (imiona i nazwiska twórców bez zmian)
 
 Celowo zostawione po angielsku: opisy dźwięków i ruchów w nawiasach kwadratowych (np. `[sighs]`),
-notatki deweloperów, nieużywane teksty testowe i konsolowe oraz listy nazwisk w napisach.
+notatki deweloperów, nieużywane teksty testowe i konsolowe oraz imiona, nazwiska i listy podziękowań
+w napisach końcowych.
 Razem przetłumaczonych jest ok. 25 000 linii (~97% unikalnych tekstów).
 
 Osiągnięcia Steam (powiadomienia i lista w Steam) zostają po angielsku — ich teksty pochodzą
