@@ -1,4 +1,4 @@
-# Spolszczenie The Wolf Among Us Remastered — wersja 1.0
+# Spolszczenie The Wolf Among Us Remastered — wersja 1.1
 
 ## Instalacja (tylko ręczna, nic nie jest nadpisywane)
 
@@ -42,9 +42,9 @@ The Wolf Among Us Remastered to gra dla jednego gracza — nie ma tu serwerów V
 Patch niczego nie modyfikuje w plikach gry ani w pamięci procesu; to tylko dodatkowe pliki danych
 wczytywane standardowym mechanizmem silnika (tym samym, którego używają oficjalne języki).
 
-## Co jest przetłumaczone w wersji 1.0
+## Co jest przetłumaczone w wersji 1.1
 
-- interfejs: menu główne, pauza, ustawienia, zapisy, sterowanie
+- interfejs: menu główne, pauza, ustawienia, zapisy, sterowanie, informacja prawna przy wczytywaniu gry
 - ekran „Wybory graczy” (statystyki decyzji)
 - **wszystkie 5 odcinków**: „Faith”, „Dym i lustra”, „Kręta ścieżka”, „W owczej skórze”,
   „Nie taki wilk straszny” — dialogi, wybory, powiadomienia, przedmioty, lokacje, zapowiedzi

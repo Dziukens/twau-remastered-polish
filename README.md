@@ -4,7 +4,7 @@ Nieoficjalne, fanowskie tłumaczenie **The Wolf Among Us Remastered** (Steam, PC
 Obejmuje wszystkie 5 odcinków, interfejs, dodatki i Księgę Baśni. Głosy zostają oryginalne
 (angielskie) — tłumaczone są napisy i teksty.
 
-> **Status: wersja 1.0.** Całą grę przetestowano z tłumaczeniem od początku do końca.
+> **Status: wersja 1.1.** Całą grę przetestowano z tłumaczeniem od początku do końca (w wersji 1.0).
 > Błędy zgłaszaj w [Issues](../../issues) — najlepiej ze zrzutem ekranu.
 
 ## Co jest przetłumaczone
@@ -12,7 +12,7 @@ Obejmuje wszystkie 5 odcinków, interfejs, dodatki i Księgę Baśni. Głosy zos
 - **wszystkie 5 odcinków**: „Faith”, „Dym i lustra”, „Kręta ścieżka”, „W owczej skórze”,
   „Nie taki wilk straszny” — dialogi, wybory, powiadomienia („Śnieżka to zapamięta.”), przedmioty,
   lokacje, zapowiedzi „W następnym odcinku”
-- interfejs: menu główne, pauza, ustawienia, zapisy, sterowanie
+- interfejs: menu główne, pauza, ustawienia, zapisy, sterowanie, informacja prawna przy wczytywaniu gry
 - ekran **„Wybory graczy”** (statystyki decyzji)
 - **Księga Baśni** (encyklopedia postaci i miejsc)
 - usunięte sceny, opisy w galerii grafik
@@ -162,6 +162,11 @@ Przed wysłaniem zmian uruchom `build.py` i `validate.py` — kategorie `orphan`
   z mapami tekstów dla fr/en/de/es/it); podmieniane są wpisy angielskie.
 
 ## Historia zmian
+
+**1.1**
+- przetłumaczona informacja prawna wyświetlana podczas wczytywania gry
+- przetłumaczone role w napisach końcowych wszystkich odcinków (np. „SCENARIUSZ”, „REŻYSERIA”,
+  „GŁÓWNY ANIMATOR”, role postaci w obsadzie); imiona, nazwiska i nazwy firm bez zmian
 
 **1.0** — pierwsza publiczna wersja: wszystkie 5 odcinków, interfejs, ekran „Wybory graczy”,
 Księga Baśni, usunięte sceny i galeria; cała gra przetestowana z tłumaczeniem.
